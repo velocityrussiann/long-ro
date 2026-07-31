@@ -54,14 +54,19 @@ def upload_to_youtube():
             print(f"[youtube] Video not found: {video_path}")
             return False
 
-        title = meta["title"]
-        description = meta["description"]
+        title = meta.get("title", "").strip()
+        if not title:
+            title = f"Learn Romanian: {meta.get('category_english', 'Language')}"
+        # YouTube title max 100 chars - truncate if needed
+        if len(title) > 97:
+            title = title[:94] + "..."
+        description = meta.get("description", "")
         if len(description) > 4900:
-            description = description[:4900] + "\n\n#LearnSpanish #Spanish #LanguageLearning"
+            description = description[:4900] + "\n\n#LearnRomanian #Romanian #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
-        tags = meta["tags"]
+        tags = meta.get("tags", ["Learn Romanian", "Romanian Phrases"])
 
-        print(f"[youtube] Title: {title[:80]}...")
+        print(f"[youtube] Title: '{title[:80]}...' (len={len(title)})")
         print(f"[youtube] Video: {video_path}")
 
         youtube = get_authenticated_service()
