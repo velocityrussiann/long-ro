@@ -1,65 +1,32 @@
 import os, io, base64, random, requests
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "thumbnails"))
+from thumbnail_manager import get_thumbnail
 
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 SCENIC_STYLES = [
-    "stunning Romanian woman in flamenco dress, Barcelona, Sagrada Familia",
-    "elegant Romanian woman, Madrid street, Plaza Mayor, vibrant city",
-    "beautiful Romanian woman in traditional dress, Andalusia, white villages",
-    "Romanian woman at Alhambra palace, golden hour, Moorish architecture",
-    "gorgeous Romanian woman in modern style, sunset over Mediterranean, dramatic sky",
-    "beautiful Romanian woman, Seville, Alcázar gardens, warm light",
-    "Romanian woman dancing flamenco by Romanian coastline, passionate, zen",
-    "elegant Romanian woman in Barcelona, Park Güell, celebration",
+    "stunning Romanian woman in traditional dress, Bucharest, Palace of the Parliament",
+    "elegant Romanian woman, Transylvania, Bran Castle, vibrant landscape",
+    "beautiful Romanian woman in traditional ie blouse, Maramureș, wooden churches",
+    "Romanian woman at Sighișoara citadel, golden hour, medieval architecture",
+    "gorgeous Romanian woman in modern style, sunset over Carpathian Mountains",
+    "beautiful Romanian woman, Danube Delta, lush green nature, warm light",
+    "Romanian woman dancing hora by countryside, passionate, joyful",
+    "elegant Romanian woman in Bucharest, Herăstrău Park, celebration",
 ]
 
 
-def generate_scenic_image(category_english: str, category_Romanian: str, output_path: str):
-    if False and POLLINATIONS_API_KEY:  # disabled
-        for attempt in range(3):
-            style = random.choice(SCENIC_STYLES)
-            prompt = (
-                f"Professional YouTube thumbnail for Romanian language learning video. "
-                f"{style}. "
-                f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
-                f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 Romanian PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY Romanian'. Also: '10 MINUTE LESSON' badge."
-            )
-            try:
-                resp = requests.post("https://gen.pollinations.ai/v1/images/generations", json={
-                    "model": "gpt-image-2",
-                    "prompt": prompt,
-                    "n": 1,
-                    "size": "1792x1024",
-                }, headers={"Authorization": f"Bearer {POLLINATIONS_API_KEY}"}, timeout=120)
-                if resp.status_code == 200 and resp.json().get("data"):
-                    raw = base64.b64decode(resp.json()["data"][0]["b64_json"])
-                    if raw:
-                        from PIL import Image
-                        img = Image.open(io.BytesIO(raw)).convert("RGB")
-                        img = img.resize((1920, 1080), Image.LANCZOS)
-                        thumb_bytes = io.BytesIO()
-                        quality = 85
-                        img.save(thumb_bytes, format="JPEG", quality=quality)
-                        while thumb_bytes.tell() > 2097152 and quality > 10:
-                            quality -= 10
-                            thumb_bytes = io.BytesIO()
-                            img.save(thumb_bytes, format="JPEG", quality=quality)
-                        thumb_bytes.seek(0)
-                        Path(output_path).parent.mkdir(parents=True, exist_ok=True)
-                        with open(output_path, "wb") as f:
-                            f.write(thumb_bytes.read())
-                        print(f"[thumbnail] gpt-image-2 thumbnail saved")
-                        return output_path
-            except Exception as e:
-                print(f"[thumbnail] Attempt {attempt+1} failed ({str(e)[:60]}), retrying..." if attempt < 2 else f"[thumbnail] Fallback after {attempt+1} attempts")
-
-    from PIL import Image, ImageDraw, ImageFont
+def generate_scenic_image(category_english: str, category_romanian: str, output_path: str):
+    # Try pre-made thumbnail first
+    premade = get_thumbnail("Romanian", category_english)
+    if premade:
+        return premade
+    
     img = Image.new('RGB', (1920, 1080), (45, 35, 65))
     draw = ImageDraw.Draw(img)
 
@@ -90,7 +57,7 @@ def generate_scenic_image(category_english: str, category_Romanian: str, output_
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
-    draw.text((960, 180), "120 Romanian PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
+    draw.text((960, 180), "120 ROMANIAN PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
     cat_text = category_english
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
@@ -102,7 +69,7 @@ def generate_scenic_image(category_english: str, category_Romanian: str, output_
     draw.rounded_rectangle([(960 - 200, 580), (960 + 200, 670)], radius=15, fill=(0, 0, 0, 180))
     draw.text((960, 625), "10 MINUTE LESSON", fill=(255, 210, 0), font=f_sub, anchor="mm")
 
-    brand_text = "VELOCITY Romanian"
+    brand_text = "VELOCITY ROMANIAN"
     bb = draw.textbbox((0, 0), brand_text, font=f_brand)
     draw.text(((1920 - (bb[2] - bb[0])) // 2, 950), brand_text, fill=(200, 200, 200), font=f_brand)
 
@@ -119,3 +86,4 @@ def generate_scenic_image(category_english: str, category_Romanian: str, output_
         f.write(thumb_bytes.read())
     print(f"[thumbnail] Fallback thumbnail saved (AI unavailable)")
     return output_path
+
