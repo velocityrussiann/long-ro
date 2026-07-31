@@ -1263,7 +1263,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇪🇸 VELOCITY ROMANIAN - YOUTUBE LONG-FORM AUTOMATION 🇪🇸")
+    print("🇷🇴 VELOCITY ROMANIAN - YOUTUBE LONG-FORM AUTOMATION 🇷🇴")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
