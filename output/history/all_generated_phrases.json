@@ -11519,7 +11519,439 @@
       "romanian": "Lumea mea, e mai bună cu tine.",
       "category": "Love",
       "generated_at": "2026-08-01T04:23:21.914087"
+    },
+    {
+      "english": "Sunshine follows, you everywhere.",
+      "romanian": "Soarele te urmează, peste tot.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405660"
+    },
+    {
+      "english": "Kindness blooms, in your actions.",
+      "romanian": "Bunătatea înflorește, în faptele tale.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405671"
+    },
+    {
+      "english": "Your ideas, are pure gold.",
+      "romanian": "Ideile tale, sunt aur pur.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405672"
+    },
+    {
+      "english": "You have, a magnetic energy.",
+      "romanian": "Ai, o energie magnetică.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405674"
+    },
+    {
+      "english": "Good things happen, when you're near.",
+      "romanian": "Lucruri bune se întâmplă, când ești aproape.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405675"
+    },
+    {
+      "english": "Your spirit, shines so bright.",
+      "romanian": "Sufletul tău, strălucește atât de tare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405677"
+    },
+    {
+      "english": "You make the ordinary, extraordinary.",
+      "romanian": "Faci obișnuitul, extraordinar.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405678"
+    },
+    {
+      "english": "A great day, starts with you.",
+      "romanian": "O zi grozavă, începe cu tine.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405681"
+    },
+    {
+      "english": "You're a breath, of fresh air.",
+      "romanian": "Ești o gură, de aer proaspăt.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405683"
+    },
+    {
+      "english": "You inspire, many people.",
+      "romanian": "Inspiri, mulți oameni.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405684"
+    },
+    {
+      "english": "You have, a radiant smile.",
+      "romanian": "Ai, un zâmbet radiant.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405685"
+    },
+    {
+      "english": "Your advice, is very wise.",
+      "romanian": "Sfatul tău, este foarte înțelept.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405686"
+    },
+    {
+      "english": "You make the world, a better place.",
+      "romanian": "Faci lumea, un loc mai bun.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405687"
+    },
+    {
+      "english": "Your laughter, is contagious.",
+      "romanian": "Râsul tău, este molipsitor.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405689"
+    },
+    {
+      "english": "You possess, a unique charm.",
+      "romanian": "Posezi, un farmec unic.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405690"
+    },
+    {
+      "english": "Good energy, surrounds you.",
+      "romanian": "Energia bună, te înconjoară.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405691"
+    },
+    {
+      "english": "You brighten, any room.",
+      "romanian": "Iluminezi, orice încăpere.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405692"
+    },
+    {
+      "english": "Your positive outlook, is inspiring.",
+      "romanian": "Perspectiva ta pozitivă, e inspirațională.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405693"
+    },
+    {
+      "english": "You have, a kind of magic.",
+      "romanian": "Ai, un fel de magie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405695"
+    },
+    {
+      "english": "Joy follows, in your footsteps.",
+      "romanian": "Bucuria urmează, pașii tăi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405696"
+    },
+    {
+      "english": "You make dreams, feel real.",
+      "romanian": "Faci visele, să pară reale.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405697"
+    },
+    {
+      "english": "Your presence, is uplifting.",
+      "romanian": "Prezența ta, este înălțătoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405698"
+    },
+    {
+      "english": "You radiate, positive vibes.",
+      "romanian": "Radiezi, vibrații pozitive.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405699"
+    },
+    {
+      "english": "You make things, feel easy.",
+      "romanian": "Faci lucrurile, să pară ușoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405700"
+    },
+    {
+      "english": "Your spirit, is a true light.",
+      "romanian": "Sufletul tău, este o adevărată lumină.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405701"
+    },
+    {
+      "english": "You bring, good luck.",
+      "romanian": "Aduci, noroc bun.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405702"
+    },
+    {
+      "english": "Your kindness, is a superpower.",
+      "romanian": "Bunătatea ta, e o superputere.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405703"
+    },
+    {
+      "english": "You make challenges, seem small.",
+      "romanian": "Faci provocările, să pară mici.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405705"
+    },
+    {
+      "english": "You have, an amazing aura.",
+      "romanian": "Ai, o aură uimitoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405706"
+    },
+    {
+      "english": "Your optimism, is contagious.",
+      "romanian": "Optimismul tău, e molipsitor.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405707"
+    },
+    {
+      "english": "You make life, feel lighter.",
+      "romanian": "Faci viața, să pară mai ușoară.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405708"
+    },
+    {
+      "english": "You have, a special spark.",
+      "romanian": "Ai, o scânteie specială.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405709"
+    },
+    {
+      "english": "You make the world, a warmer place.",
+      "romanian": "Faci lumea, un loc mai cald.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405710"
+    },
+    {
+      "english": "Your energy, is infectious.",
+      "romanian": "Energia ta, e contagioasă.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405715"
+    },
+    {
+      "english": "You bring, sunshine in life.",
+      "romanian": "Aduci, soare în viață.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405716"
+    },
+    {
+      "english": "You have, a wonderful vibe.",
+      "romanian": "Ai, o vibrație minunată.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405717"
+    },
+    {
+      "english": "Sunshine follows, you everywhere.",
+      "romanian": "Soarele te urmează, peste tot.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405719"
+    },
+    {
+      "english": "Kindness blooms, in your actions.",
+      "romanian": "Bunătatea înflorește, în faptele tale.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405720"
+    },
+    {
+      "english": "Your ideas, are pure gold.",
+      "romanian": "Ideile tale, sunt aur pur.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405721"
+    },
+    {
+      "english": "You have, a magnetic energy.",
+      "romanian": "Ai, o energie magnetică.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405722"
+    },
+    {
+      "english": "Good things happen, when you're near.",
+      "romanian": "Lucruri bune se întâmplă, când ești aproape.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405723"
+    },
+    {
+      "english": "Your spirit, shines so bright.",
+      "romanian": "Sufletul tău, strălucește atât de tare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405724"
+    },
+    {
+      "english": "You make the ordinary, extraordinary.",
+      "romanian": "Faci obișnuitul, extraordinar.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405726"
+    },
+    {
+      "english": "A great day, starts with you.",
+      "romanian": "O zi grozavă, începe cu tine.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405727"
+    },
+    {
+      "english": "You're a breath, of fresh air.",
+      "romanian": "Ești o gură, de aer proaspăt.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405749"
+    },
+    {
+      "english": "You inspire, many people.",
+      "romanian": "Inspiri, mulți oameni.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405750"
+    },
+    {
+      "english": "You have, a radiant smile.",
+      "romanian": "Ai, un zâmbet radiant.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405752"
+    },
+    {
+      "english": "Your advice, is very wise.",
+      "romanian": "Sfatul tău, este foarte înțelept.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405753"
+    },
+    {
+      "english": "You make the world, a better place.",
+      "romanian": "Faci lumea, un loc mai bun.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405754"
+    },
+    {
+      "english": "Your laughter, is contagious.",
+      "romanian": "Râsul tău, este molipsitor.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405755"
+    },
+    {
+      "english": "You possess, a unique charm.",
+      "romanian": "Posezi, un farmec unic.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405756"
+    },
+    {
+      "english": "Good energy, surrounds you.",
+      "romanian": "Energia bună, te înconjoară.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405758"
+    },
+    {
+      "english": "You brighten, any room.",
+      "romanian": "Iluminezi, orice încăpere.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405759"
+    },
+    {
+      "english": "Your positive outlook, is inspiring.",
+      "romanian": "Perspectiva ta pozitivă, e inspirațională.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405760"
+    },
+    {
+      "english": "You have, a kind of magic.",
+      "romanian": "Ai, un fel de magie.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405761"
+    },
+    {
+      "english": "Joy follows, in your footsteps.",
+      "romanian": "Bucuria urmează, pașii tăi.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405762"
+    },
+    {
+      "english": "You make dreams, feel real.",
+      "romanian": "Faci visele, să pară reale.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405763"
+    },
+    {
+      "english": "Your presence, is uplifting.",
+      "romanian": "Prezența ta, este înălțătoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405765"
+    },
+    {
+      "english": "You radiate, positive vibes.",
+      "romanian": "Radiezi, vibrații pozitive.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405766"
+    },
+    {
+      "english": "You make things, feel easy.",
+      "romanian": "Faci lucrurile, să pară ușoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405767"
+    },
+    {
+      "english": "Your spirit, is a true light.",
+      "romanian": "Sufletul tău, este o adevărată lumină.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405768"
+    },
+    {
+      "english": "You bring, good luck.",
+      "romanian": "Aduci, noroc bun.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405769"
+    },
+    {
+      "english": "Your kindness, is a superpower.",
+      "romanian": "Bunătatea ta, e o superputere.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405770"
+    },
+    {
+      "english": "You make challenges, seem small.",
+      "romanian": "Faci provocările, să pară mici.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405771"
+    },
+    {
+      "english": "You have, an amazing aura.",
+      "romanian": "Ai, o aură uimitoare.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405775"
+    },
+    {
+      "english": "Your optimism, is contagious.",
+      "romanian": "Optimismul tău, e molipsitor.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405776"
+    },
+    {
+      "english": "You make life, feel lighter.",
+      "romanian": "Faci viața, să pară mai ușoară.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405777"
+    },
+    {
+      "english": "You have, a special spark.",
+      "romanian": "Ai, o scânteie specială.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405778"
+    },
+    {
+      "english": "You make the world, a warmer place.",
+      "romanian": "Faci lumea, un loc mai cald.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405779"
+    },
+    {
+      "english": "Your energy, is infectious.",
+      "romanian": "Energia ta, e contagioasă.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405781"
+    },
+    {
+      "english": "You bring, sunshine in life.",
+      "romanian": "Aduci, soare în viață.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405782"
+    },
+    {
+      "english": "You have, a wonderful vibe.",
+      "romanian": "Ai, o vibrație minunată.",
+      "category": "Positive Life",
+      "generated_at": "2026-08-02T05:07:57.405783"
     }
   ],
-  "last_updated": "2026-08-01T04:23:21.914088"
+  "last_updated": "2026-08-02T05:07:57.405785"
 }
