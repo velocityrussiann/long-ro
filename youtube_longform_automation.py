@@ -257,6 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. Romanian translation
 3. Pronunciation guide (phonetic spelling for English speakers)
+CRITICAL: Every translation MUST be in Romanian. NEVER use German, Spanish, or any other language. Only Romanian.
 
 Return as JSON array:
 [{{"english": "...", "romanian": "...", "pronunciation": "..."}}]
