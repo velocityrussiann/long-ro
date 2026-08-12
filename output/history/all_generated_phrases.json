@@ -18431,7 +18431,727 @@
       "romanian": "Blândețea, învinge.",
       "category": "Forgiveness",
       "generated_at": "2026-08-11T03:05:20.641479"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "romanian": "Ține-te tare, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105833"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "romanian": "Nu renunța, niciodată.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105844"
+    },
+    {
+      "english": "Try again, smarter.",
+      "romanian": "Încearcă din nou, mai deștept.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105846"
+    },
+    {
+      "english": "Keep your eye, on the prize.",
+      "romanian": "Ține ochiul, pe premiu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105847"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "romanian": "Ține bărbia, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105848"
+    },
+    {
+      "english": "Just keep going, friend.",
+      "romanian": "Continuă doar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105849"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "romanian": "Nu te opri, din crezut.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105851"
+    },
+    {
+      "english": "Every effort, counts.",
+      "romanian": "Fiecare efort, contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105854"
+    },
+    {
+      "english": "You're almost there.",
+      "romanian": "Aproape ai ajuns.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105855"
+    },
+    {
+      "english": "Just a little more.",
+      "romanian": "Încă puțin.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105857"
+    },
+    {
+      "english": "Keep the faith, going.",
+      "romanian": "Păstrează credința, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105858"
+    },
+    {
+      "english": "Success is coming, soon.",
+      "romanian": "Succesul vine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105859"
+    },
+    {
+      "english": "Never say never.",
+      "romanian": "Nu zice niciodată, nu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105860"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "romanian": "Ține-ți spiritul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105861"
+    },
+    {
+      "english": "You got this, no doubt.",
+      "romanian": "Poți asta, fără îndoială.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105862"
+    },
+    {
+      "english": "Keep moving, onward.",
+      "romanian": "Continuă mișcarea, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105864"
+    },
+    {
+      "english": "One more try, okay?",
+      "romanian": "Încă o încercare, da?",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105865"
+    },
+    {
+      "english": "Don't let it, break you.",
+      "romanian": "Nu lăsa asta, să te doboare.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105866"
+    },
+    {
+      "english": "You're doing great, really.",
+      "romanian": "Ești grozav, pe bune.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105867"
+    },
+    {
+      "english": "Just breathe, and continue.",
+      "romanian": "Respiră, și continuă.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105868"
+    },
+    {
+      "english": "Keep hope, alive.",
+      "romanian": "Păstrează speranța, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105868"
+    },
+    {
+      "english": "This is temporary, friend.",
+      "romanian": "Asta e temporar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105869"
+    },
+    {
+      "english": "Hang in there, strong.",
+      "romanian": "Rezistă, puternic.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105870"
+    },
+    {
+      "english": "It will get better, soon.",
+      "romanian": "Va fi mai bine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105871"
+    },
+    {
+      "english": "Your efforts matter, a lot.",
+      "romanian": "Eforturile tale contează, mult.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105872"
+    },
+    {
+      "english": "Don't give in, now.",
+      "romanian": "Nu ceda, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105873"
+    },
+    {
+      "english": "Keep believing, in your path.",
+      "romanian": "Crede în continuare, în drumul tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105875"
+    },
+    {
+      "english": "Almost to the finish.",
+      "romanian": "Aproape la final.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105876"
+    },
+    {
+      "english": "Don't quit, now.",
+      "romanian": "Nu renunța, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105877"
+    },
+    {
+      "english": "You're almost, there.",
+      "romanian": "Ești aproape, acolo.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105878"
+    },
+    {
+      "english": "Keep going, friend.",
+      "romanian": "Continuă, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105879"
+    },
+    {
+      "english": "One more effort, please.",
+      "romanian": "Încă un efort, te rog.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105880"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "romanian": "Ține-te tare, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105881"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "romanian": "Nu renunța, niciodată.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105882"
+    },
+    {
+      "english": "Try again, smarter.",
+      "romanian": "Încearcă din nou, mai deștept.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105883"
+    },
+    {
+      "english": "Keep your eye, on the prize.",
+      "romanian": "Ține ochiul, pe premiu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105884"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "romanian": "Ține bărbia, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105885"
+    },
+    {
+      "english": "Just keep going, friend.",
+      "romanian": "Continuă doar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105887"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "romanian": "Nu te opri, din crezut.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105888"
+    },
+    {
+      "english": "Every effort, counts.",
+      "romanian": "Fiecare efort, contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105889"
+    },
+    {
+      "english": "You're almost there.",
+      "romanian": "Aproape ai ajuns.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105890"
+    },
+    {
+      "english": "Just a little more.",
+      "romanian": "Încă puțin.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105891"
+    },
+    {
+      "english": "Keep the faith, going.",
+      "romanian": "Păstrează credința, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105892"
+    },
+    {
+      "english": "Success is coming, soon.",
+      "romanian": "Succesul vine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105893"
+    },
+    {
+      "english": "Never say never.",
+      "romanian": "Nu zice niciodată, nu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105894"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "romanian": "Ține-ți spiritul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105895"
+    },
+    {
+      "english": "You got this, no doubt.",
+      "romanian": "Poți asta, fără îndoială.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105896"
+    },
+    {
+      "english": "Keep moving, onward.",
+      "romanian": "Continuă mișcarea, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105898"
+    },
+    {
+      "english": "One more try, okay?",
+      "romanian": "Încă o încercare, da?",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105899"
+    },
+    {
+      "english": "Don't let it, break you.",
+      "romanian": "Nu lăsa asta, să te doboare.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105900"
+    },
+    {
+      "english": "You're doing great, really.",
+      "romanian": "Ești grozav, pe bune.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105901"
+    },
+    {
+      "english": "Just breathe, and continue.",
+      "romanian": "Respiră, și continuă.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105902"
+    },
+    {
+      "english": "Keep hope, alive.",
+      "romanian": "Păstrează speranța, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105903"
+    },
+    {
+      "english": "This is temporary, friend.",
+      "romanian": "Asta e temporar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105904"
+    },
+    {
+      "english": "Hang in there, strong.",
+      "romanian": "Rezistă, puternic.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105905"
+    },
+    {
+      "english": "It will get better, soon.",
+      "romanian": "Va fi mai bine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105906"
+    },
+    {
+      "english": "Your efforts matter, a lot.",
+      "romanian": "Eforturile tale contează, mult.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105907"
+    },
+    {
+      "english": "Don't give in, now.",
+      "romanian": "Nu ceda, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105908"
+    },
+    {
+      "english": "Keep believing, in your path.",
+      "romanian": "Crede în continuare, în drumul tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105909"
+    },
+    {
+      "english": "Almost to the finish.",
+      "romanian": "Aproape la final.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105910"
+    },
+    {
+      "english": "Don't quit, now.",
+      "romanian": "Nu renunța, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105911"
+    },
+    {
+      "english": "You're almost, there.",
+      "romanian": "Ești aproape, acolo.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105912"
+    },
+    {
+      "english": "Keep going, friend.",
+      "romanian": "Continuă, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105914"
+    },
+    {
+      "english": "One more effort, please.",
+      "romanian": "Încă un efort, te rog.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105915"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "romanian": "Ține-te tare, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105916"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "romanian": "Nu renunța, niciodată.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105917"
+    },
+    {
+      "english": "Try again, smarter.",
+      "romanian": "Încearcă din nou, mai deștept.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105918"
+    },
+    {
+      "english": "Keep your eye, on the prize.",
+      "romanian": "Ține ochiul, pe premiu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105919"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "romanian": "Ține bărbia, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105920"
+    },
+    {
+      "english": "Just keep going, friend.",
+      "romanian": "Continuă doar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105921"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "romanian": "Nu te opri, din crezut.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105922"
+    },
+    {
+      "english": "Every effort, counts.",
+      "romanian": "Fiecare efort, contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105923"
+    },
+    {
+      "english": "You're almost there.",
+      "romanian": "Aproape ai ajuns.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105924"
+    },
+    {
+      "english": "Just a little more.",
+      "romanian": "Încă puțin.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105925"
+    },
+    {
+      "english": "Keep the faith, going.",
+      "romanian": "Păstrează credința, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105927"
+    },
+    {
+      "english": "Success is coming, soon.",
+      "romanian": "Succesul vine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105928"
+    },
+    {
+      "english": "Never say never.",
+      "romanian": "Nu zice niciodată, nu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105929"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "romanian": "Ține-ți spiritul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105930"
+    },
+    {
+      "english": "You got this, no doubt.",
+      "romanian": "Poți asta, fără îndoială.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105931"
+    },
+    {
+      "english": "Keep moving, onward.",
+      "romanian": "Continuă mișcarea, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105935"
+    },
+    {
+      "english": "One more try, okay?",
+      "romanian": "Încă o încercare, da?",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105936"
+    },
+    {
+      "english": "Don't let it, break you.",
+      "romanian": "Nu lăsa asta, să te doboare.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105937"
+    },
+    {
+      "english": "You're doing great, really.",
+      "romanian": "Ești grozav, pe bune.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105938"
+    },
+    {
+      "english": "Just breathe, and continue.",
+      "romanian": "Respiră, și continuă.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105939"
+    },
+    {
+      "english": "Keep hope, alive.",
+      "romanian": "Păstrează speranța, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105940"
+    },
+    {
+      "english": "This is temporary, friend.",
+      "romanian": "Asta e temporar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105941"
+    },
+    {
+      "english": "Hang in there, strong.",
+      "romanian": "Rezistă, puternic.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105942"
+    },
+    {
+      "english": "It will get better, soon.",
+      "romanian": "Va fi mai bine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105943"
+    },
+    {
+      "english": "Your efforts matter, a lot.",
+      "romanian": "Eforturile tale contează, mult.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105944"
+    },
+    {
+      "english": "Don't give in, now.",
+      "romanian": "Nu ceda, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105945"
+    },
+    {
+      "english": "Keep believing, in your path.",
+      "romanian": "Crede în continuare, în drumul tău.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105946"
+    },
+    {
+      "english": "Almost to the finish.",
+      "romanian": "Aproape la final.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105947"
+    },
+    {
+      "english": "Don't quit, now.",
+      "romanian": "Nu renunța, acum.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105948"
+    },
+    {
+      "english": "You're almost, there.",
+      "romanian": "Ești aproape, acolo.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105949"
+    },
+    {
+      "english": "Keep going, friend.",
+      "romanian": "Continuă, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105951"
+    },
+    {
+      "english": "One more effort, please.",
+      "romanian": "Încă un efort, te rog.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105952"
+    },
+    {
+      "english": "Keep pushing, forward.",
+      "romanian": "Ține-te tare, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105953"
+    },
+    {
+      "english": "Don't give up, ever.",
+      "romanian": "Nu renunța, niciodată.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105954"
+    },
+    {
+      "english": "Try again, smarter.",
+      "romanian": "Încearcă din nou, mai deștept.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105955"
+    },
+    {
+      "english": "Keep your eye, on the prize.",
+      "romanian": "Ține ochiul, pe premiu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105956"
+    },
+    {
+      "english": "Keep your chin, up.",
+      "romanian": "Ține bărbia, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105957"
+    },
+    {
+      "english": "Just keep going, friend.",
+      "romanian": "Continuă doar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105958"
+    },
+    {
+      "english": "Don't stop, believing.",
+      "romanian": "Nu te opri, din crezut.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105959"
+    },
+    {
+      "english": "Every effort, counts.",
+      "romanian": "Fiecare efort, contează.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105961"
+    },
+    {
+      "english": "You're almost there.",
+      "romanian": "Aproape ai ajuns.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105962"
+    },
+    {
+      "english": "Just a little more.",
+      "romanian": "Încă puțin.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105965"
+    },
+    {
+      "english": "Keep the faith, going.",
+      "romanian": "Păstrează credința, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105966"
+    },
+    {
+      "english": "Success is coming, soon.",
+      "romanian": "Succesul vine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105967"
+    },
+    {
+      "english": "Never say never.",
+      "romanian": "Nu zice niciodată, nu.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105968"
+    },
+    {
+      "english": "Keep your spirit, high.",
+      "romanian": "Ține-ți spiritul, sus.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105969"
+    },
+    {
+      "english": "You got this, no doubt.",
+      "romanian": "Poți asta, fără îndoială.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105971"
+    },
+    {
+      "english": "Keep moving, onward.",
+      "romanian": "Continuă mișcarea, înainte.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105972"
+    },
+    {
+      "english": "One more try, okay?",
+      "romanian": "Încă o încercare, da?",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105973"
+    },
+    {
+      "english": "Don't let it, break you.",
+      "romanian": "Nu lăsa asta, să te doboare.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105975"
+    },
+    {
+      "english": "You're doing great, really.",
+      "romanian": "Ești grozav, pe bune.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105975"
+    },
+    {
+      "english": "Just breathe, and continue.",
+      "romanian": "Respiră, și continuă.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105977"
+    },
+    {
+      "english": "Keep hope, alive.",
+      "romanian": "Păstrează speranța, vie.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105978"
+    },
+    {
+      "english": "This is temporary, friend.",
+      "romanian": "Asta e temporar, prietene.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105979"
+    },
+    {
+      "english": "Hang in there, strong.",
+      "romanian": "Rezistă, puternic.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105980"
+    },
+    {
+      "english": "It will get better, soon.",
+      "romanian": "Va fi mai bine, curând.",
+      "category": "Perseverance",
+      "generated_at": "2026-08-12T03:24:22.105981"
     }
   ],
-  "last_updated": "2026-08-11T03:05:20.641481"
+  "last_updated": "2026-08-12T03:24:22.105983"
 }
