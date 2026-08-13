@@ -150,7 +150,11 @@ def upload_to_youtube():
             title = title[:94] + "..."
         description = meta.get("description", "")
         if len(description) > 4900:
-            description = description[:4900] + "\n\n#LearnRomanian #Romanian #LanguageLearning"
+            description = description[:4900]
+            cut = description.rfind("\n\n")
+            if cut > 3000:
+                description = description[:cut]
+            description += "\n\n#LearnRomanian #Romanian #LanguageLearning"
             print(f"[youtube] Description truncated to {len(description)} chars")
         tags = meta.get("tags", ["Learn Romanian", "Romanian Phrases"])
 
