@@ -20423,7 +20423,283 @@
       "romanian": "Acțiunile tale, inspiră pe alții.",
       "category": "Kindness",
       "generated_at": "2026-08-16T02:22:28.335436"
+    },
+    {
+      "english": "Say 'yes', when you mean it.",
+      "romanian": "Spune 'da', când chiar vrei.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091393"
+    },
+    {
+      "english": "Don't be shy, to ask.",
+      "romanian": "Nu te rușina, să întrebi.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091405"
+    },
+    {
+      "english": "Learn from, your mistakes.",
+      "romanian": "Învață din, greșelile tale.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091408"
+    },
+    {
+      "english": "Be brave, try something new.",
+      "romanian": "Fii curajos, încearcă ceva nou.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091410"
+    },
+    {
+      "english": "Think before, you speak.",
+      "romanian": "Gândește înainte, să vorbești.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091411"
+    },
+    {
+      "english": "Focus on, the good things.",
+      "romanian": "Concentrează-te pe, lucrurile bune.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091413"
+    },
+    {
+      "english": "Keep going, stay positive.",
+      "romanian": "Mergi înainte, rămâi pozitiv.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091414"
+    },
+    {
+      "english": "It's okay, to not know.",
+      "romanian": "E în regulă, să nu știi.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091418"
+    },
+    {
+      "english": "Ask for help, it's strong.",
+      "romanian": "Cere ajutor, e o putere.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091420"
+    },
+    {
+      "english": "Your effort, counts a lot.",
+      "romanian": "Efortul tău, contează mult.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091421"
+    },
+    {
+      "english": "Celebrate small, wins daily.",
+      "romanian": "Sărbătorește micile, victorii zilnic.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091423"
+    },
+    {
+      "english": "Be open, to new ideas.",
+      "romanian": "Fii deschis, la idei noi.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091424"
+    },
+    {
+      "english": "Mistakes are, lessons learned.",
+      "romanian": "Greșelile sunt, lecții învățate.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091426"
+    },
+    {
+      "english": "Keep learning, every day.",
+      "romanian": "Continuă să înveți, zilnic.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091427"
+    },
+    {
+      "english": "Believe in, your own path.",
+      "romanian": "Crede în, propriul tău drum.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091429"
+    },
+    {
+      "english": "It's never, too late.",
+      "romanian": "Nu e niciodată, prea târziu.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091430"
+    },
+    {
+      "english": "Every step, counts forward.",
+      "romanian": "Fiecare pas, contează înainte.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091432"
+    },
+    {
+      "english": "Don't compare, your journey.",
+      "romanian": "Nu compara, călătoria ta.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091433"
+    },
+    {
+      "english": "Your potential, is huge.",
+      "romanian": "Potențialul tău, e uriaș.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091434"
+    },
+    {
+      "english": "Take small, steps often.",
+      "romanian": "Fă pași mici, des.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091436"
+    },
+    {
+      "english": "Be willing, to adapt.",
+      "romanian": "Fii dispus, să te adaptezi.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091437"
+    },
+    {
+      "english": "Grow through, challenges faced.",
+      "romanian": "Crește prin, provocările întâlnite.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091438"
+    },
+    {
+      "english": "Embrace the, process fully.",
+      "romanian": "Îmbrățișează, procesul complet.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091440"
+    },
+    {
+      "english": "Don't fear, the unknown.",
+      "romanian": "Nu te teme, de necunoscut.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091441"
+    },
+    {
+      "english": "Seek knowledge, constantly.",
+      "romanian": "Caută cunoaștere, constant.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091442"
+    },
+    {
+      "english": "Be curious, ask 'why'.",
+      "romanian": "Fii curios, întreabă 'de ce'.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091443"
+    },
+    {
+      "english": "Push your, own limits.",
+      "romanian": "Împinge-ți, propriile limite.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091444"
+    },
+    {
+      "english": "Embrace change, as growth.",
+      "romanian": "Îmbrățișează schimbarea, ca pe creștere.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091446"
+    },
+    {
+      "english": "Never stop, evolving.",
+      "romanian": "Nu te opri, niciodată din evoluție.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091447"
+    },
+    {
+      "english": "You are a, work in progress.",
+      "romanian": "Ești o operă, în continuă creație.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091448"
+    },
+    {
+      "english": "Grow stronger, with practice.",
+      "romanian": "Devino mai puternic, prin exercițiu.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091449"
+    },
+    {
+      "english": "Think big, act now.",
+      "romanian": "Gândește mare, acționează acum.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091495"
+    },
+    {
+      "english": "Learn a lot, teach more.",
+      "romanian": "Învață mult, predă mai mult.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091497"
+    },
+    {
+      "english": "Try again, don't quit.",
+      "romanian": "Încearcă din nou, nu renunța.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091499"
+    },
+    {
+      "english": "Listen well, speak wisely.",
+      "romanian": "Ascultă bine, vorbește înțelept.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091500"
+    },
+    {
+      "english": "Work hard, play fair.",
+      "romanian": "Lucrează mult, joacă corect.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091501"
+    },
+    {
+      "english": "Be brave, stay strong.",
+      "romanian": "Fii curajos, rămâi puternic.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091503"
+    },
+    {
+      "english": "See progress, not problems.",
+      "romanian": "Vezi progres, nu probleme.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091504"
+    },
+    {
+      "english": "Question everything, learn always.",
+      "romanian": "Întreabă tot, învață mereu.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091505"
+    },
+    {
+      "english": "Make a plan, follow it.",
+      "romanian": "Fă un plan, urmează-l.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091507"
+    },
+    {
+      "english": "Help others, grow yourself.",
+      "romanian": "Ajută-i pe alții, crește-te.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091508"
+    },
+    {
+      "english": "Stay focused, achieve more.",
+      "romanian": "Rămâi concentrat, realizează mai mult.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091509"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "romanian": "Construiește punți, nu ziduri.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091511"
+    },
+    {
+      "english": "Seek knowledge, find truth.",
+      "romanian": "Caută cunoaștere, găsește adevăr.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091512"
+    },
+    {
+      "english": "Take risks, gain rewards.",
+      "romanian": "Risca, câștigă recompense.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091513"
+    },
+    {
+      "english": "Embrace change, adapt fast.",
+      "romanian": "Îmbrățișează schimbarea, adaptează-te rapid.",
+      "category": "Growth",
+      "generated_at": "2026-08-17T02:21:18.091514"
     }
   ],
-  "last_updated": "2026-08-16T02:22:28.335467"
+  "last_updated": "2026-08-17T02:21:18.091517"
 }
