@@ -21119,7 +21119,241 @@
       "romanian": "Oferă bunătate, necondiționat.",
       "category": "Kindness",
       "generated_at": "2026-08-19T02:31:04.045443"
+    },
+    {
+      "english": "Curiosity unlocks, every new door.",
+      "romanian": "Curiozitatea deschide, orice ușă nouă.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087686"
+    },
+    {
+      "english": "Patience wins, the longest race.",
+      "romanian": "Răbdarea câștigă, cel mai lung concurs.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087701"
+    },
+    {
+      "english": "Small steps, build big futures.",
+      "romanian": "Pași mici, construiesc viitoruri mari.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087703"
+    },
+    {
+      "english": "Listen more, speak less often.",
+      "romanian": "Ascultă mai mult, vorbește mai rar.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087704"
+    },
+    {
+      "english": "Action sparks, great change.",
+      "romanian": "Acțiunea aprinde, schimbarea mare.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087706"
+    },
+    {
+      "english": "Learn daily, grow always.",
+      "romanian": "Învață zilnic, crește mereu.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087707"
+    },
+    {
+      "english": "Kindness echoes, through life.",
+      "romanian": "Bunătatea reverberează, prin viață.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087708"
+    },
+    {
+      "english": "Courage shines, in dark times.",
+      "romanian": "Curajul strălucește, în timpuri grele.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087713"
+    },
+    {
+      "english": "Honesty builds, lasting trust.",
+      "romanian": "Sinceritatea construiește, încredere durabilă.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087715"
+    },
+    {
+      "english": "Gratitude opens, the heart's door.",
+      "romanian": "Recunoștința deschide, ușa inimii.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087717"
+    },
+    {
+      "english": "Humor heals, many wounds.",
+      "romanian": "Umorul vindecă, multe răni.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087718"
+    },
+    {
+      "english": "Silence speaks, volumes sometimes.",
+      "romanian": "Tăcerea vorbește, mult uneori.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087720"
+    },
+    {
+      "english": "Generosity returns, multiplied.",
+      "romanian": "Generozitatea se întoarce, înmulțită.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087721"
+    },
+    {
+      "english": "Focus sharpens, every goal.",
+      "romanian": "Concentrarea ascute, fiecare scop.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087722"
+    },
+    {
+      "english": "Creativity flows, with freedom.",
+      "romanian": "Creativitatea curge, cu libertate.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087724"
+    },
+    {
+      "english": "Persistence overcomes, all obstacles.",
+      "romanian": "Perseverența depășește, toate obstacolele.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087725"
+    },
+    {
+      "english": "Simplicity reveals, true beauty.",
+      "romanian": "Simplitatea dezvăluie, adevărata frumusețe.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087727"
+    },
+    {
+      "english": "Courage grows, with each try.",
+      "romanian": "Curajul crește, cu fiecare încercare.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087728"
+    },
+    {
+      "english": "Adaptability thrives, in change.",
+      "romanian": "Adaptabilitatea prosperă, în schimbare.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087729"
+    },
+    {
+      "english": "Resilience bounces, back stronger.",
+      "romanian": "Rezistența revine, mai puternică.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087730"
+    },
+    {
+      "english": "Observation sees, what others miss.",
+      "romanian": "Observația vede, ce alții omit.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087731"
+    },
+    {
+      "english": "Reflection clarifies, the mind.",
+      "romanian": "Reflecția clarifică, mintea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087732"
+    },
+    {
+      "english": "Surprise adds, magic to days.",
+      "romanian": "Surpriza adaugă, magie zilelor.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087734"
+    },
+    {
+      "english": "Gratitude makes, the ordinary, special.",
+      "romanian": "Recunoștința face, obișnuitul, special.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087735"
+    },
+    {
+      "english": "Kindness costs, nothing, gives much.",
+      "romanian": "Bunătatea costă, nimic, dă mult.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087736"
+    },
+    {
+      "english": "Imagination paints, the world.",
+      "romanian": "Imaginația pictează, lumea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087737"
+    },
+    {
+      "english": "Humility listens, to wisdom.",
+      "romanian": "Urmilința ascultă, la înțelepciune.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087738"
+    },
+    {
+      "english": "Playfulness refreshes, the spirit.",
+      "romanian": "Jucăușenia reîmprospătează, spiritul.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087739"
+    },
+    {
+      "english": "Enthusiasm ignites, passion.",
+      "romanian": "Entuziasmul aprinde, pasiunea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087740"
+    },
+    {
+      "english": "Openness welcomes, new ideas.",
+      "romanian": "Deschiderea primește, idei noi.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087741"
+    },
+    {
+      "english": "Vulnerability connects, deeply.",
+      "romanian": "Vulnerabilitatea conectează, profund.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087742"
+    },
+    {
+      "english": "Serendipity finds, forgotten treasures.",
+      "romanian": "Serendipitatea găsește, comori uitate.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087743"
+    },
+    {
+      "english": "Focus narrows, the world.",
+      "romanian": "Concentrarea îngustează, lumea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087745"
+    },
+    {
+      "english": "Simplicity simplifies, complexity.",
+      "romanian": "Simplitatea simplifică, complexitatea.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087746"
+    },
+    {
+      "english": "Adventure calls, to explore.",
+      "romanian": "Aventura cheamă, spre explorare.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087747"
+    },
+    {
+      "english": "Patience nurtures, growth slowly.",
+      "romanian": "Răbdarea hrănește, creșterea încet.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087748"
+    },
+    {
+      "english": "Creativity blooms, in calm.",
+      "romanian": "Creativitatea înflorește, în liniște.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087749"
+    },
+    {
+      "english": "Curiosity questions, everything.",
+      "romanian": "Curiozitatea întreabă, totul.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087750"
+    },
+    {
+      "english": "Gratitude cherishes, small joys.",
+      "romanian": "Recunoștința prețuiește, bucuriile mici.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-20T02:19:10.087751"
     }
   ],
-  "last_updated": "2026-08-19T02:31:04.045471"
+  "last_updated": "2026-08-20T02:19:10.087779"
 }
