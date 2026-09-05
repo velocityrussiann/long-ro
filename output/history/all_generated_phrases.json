@@ -24383,7 +24383,235 @@
       "romanian": "Calea din mijloc, e înțeleaptă.",
       "category": "Balance",
       "generated_at": "2026-09-04T05:38:22.124523"
+    },
+    {
+      "english": "Find your footing, carefully.",
+      "romanian": "Găsește-ți sprijinul, atent.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632141"
+    },
+    {
+      "english": "Not too far, forward, back.",
+      "romanian": "Nu prea mult, înainte, înapoi.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632152"
+    },
+    {
+      "english": "Keep it level, like a shelf.",
+      "romanian": "Ține-l drept, ca un raft.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632155"
+    },
+    {
+      "english": "A little here, a little there.",
+      "romanian": "Puțin aici, puțin acolo.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632156"
+    },
+    {
+      "english": "Don't tilt, the whole thing.",
+      "romanian": "Nu înclina, totul.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632158"
+    },
+    {
+      "english": "Just right, not too much.",
+      "romanian": "Exact cum trebuie, nu prea mult.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632160"
+    },
+    {
+      "english": "Even out, the pressure.",
+      "romanian": "Egalează, presiunea.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632161"
+    },
+    {
+      "english": "Stay centered, like a wheel.",
+      "romanian": "Rămâi centrat, ca o roată.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632165"
+    },
+    {
+      "english": "Balance your effort, friend.",
+      "romanian": "Echilibrează-ți efortul, prieten.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632167"
+    },
+    {
+      "english": "A gentle push, is enough.",
+      "romanian": "O împingere ușoară, e de ajuns.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632169"
+    },
+    {
+      "english": "Don't go overboard, easily.",
+      "romanian": "Nu exagera, ușor.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632170"
+    },
+    {
+      "english": "Find the sweet spot, now.",
+      "romanian": "Găsește punctul optim, acum.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632172"
+    },
+    {
+      "english": "Two sides, need each other.",
+      "romanian": "Două părți, se caută.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632173"
+    },
+    {
+      "english": "Keep it steady, on the line.",
+      "romanian": "Ține-l drept, pe linie.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632174"
+    },
+    {
+      "english": "A slight shift, is fine.",
+      "romanian": "O mică mișcare, e ok.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632176"
+    },
+    {
+      "english": "Don't fall, left or right.",
+      "romanian": "Nu cădea, stânga sau dreapta.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632177"
+    },
+    {
+      "english": "It's a careful swing, always.",
+      "romanian": "E un balans atent, mereu.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632178"
+    },
+    {
+      "english": "Hold steady, with your core.",
+      "romanian": "Ține-te tare, din centru.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632179"
+    },
+    {
+      "english": "Distribute weight, evenly.",
+      "romanian": "Împarte greutatea, egal.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632181"
+    },
+    {
+      "english": "A gentle sway, is natural.",
+      "romanian": "Un legănat ușor, e firesc.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632182"
+    },
+    {
+      "english": "Find the equilibrium, quickly.",
+      "romanian": "Găsește echilibrul, repede.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632183"
+    },
+    {
+      "english": "Not too much, on either side.",
+      "romanian": "Nu prea mult, pe nicio parte.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632184"
+    },
+    {
+      "english": "It's about holding, your ground.",
+      "romanian": "E despre a sta, pe poziție.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632186"
+    },
+    {
+      "english": "Adjust slightly, for stability.",
+      "romanian": "Ajustează ușor, pentru stat.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632187"
+    },
+    {
+      "english": "A quiet mind, brings balance.",
+      "romanian": "O minte calmă, aduce pace.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632188"
+    },
+    {
+      "english": "Don't lean too hard, friend.",
+      "romanian": "Nu te apleca, prea tare.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632189"
+    },
+    {
+      "english": "Find the still point, within.",
+      "romanian": "Găsește punctul tăcerii, în tine.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632190"
+    },
+    {
+      "english": "One step, then another, slow.",
+      "romanian": "Un pas, apoi altul, rar.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632192"
+    },
+    {
+      "english": "It's a gentle flow, you know.",
+      "romanian": "E un flux lin, știi.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632193"
+    },
+    {
+      "english": "Don't overextend, yourself.",
+      "romanian": "Nu te întinde, prea mult.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632194"
+    },
+    {
+      "english": "A stable base, is key.",
+      "romanian": "O bază stabilă, e cheia.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632195"
+    },
+    {
+      "english": "Spread your weight, out wide.",
+      "romanian": "Împarte greutatea, larg.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632197"
+    },
+    {
+      "english": "It's a natural resting, point.",
+      "romanian": "E un punct natural, de stat.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632198"
+    },
+    {
+      "english": "Don't rush it, breathe deep.",
+      "romanian": "Nu te grăbi, respiră adânc.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632199"
+    },
+    {
+      "english": "Find the middle ground, always.",
+      "romanian": "Găsește mijlocul, mereu.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632200"
+    },
+    {
+      "english": "A slight lean, is okay.",
+      "romanian": "O mică înclinare, e în regulă.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632201"
+    },
+    {
+      "english": "Keep your arms, out wide.",
+      "romanian": "Ține brațele, depărtate.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632203"
+    },
+    {
+      "english": "It's a gentle pause, friend.",
+      "romanian": "E o pauză lină, prietene.",
+      "category": "Balance",
+      "generated_at": "2026-09-05T05:22:58.632204"
     }
   ],
-  "last_updated": "2026-09-04T05:38:22.124559"
+  "last_updated": "2026-09-05T05:22:58.632240"
 }
