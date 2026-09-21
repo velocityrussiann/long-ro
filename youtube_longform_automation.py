@@ -78,7 +78,7 @@ CATEGORIES_ROMANIAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 ROMANIAN_VOICE = "ro-RO-AlinaNeural"
 
 # Phrase history file (NEVER delete this!)
