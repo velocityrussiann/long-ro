@@ -551,41 +551,70 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
+def configure_edge_tts():
+    """Ensure edge_tts connects to Microsoft's active endpoint to avoid 403 on cloud runners."""
+    try:
+        import edge_tts.constants
+        import edge_tts.communicate
+        token = getattr(edge_tts.constants, "TRUSTED_CLIENT_TOKEN", "6A5AA1D4EAFF4E9FB37E23D68491D6F4")
+        new_url = (
+            "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
+            f"?Ocp-Apim-Subscription-Key={token}"
+        )
+        edge_tts.constants.WSS_URL = new_url
+        edge_tts.communicate.WSS_URL = new_url
+    except Exception as e:
+        pass
+
+
 def generate_google_tts(text: str, voice_or_lang: str, output_path: str) -> bool:
-    import urllib.request, urllib.parse
-    lang_code = 'en'
+    """Fallback TTS using Google Translate TTS if Edge TTS fails."""
+    import urllib.request
+    import urllib.parse
+
+    lang_code = "en"
     voice_lower = str(voice_or_lang).lower()
-    if voice_lower.startswith('en'):
-        lang_code = 'en'
-    elif '-' in str(voice_or_lang):
-        part = str(voice_or_lang).split('-')[0].lower()
-        if part == 'zh':
-            lang_code = 'zh-CN'
-        elif part == 'fil':
-            lang_code = 'tl'
-        elif part == 'nb':
-            lang_code = 'no'
+    if voice_lower.startswith("en"):
+        lang_code = "en"
+    elif "-" in str(voice_or_lang):
+        part = str(voice_or_lang).split("-")[0].lower()
+        if part == "zh":
+            lang_code = "zh-CN"
+        elif part == "fil":
+            lang_code = "tl"
+        elif part == "nb":
+            lang_code = "no"
         else:
             lang_code = part
     else:
         lang_code = voice_lower
-    clean_text = text.replace('*', '').replace('#', '').strip()
+
+    clean_text = text.replace("*", "").replace("#", "").strip()
     if not clean_text:
         return False
+
     try:
-        url = f'https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob'
-        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        url = f"https://translate.google.com/translate_tts?ie=UTF-8&q={urllib.parse.quote(clean_text)}&tl={lang_code}&client=tw-ob"
+        req = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            }
+        )
         with urllib.request.urlopen(req, timeout=15) as resp:
             data = resp.read()
         if len(data) > 200:
-            with open(output_path, 'wb') as f:
+            with open(output_path, "wb") as f:
                 f.write(data)
             return True
     except Exception as e:
-        print(f'  Google TTS fallback error: {e}')
+        print(f"  Google TTS fallback error ({lang_code}): {e}")
     return False
 
+
 async def generate_single_audio(text: str, voice: str, output_path: str, retries: int = 2):
+    """Generate audio using Edge TTS Neural voice with automatic Google TTS fallback"""
+    configure_edge_tts()
     import edge_tts
     for attempt in range(retries):
         try:
@@ -595,9 +624,14 @@ async def generate_single_audio(text: str, voice: str, output_path: str, retries
                 return True
         except Exception as e:
             if attempt == retries - 1:
-                print(f'  Edge TTS notice ({e}), switching to Google TTS fallback...')
+                print(f"  Edge TTS notice ({e}), switching to Google TTS fallback...")
+            else:
+                await asyncio.sleep(0.5)
+
+    # Fallback to Google TTS
     if generate_google_tts(text, voice, output_path):
         return True
+
     return False
 
 
