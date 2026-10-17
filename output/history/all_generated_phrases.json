@@ -17,7 +17,727 @@
       "romanian": "Greșelile-s bune, de învățat.",
       "category": "Motivation",
       "generated_at": "2026-07-15T11:20:23.320686"
+    },
+    {
+      "english": "You are very kind, thank you.",
+      "romanian": "Ești foarte amabil, mulțumesc.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113360"
+    },
+    {
+      "english": "That was so thoughtful of you.",
+      "romanian": "A fost foarte drăguț din partea ta.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113374"
+    },
+    {
+      "english": "I appreciate your help.",
+      "romanian": "Apreciez ajutorul tău.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113378"
+    },
+    {
+      "english": "You have a good heart.",
+      "romanian": "Ai o inimă bună.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113382"
+    },
+    {
+      "english": "That's very generous.",
+      "romanian": "Este foarte generos.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113386"
+    },
+    {
+      "english": "You're a lifesaver!",
+      "romanian": "M-ai salvat!",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113390"
+    },
+    {
+      "english": "Such a nice gesture.",
+      "romanian": "Ce gest frumos.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113393"
+    },
+    {
+      "english": "You made my day.",
+      "romanian": "Mi-ai făcut ziua mai bună.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113401"
+    },
+    {
+      "english": "Thank you for your kindness.",
+      "romanian": "Mulțumesc pentru amabilitatea ta.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113405"
+    },
+    {
+      "english": "What a kind person you are.",
+      "romanian": "Ce om bun ești.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113408"
+    },
+    {
+      "english": "You are so considerate.",
+      "romanian": "Ești atât de atent.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113412"
+    },
+    {
+      "english": "This means a lot.",
+      "romanian": "Asta înseamnă mult.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113415"
+    },
+    {
+      "english": "You are truly wonderful.",
+      "romanian": "Ești cu adevărat minunat.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113418"
+    },
+    {
+      "english": "Bless you!",
+      "romanian": "Dumnezeu să te binecuvânteze!",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113421"
+    },
+    {
+      "english": "You're a good soul.",
+      "romanian": "Ești un suflet bun.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113425"
+    },
+    {
+      "english": "How kind of you to say.",
+      "romanian": "Cât de amabil din partea ta să spui.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113429"
+    },
+    {
+      "english": "You have a big heart.",
+      "romanian": "Ai o inimă mare.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113433"
+    },
+    {
+      "english": "That was very sweet.",
+      "romanian": "A fost foarte drăguț.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113436"
+    },
+    {
+      "english": "You're so helpful.",
+      "romanian": "Ești de mare ajutor.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113439"
+    },
+    {
+      "english": "I'm grateful for your kindness.",
+      "romanian": "Sunt recunoscător pentru amabilitatea ta.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113442"
+    },
+    {
+      "english": "You are an angel.",
+      "romanian": "Ești un înger.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113445"
+    },
+    {
+      "english": "That's so kind.",
+      "romanian": "E atât de amabil.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113448"
+    },
+    {
+      "english": "You're too good to me.",
+      "romanian": "Ești prea bun cu mine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113452"
+    },
+    {
+      "english": "What a kind soul.",
+      "romanian": "Ce suflet bun.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113455"
+    },
+    {
+      "english": "Thank you, you're the best.",
+      "romanian": "Mulțumesc, ești cel mai bun.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113459"
+    },
+    {
+      "english": "You are so thoughtful.",
+      "romanian": "Ești foarte atent.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113462"
+    },
+    {
+      "english": "That's incredibly kind.",
+      "romanian": "Este incredibil de amabil.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113465"
+    },
+    {
+      "english": "Your kindness is appreciated.",
+      "romanian": "Amabilitatea ta este apreciată.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113468"
+    },
+    {
+      "english": "You're a true gem.",
+      "romanian": "Ești o comoară.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113471"
+    },
+    {
+      "english": "Thank you for your good deed.",
+      "romanian": "Mulțumesc pentru fapta ta bună.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113474"
+    },
+    {
+      "english": "Can you help me, please?",
+      "romanian": "Poți să mă ajuți, te rog?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113480"
+    },
+    {
+      "english": "What do you think, about this?",
+      "romanian": "Ce părere ai, despre asta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113483"
+    },
+    {
+      "english": "Could you show me, how?",
+      "romanian": "Ai putea să-mi arăți, cum?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113486"
+    },
+    {
+      "english": "Is there anything, I can do?",
+      "romanian": "Există ceva, ce pot face?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113490"
+    },
+    {
+      "english": "Do you need, any assistance?",
+      "romanian": "Ai nevoie, de vreun ajutor?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113493"
+    },
+    {
+      "english": "How can I be, of help?",
+      "romanian": "Cum pot fi, de ajutor?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113496"
+    },
+    {
+      "english": "Would you like, some advice?",
+      "romanian": "Dorești, un sfat?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113500"
+    },
+    {
+      "english": "Shall we discuss, this further?",
+      "romanian": "Să discutăm, mai departe?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113503"
+    },
+    {
+      "english": "What's your opinion, on this matter?",
+      "romanian": "Care e opinia ta, pe tema asta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113507"
+    },
+    {
+      "english": "Can we work, on this together?",
+      "romanian": "Putem lucra, la asta împreună?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113511"
+    },
+    {
+      "english": "What are your thoughts, about it?",
+      "romanian": "Ce te gândești, la asta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113514"
+    },
+    {
+      "english": "May I ask, a question?",
+      "romanian": "Pot pune, o întrebare?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113517"
+    },
+    {
+      "english": "Is this okay, for you?",
+      "romanian": "E în regulă, pentru tine?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113521"
+    },
+    {
+      "english": "Could you explain, a bit more?",
+      "romanian": "Poți explica, puțin mai mult?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113524"
+    },
+    {
+      "english": "What should I do, next?",
+      "romanian": "Ce ar trebui, să fac?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113527"
+    },
+    {
+      "english": "Do you have, a moment?",
+      "romanian": "Ai un moment, liber?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113530"
+    },
+    {
+      "english": "Can I offer, some support?",
+      "romanian": "Pot oferi, un sprijin?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113533"
+    },
+    {
+      "english": "What is your suggestion, please?",
+      "romanian": "Care e sugestia ta, te rog?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113536"
+    },
+    {
+      "english": "Would you mind, if I asked?",
+      "romanian": "Te-ai supăra, dacă aș întreba?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113539"
+    },
+    {
+      "english": "Is there a better, way?",
+      "romanian": "Există o cale, mai bună?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113543"
+    },
+    {
+      "english": "Can you tell me, honestly?",
+      "romanian": "Îmi poți spune, sincer?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113546"
+    },
+    {
+      "english": "What's the best, approach?",
+      "romanian": "Care e cea mai bună, abordare?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113549"
+    },
+    {
+      "english": "Do you agree, with this?",
+      "romanian": "Ești de acord, cu asta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113552"
+    },
+    {
+      "english": "How do you feel, about it?",
+      "romanian": "Cum te simți, în legătură cu asta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113555"
+    },
+    {
+      "english": "Can I get, your input?",
+      "romanian": "Pot primi, părerea ta?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113558"
+    },
+    {
+      "english": "What do you think, we should do?",
+      "romanian": "Ce crezi, că ar trebui, să facem?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113573"
+    },
+    {
+      "english": "Could you give, me guidance?",
+      "romanian": "Poți să-mi dai, îndrumare?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113576"
+    },
+    {
+      "english": "Is there a solution, you see?",
+      "romanian": "Există o soluție, pe care o vezi?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113579"
+    },
+    {
+      "english": "What is your advice, for me?",
+      "romanian": "Care e sfatul tău, pentru mine?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113583"
+    },
+    {
+      "english": "Can we have, a quick chat?",
+      "romanian": "Putem vorbi, puțin?",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113588"
+    },
+    {
+      "english": "Such a generous spirit.",
+      "romanian": "Ce suflet darnic.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113591"
+    },
+    {
+      "english": "Always willing to lend a hand.",
+      "romanian": "Mereu gata să ajuți.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113594"
+    },
+    {
+      "english": "You make things easy.",
+      "romanian": "Faci lucrurile ușoare.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113597"
+    },
+    {
+      "english": "Your help means a lot.",
+      "romanian": "Ajutorul tău înseamnă mult.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113600"
+    },
+    {
+      "english": "You're a rare find.",
+      "romanian": "Ești o raritate.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113604"
+    },
+    {
+      "english": "You always know what to say.",
+      "romanian": "Știi mereu ce să zici.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113607"
+    },
+    {
+      "english": "You brightened my day.",
+      "romanian": "Mi-ai luminat ziua.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113610"
+    },
+    {
+      "english": "You are truly one of a kind.",
+      "romanian": "Ești cu adevărat unic.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113613"
+    },
+    {
+      "english": "You restored my faith.",
+      "romanian": "Mi-ai recăpătat încrederea.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113616"
+    },
+    {
+      "english": "You're a blessing, really.",
+      "romanian": "Ești o binecuvântare, serios.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113620"
+    },
+    {
+      "english": "You're not just nice, you're kind.",
+      "romanian": "Nu ești doar drăguț, ești bun.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113624"
+    },
+    {
+      "english": "You always have my back.",
+      "romanian": "Mă acoperi mereu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113627"
+    },
+    {
+      "english": "You're a breath of fresh air.",
+      "romanian": "Ești o gură de aer proaspăt.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113630"
+    },
+    {
+      "english": "You went above and beyond.",
+      "romanian": "Ai depășit așteptările.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113635"
+    },
+    {
+      "english": "You're just wonderful.",
+      "romanian": "Ești pur și simplu minunat.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113639"
+    },
+    {
+      "english": "You inspire kindness in others.",
+      "romanian": "Inspiri bunătate în alții.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113642"
+    },
+    {
+      "english": "You make the world better.",
+      "romanian": "Îmbunătățești lumea.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113645"
+    },
+    {
+      "english": "Your kindness is contagious.",
+      "romanian": "Bunătatea ta e molipsitoare.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113648"
+    },
+    {
+      "english": "You're a true humanitarian.",
+      "romanian": "Ești un adevărat umanitar.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113651"
+    },
+    {
+      "english": "You always do the right thing.",
+      "romanian": "Faci mereu ce trebuie.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113654"
+    },
+    {
+      "english": "Your heart is in the right place.",
+      "romanian": "Ai inima la locul ei.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113657"
+    },
+    {
+      "english": "You're such a positive force.",
+      "romanian": "Ești o forță pozitivă.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113662"
+    },
+    {
+      "english": "You make a real difference.",
+      "romanian": "Faci o diferență reală.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113665"
+    },
+    {
+      "english": "You're the definition of good.",
+      "romanian": "Ești definiția bunătății.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113668"
+    },
+    {
+      "english": "People like you are rare.",
+      "romanian": "Oamenii ca tine sunt rari.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113671"
+    },
+    {
+      "english": "True kindness, is quiet sometimes.",
+      "romanian": "Adevărata bunătate, e uneori tăcută.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113675"
+    },
+    {
+      "english": "Patience, unlocks understanding.",
+      "romanian": "Răbdarea, deblochează înțelegerea.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113678"
+    },
+    {
+      "english": "My heart feels lighter, now.",
+      "romanian": "Inima mea se simte mai ușoară, acum.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113681"
+    },
+    {
+      "english": "I'm reflecting, on your gesture.",
+      "romanian": "Mă gândesc, la gestul tău.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113685"
+    },
+    {
+      "english": "This requires, deep thought.",
+      "romanian": "Asta necesită, gândire profundă.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113688"
+    },
+    {
+      "english": "Honesty, even when difficult.",
+      "romanian": "Sinceritatea, chiar și când e greu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113692"
+    },
+    {
+      "english": "I appreciate, your gentle approach.",
+      "romanian": "Apreciez, abordarea ta blândă.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113697"
+    },
+    {
+      "english": "This moment, feels significant.",
+      "romanian": "Acest moment, pare semnificativ.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113700"
+    },
+    {
+      "english": "Empathy, bridges divides.",
+      "romanian": "Empatia, construiește punți.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113703"
+    },
+    {
+      "english": "Let's be kind, with ourselves.",
+      "romanian": "Hai să fim blânzi, cu noi înșine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113706"
+    },
+    {
+      "english": "Your words, resonated deeply.",
+      "romanian": "Cuvintele tale, au rezonat profund.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113710"
+    },
+    {
+      "english": "It takes courage, to be vulnerable.",
+      "romanian": "Necesită curaj, să fii vulnerabil.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113713"
+    },
+    {
+      "english": "I'm learning, much from you.",
+      "romanian": "Învăț, multe de la tine.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113716"
+    },
+    {
+      "english": "Kindness, often overlooked.",
+      "romanian": "Bunătatea, adesea ignorată.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113719"
+    },
+    {
+      "english": "Your sincerity, is felt.",
+      "romanian": "Sinceritatea ta, se simte.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113722"
+    },
+    {
+      "english": "This gesture, touched me.",
+      "romanian": "Acest gest, m-a atins.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113725"
+    },
+    {
+      "english": "Let's offer, grace freely.",
+      "romanian": "Să oferim, grație liber.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113729"
+    },
+    {
+      "english": "My feelings, are complex here.",
+      "romanian": "Sentimentele mele, sunt complexe aici.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113732"
+    },
+    {
+      "english": "True kindness, costs nothing.",
+      "romanian": "Adevărata bunătate, nu costă nimic.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113735"
+    },
+    {
+      "english": "This requires, genuine reflection.",
+      "romanian": "Aceasta cere, reflecție autentică.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113738"
+    },
+    {
+      "english": "Your calm presence, helps.",
+      "romanian": "Prezența ta calmă, ajută.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113741"
+    },
+    {
+      "english": "I needed, this reassurance.",
+      "romanian": "Aveam nevoie, de această reasigurare.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113744"
+    },
+    {
+      "english": "Understanding takes, time.",
+      "romanian": "Înțelegerea cere, timp.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113748"
+    },
+    {
+      "english": "Your kindness, is a gift.",
+      "romanian": "Bunătatea ta, este un dar.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113752"
+    },
+    {
+      "english": "I feel heard, truly.",
+      "romanian": "Mă simt ascultat, cu adevărat.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113755"
+    },
+    {
+      "english": "Let's offer, simple comforts.",
+      "romanian": "Să oferim, confort simplu.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113759"
+    },
+    {
+      "english": "This situation, needs grace.",
+      "romanian": "Situația asta, are nevoie de grație.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113762"
+    },
+    {
+      "english": "Kindness, can change moods.",
+      "romanian": "Bunătatea, poate schimba stări.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113765"
+    },
+    {
+      "english": "I'm grateful, for your patience.",
+      "romanian": "Sunt recunoscător, pentru răbdarea ta.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113768"
+    },
+    {
+      "english": "Real kindness, is honest.",
+      "romanian": "Bunătatea reală, este sinceră.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113771"
+    },
+    {
+      "english": "Offer help, without being asked.",
+      "romanian": "Oferă ajutor, necerut.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113774"
+    },
+    {
+      "english": "Listen actively, to understand.",
+      "romanian": "Ascultă activ, pentru a înțelege.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113777"
+    },
+    {
+      "english": "Share what you have, generously.",
+      "romanian": "Împarte ce ai, cu generozitate.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113781"
+    },
+    {
+      "english": "Be patient, with beginners.",
+      "romanian": "Fii răbdător, cu începătorii.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113784"
+    },
+    {
+      "english": "Smile often, it costs nothing.",
+      "romanian": "Zâmbește des, nu costă nimic.",
+      "category": "Kindness",
+      "generated_at": "2026-10-17T05:24:37.113787"
     }
   ],
-  "last_updated": "2026-07-15T11:20:23.320686"
+  "last_updated": "2026-10-17T05:24:37.113789"
 }
