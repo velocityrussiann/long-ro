@@ -737,7 +737,727 @@
       "romanian": "Zâmbește des, nu costă nimic.",
       "category": "Kindness",
       "generated_at": "2026-10-17T05:24:37.113787"
+    },
+    {
+      "english": "What a lovely day, isn't it?",
+      "romanian": "Ce zi frumoasă, nu-i așa?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743812"
+    },
+    {
+      "english": "I'm feeling great today, thanks!",
+      "romanian": "Mă simt excelent azi, mulțumesc!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743827"
+    },
+    {
+      "english": "This is just perfect, truly.",
+      "romanian": "E pur și simplu perfect, chiar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743830"
+    },
+    {
+      "english": "So happy to see you!",
+      "romanian": "Mă bucur mult să te văd!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743832"
+    },
+    {
+      "english": "That makes me smile, honestly.",
+      "romanian": "Asta mă face să zâmbesc, sincer.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743834"
+    },
+    {
+      "english": "Everything is going well.",
+      "romanian": "Totul merge bine.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743836"
+    },
+    {
+      "english": "Feeling really good, you know?",
+      "romanian": "Mă simt foarte bine, știi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743839"
+    },
+    {
+      "english": "What wonderful news, congratulations!",
+      "romanian": "Ce veste minunată, felicitări!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743843"
+    },
+    {
+      "english": "This is a happy moment.",
+      "romanian": "Acesta e un moment fericit.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743845"
+    },
+    {
+      "english": "I'm so pleased about this.",
+      "romanian": "Sunt foarte mulțumit de asta.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743847"
+    },
+    {
+      "english": "Pure joy, nothing less.",
+      "romanian": "Bucurie pură, nimic mai puțin.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743849"
+    },
+    {
+      "english": "Life is beautiful sometimes.",
+      "romanian": "Viața e frumoasă uneori.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743851"
+    },
+    {
+      "english": "That's wonderful, really!",
+      "romanian": "E minunat, pe bune!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743853"
+    },
+    {
+      "english": "I feel a sense of peace.",
+      "romanian": "Simt o pace interioară.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743854"
+    },
+    {
+      "english": "So glad it worked out.",
+      "romanian": "Mă bucur că a ieșit bine.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743856"
+    },
+    {
+      "english": "This brings me happiness.",
+      "romanian": "Asta îmi aduce fericire.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743858"
+    },
+    {
+      "english": "What a pleasant surprise!",
+      "romanian": "Ce surpriză plăcută!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743859"
+    },
+    {
+      "english": "I'm in a good mood.",
+      "romanian": "Sunt într-o dispoziție bună.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743861"
+    },
+    {
+      "english": "Everything feels right now.",
+      "romanian": "Totul pare în regulă acum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743862"
+    },
+    {
+      "english": "That's fantastic news!",
+      "romanian": "Ce veste fantastică!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743864"
+    },
+    {
+      "english": "Feeling optimistic, yes.",
+      "romanian": "Mă simt optimist, da.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743865"
+    },
+    {
+      "english": "A moment of pure bliss.",
+      "romanian": "Un moment de extaz pur.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743868"
+    },
+    {
+      "english": "Happy to share this with you.",
+      "romanian": "Fericit să împart asta cu tine.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743870"
+    },
+    {
+      "english": "This is truly uplifting.",
+      "romanian": "Asta chiar mă încarcă pozitiv.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743871"
+    },
+    {
+      "english": "What a cheerful atmosphere!",
+      "romanian": "Ce atmosferă veselă!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743873"
+    },
+    {
+      "english": "I have a good feeling.",
+      "romanian": "Am un presentiment bun.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743874"
+    },
+    {
+      "english": "This is exactly what I needed.",
+      "romanian": "Exact asta îmi trebuia.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743877"
+    },
+    {
+      "english": "Feeling content, deeply.",
+      "romanian": "Mă simt mulțumit, profund.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743879"
+    },
+    {
+      "english": "Life feels good right now.",
+      "romanian": "Viața e bună acum.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743881"
+    },
+    {
+      "english": "Simply a happy occasion.",
+      "romanian": "Pur și simplu o ocazie fericită.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743883"
+    },
+    {
+      "english": "How do you find joy, really?",
+      "romanian": "Cum găsești bucuria, tu?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743885"
+    },
+    {
+      "english": "What makes you smile, lately?",
+      "romanian": "Ce te face să zâmbești, acum?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743887"
+    },
+    {
+      "english": "Any tips for feeling happier?",
+      "romanian": "Ai sfaturi pentru a fi mai fericit?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743889"
+    },
+    {
+      "english": "Is this a good time to talk?",
+      "romanian": "E un moment bun să vorbim?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743891"
+    },
+    {
+      "english": "What are your happy thoughts today?",
+      "romanian": "Care-s gândurile tale vesele azi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743893"
+    },
+    {
+      "english": "Do you feel content, generally?",
+      "romanian": "Te simți mulțumit, în general?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743895"
+    },
+    {
+      "english": "Can you recommend something joyful?",
+      "romanian": "Poți recomanda ceva vesel?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743897"
+    },
+    {
+      "english": "What’s on your mind, happily?",
+      "romanian": "Ce-ți trece prin minte, cu bucurie?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743902"
+    },
+    {
+      "english": "How was your day, hopefully good?",
+      "romanian": "Cum ți-a fost ziua, sper bine?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743904"
+    },
+    {
+      "english": "Are you doing okay, right now?",
+      "romanian": "Ești bine, chiar acum?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743906"
+    },
+    {
+      "english": "What brings you peace, usually?",
+      "romanian": "Ce-ți aduce pace, de obicei?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743907"
+    },
+    {
+      "english": "Tell me something uplifting, please.",
+      "romanian": "Spune-mi ceva înălțător, te rog.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743909"
+    },
+    {
+      "english": "Did anything nice happen today?",
+      "romanian": "S-a întâmplat ceva frumos azi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743910"
+    },
+    {
+      "english": "What’s your secret to happiness?",
+      "romanian": "Care-i secretul tău spre fericire?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743913"
+    },
+    {
+      "english": "Are we on the same page?",
+      "romanian": "Suntem pe aceeași lungime?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743915"
+    },
+    {
+      "english": "Could you explain that better?",
+      "romanian": "Poți explica mai bine?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743916"
+    },
+    {
+      "english": "What’s your take on happiness?",
+      "romanian": "Care-i părerea ta despre fericire?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743918"
+    },
+    {
+      "english": "Should we try something new?",
+      "romanian": "Să încercăm ceva nou?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743920"
+    },
+    {
+      "english": "What’s your plan for the weekend?",
+      "romanian": "Ce planuri ai pentru weekend?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743924"
+    },
+    {
+      "english": "How can we improve this feeling?",
+      "romanian": "Cum putem îmbunătăți asta?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743925"
+    },
+    {
+      "english": "Is there anything bothering you?",
+      "romanian": "Te deranjează ceva?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743928"
+    },
+    {
+      "english": "What makes a day truly happy?",
+      "romanian": "Ce face o zi cu adevărat fericită?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743929"
+    },
+    {
+      "english": "Are you excited about tomorrow?",
+      "romanian": "Ești entuziasmat de mâine?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743931"
+    },
+    {
+      "english": "What if we tried this instead?",
+      "romanian": "Ce-ar fi să încercăm asta?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743939"
+    },
+    {
+      "english": "Do you need any help now?",
+      "romanian": "Ai nevoie de ajutor acum?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743941"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "romanian": "Pentru ce ești recunoscător azi?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743944"
+    },
+    {
+      "english": "Is everything clear so far?",
+      "romanian": "E totul clar până acum?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743945"
+    },
+    {
+      "english": "What’s your definition of success?",
+      "romanian": "Care-i definiția ta despre succes?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743948"
+    },
+    {
+      "english": "Should we continue like this?",
+      "romanian": "Să continuăm așa?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743949"
+    },
+    {
+      "english": "Keep that positive vibe!",
+      "romanian": "Păstrează vibrația pozitivă!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743951"
+    },
+    {
+      "english": "You're doing great, seriously.",
+      "romanian": "Te descurci grozav, serios.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743953"
+    },
+    {
+      "english": "Hang in there, it'll get better.",
+      "romanian": "Ține-te tare, o să fie mai bine.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743955"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "romanian": "Crede în tine, mereu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743957"
+    },
+    {
+      "english": "That's a brilliant idea!",
+      "romanian": "Ce idee genială!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743959"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "romanian": "Poți reuși, fără îndoială.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743961"
+    },
+    {
+      "english": "Stay strong, my friend.",
+      "romanian": "Rămâi puternic, prietene.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743963"
+    },
+    {
+      "english": "This is progress, for sure.",
+      "romanian": "Ăsta e progres, sigur.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743965"
+    },
+    {
+      "english": "Your effort is visible.",
+      "romanian": "Efortul tău se vede.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743966"
+    },
+    {
+      "english": "That really made my day.",
+      "romanian": "Asta chiar mi-a făcut ziua.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743968"
+    },
+    {
+      "english": "Chin up, don't be sad.",
+      "romanian": "Ridică-ți capul, nu fi trist.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743970"
+    },
+    {
+      "english": "You're on the right path.",
+      "romanian": "Ești pe drumul cel bun.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743972"
+    },
+    {
+      "english": "That sounds wonderful, truly.",
+      "romanian": "Sună minunat, chiar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743974"
+    },
+    {
+      "english": "Don't give up, keep trying.",
+      "romanian": "Nu renunța, continuă să încerci.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743976"
+    },
+    {
+      "english": "You have a great attitude.",
+      "romanian": "Ai o atitudine grozavă.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743978"
+    },
+    {
+      "english": "Sending good vibes your way.",
+      "romanian": "Îți trimit vibrații bune.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743980"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "romanian": "Mă inspiri, sincer.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743982"
+    },
+    {
+      "english": "Keep that spark alive!",
+      "romanian": "Păstrează scânteia aia vie!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743983"
+    },
+    {
+      "english": "Every little step counts.",
+      "romanian": "Fiecare pas mic contează.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743985"
+    },
+    {
+      "english": "You're making a difference.",
+      "romanian": "Faci o diferență.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743988"
+    },
+    {
+      "english": "That's a fantastic achievement!",
+      "romanian": "Ce realizare fantastică!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743990"
+    },
+    {
+      "english": "You're capable of amazing things.",
+      "romanian": "Ești capabil de lucruri uimitoare.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743991"
+    },
+    {
+      "english": "Stay positive, always choose joy.",
+      "romanian": "Fii pozitiv, alege mereu bucuria.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743994"
+    },
+    {
+      "english": "That's a great outlook.",
+      "romanian": "Asta e o perspectivă bună.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743996"
+    },
+    {
+      "english": "You're handling this well.",
+      "romanian": "Te descurci bine cu asta.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.743998"
+    },
+    {
+      "english": "Your energy is contagious.",
+      "romanian": "Energia ta e molipsitoare.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744001"
+    },
+    {
+      "english": "That was really kind.",
+      "romanian": "Asta a fost foarte drăguț.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744003"
+    },
+    {
+      "english": "You're spreading happiness, yes.",
+      "romanian": "Răspândești fericire, da.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744005"
+    },
+    {
+      "english": "Keep shining brightly!",
+      "romanian": "Continuă să strălucești!",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744007"
+    },
+    {
+      "english": "True happiness, comes from within.",
+      "romanian": "Adevărata fericire, vine dinăuntru.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744009"
+    },
+    {
+      "english": "Let's appreciate, these simple moments.",
+      "romanian": "Să prețuim, aceste momente simple.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744010"
+    },
+    {
+      "english": "Patience, unlocks many doors.",
+      "romanian": "Răbdarea, deschide multe uși.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744012"
+    },
+    {
+      "english": "What truly matters, is inner peace.",
+      "romanian": "Ce contează cu adevărat, e pacea interioară.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744014"
+    },
+    {
+      "english": "Reflect often, on your blessings.",
+      "romanian": "Reflectează des, la binecuvântările tale.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744016"
+    },
+    {
+      "english": "Happiness is a journey, not a destination.",
+      "romanian": "Fericirea e un drum, nu o destinație.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744021"
+    },
+    {
+      "english": "Seek joy, in everyday life.",
+      "romanian": "Caută bucuria, în viața de zi cu zi.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744023"
+    },
+    {
+      "english": "Be honest, with your feelings.",
+      "romanian": "Fii sincer, cu sentimentele tale.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744025"
+    },
+    {
+      "english": "Sometimes, silence speaks loudest.",
+      "romanian": "Uneori, tăcerea vorbește cel mai tare.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744027"
+    },
+    {
+      "english": "Let go, of what weighs you down.",
+      "romanian": "Renunță, la ce te apasă.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744029"
+    },
+    {
+      "english": "Inner calm, brings true happiness.",
+      "romanian": "Liniștea interioară, aduce fericirea reală.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744030"
+    },
+    {
+      "english": "Are you content, with your choices?",
+      "romanian": "Ești mulțumit, de alegerile tale?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744032"
+    },
+    {
+      "english": "This feeling, is temporary.",
+      "romanian": "Acest sentiment, este temporar.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744034"
+    },
+    {
+      "english": "Embrace change, it leads to growth.",
+      "romanian": "Îmbrățișează schimbarea, duce la creștere.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744036"
+    },
+    {
+      "english": "Find peace, in the present.",
+      "romanian": "Găsește pacea, în prezent.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744037"
+    },
+    {
+      "english": "Listen to your heart, always.",
+      "romanian": "Ascultă-ți inima, mereu.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744039"
+    },
+    {
+      "english": "What brings you, genuine joy?",
+      "romanian": "Ce îți aduce, bucurie autentică?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744041"
+    },
+    {
+      "english": "Self-acceptance, is key.",
+      "romanian": "Acceptarea de sine, este cheia.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744043"
+    },
+    {
+      "english": "Life's lessons, are valuable.",
+      "romanian": "Lecțiile vieții, sunt valoroase.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744045"
+    },
+    {
+      "english": "This moment, is all we have.",
+      "romanian": "Acest moment, e tot ce avem.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744047"
+    },
+    {
+      "english": "Forgiveness, sets you free.",
+      "romanian": "Iertarea, te eliberează.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744049"
+    },
+    {
+      "english": "Trust the process, it unfolds.",
+      "romanian": "Ai încredere în proces, se desfășoară.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744050"
+    },
+    {
+      "english": "Find your own, definition of peace.",
+      "romanian": "Găsește-ți propria, definiție a păcii.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744052"
+    },
+    {
+      "english": "What makes you, feel content?",
+      "romanian": "Ce te face, să te simți liniștit?",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744056"
+    },
+    {
+      "english": "Gratitude, shifts perspective.",
+      "romanian": "Recunoștința, schimbă perspectiva.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744059"
+    },
+    {
+      "english": "Be kind, to yourself too.",
+      "romanian": "Fii bun, și cu tine însuți.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744060"
+    },
+    {
+      "english": "Your intuition, is powerful.",
+      "romanian": "Intuiția ta, este puternică.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744062"
+    },
+    {
+      "english": "It's okay, to not be okay.",
+      "romanian": "E în regulă, să nu fii bine.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744064"
+    },
+    {
+      "english": "Take time, for self-reflection.",
+      "romanian": "Acordă-ți timp, pentru auto-reflecție.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744067"
+    },
+    {
+      "english": "True joy, is often quiet.",
+      "romanian": "Bucuria adevărată, este adesea liniștită.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744069"
+    },
+    {
+      "english": "Small steps, lead to big wins.",
+      "romanian": "Pașii mici, duc la victorii mari.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744071"
+    },
+    {
+      "english": "Ask for help, it's smart.",
+      "romanian": "Cere ajutor, e un semn de minte.",
+      "category": "Happiness",
+      "generated_at": "2026-10-18T05:32:07.744073"
     }
   ],
-  "last_updated": "2026-10-17T05:24:37.113789"
+  "last_updated": "2026-10-18T05:32:07.744074"
 }
