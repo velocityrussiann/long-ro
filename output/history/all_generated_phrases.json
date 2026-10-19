@@ -1457,7 +1457,727 @@
       "romanian": "Cere ajutor, e un semn de minte.",
       "category": "Happiness",
       "generated_at": "2026-10-18T05:32:07.744073"
+    },
+    {
+      "english": "Hello, how are you doing?",
+      "romanian": "Salut, ce mai faci?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382221"
+    },
+    {
+      "english": "Nice to meet you, really.",
+      "romanian": "Îmi pare bine de cunoștință, chiar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382236"
+    },
+    {
+      "english": "What's new, my friend?",
+      "romanian": "Ce mai e nou, prietene?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382240"
+    },
+    {
+      "english": "Everything's great, thanks.",
+      "romanian": "Totul e excelent, mulțumesc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382243"
+    },
+    {
+      "english": "Can I help you?",
+      "romanian": "Te pot ajuta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382246"
+    },
+    {
+      "english": "No, thank you.",
+      "romanian": "Nu, mulțumesc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382249"
+    },
+    {
+      "english": "Excuse me, please.",
+      "romanian": "Scuzați-mă, vă rog.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382252"
+    },
+    {
+      "english": "Just a moment, please.",
+      "romanian": "O clipă, vă rog.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382258"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "romanian": "Unde este toaleta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382261"
+    },
+    {
+      "english": "How much does this cost?",
+      "romanian": "Cât costă asta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382264"
+    },
+    {
+      "english": "I don't understand.",
+      "romanian": "Nu înțeleg.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382267"
+    },
+    {
+      "english": "Can you repeat that?",
+      "romanian": "Poți repeta, te rog?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382269"
+    },
+    {
+      "english": "Speak slower, please.",
+      "romanian": "Vorbiți mai încet, vă rog.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382273"
+    },
+    {
+      "english": "What time is it?",
+      "romanian": "Ce oră este?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382276"
+    },
+    {
+      "english": "Have a nice day!",
+      "romanian": "O zi bună!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382279"
+    },
+    {
+      "english": "Good evening to you.",
+      "romanian": "Bună seara dumneavoastră.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382281"
+    },
+    {
+      "english": "See you later, friend.",
+      "romanian": "Pe curând, prietene.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382284"
+    },
+    {
+      "english": "Welcome to our home.",
+      "romanian": "Bine ați venit acasă.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382286"
+    },
+    {
+      "english": "Cheers, to your health!",
+      "romanian": "Noroc, pentru sănătatea ta!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382288"
+    },
+    {
+      "english": "Enjoy your meal.",
+      "romanian": "Poftă bună!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382290"
+    },
+    {
+      "english": "What a surprise!",
+      "romanian": "Ce surpriză!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382292"
+    },
+    {
+      "english": "That's interesting, really.",
+      "romanian": "E interesant, într-adevăr.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382294"
+    },
+    {
+      "english": "How wonderful!",
+      "romanian": "Ce minunat!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382296"
+    },
+    {
+      "english": "Oh, come on!",
+      "romanian": "Hai, lasă-mă!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382299"
+    },
+    {
+      "english": "I agree with you.",
+      "romanian": "Sunt de acord cu tine.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382315"
+    },
+    {
+      "english": "That's a good idea.",
+      "romanian": "E o idee bună.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382319"
+    },
+    {
+      "english": "Let's go, quickly!",
+      "romanian": "Hai să mergem, repede!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382323"
+    },
+    {
+      "english": "I'm so happy for you.",
+      "romanian": "Mă bucur mult pentru tine.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382325"
+    },
+    {
+      "english": "Take care of yourself.",
+      "romanian": "Ai grijă de tine.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382327"
+    },
+    {
+      "english": "It's not a problem.",
+      "romanian": "Nu e nicio problemă.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382330"
+    },
+    {
+      "english": "Tell me, what's this tradition called?",
+      "romanian": "Spune-mi, cum se numește tradiția asta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382333"
+    },
+    {
+      "english": "Is this custom very old?",
+      "romanian": "Obiceiul acesta e foarte vechi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382336"
+    },
+    {
+      "english": "What does this symbol mean, exactly?",
+      "romanian": "Ce înseamnă acest simbol, exact?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382339"
+    },
+    {
+      "english": "Can you explain the origins, please?",
+      "romanian": "Poți să explici originile, te rog?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382437"
+    },
+    {
+      "english": "What is the significance of this food?",
+      "romanian": "Care e semnificația acestei mâncări?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382440"
+    },
+    {
+      "english": "Do people still practice this today?",
+      "romanian": "Oamenii mai practică asta azi?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382443"
+    },
+    {
+      "english": "How is this celebrated, generally?",
+      "romanian": "Cum se sărbătorește, în general?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382446"
+    },
+    {
+      "english": "What should I wear for the event?",
+      "romanian": "Ce ar trebui să port la eveniment?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382448"
+    },
+    {
+      "english": "Is there a specific way to greet?",
+      "romanian": "Există un mod anume de a saluta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382450"
+    },
+    {
+      "english": "What's the most important rule here?",
+      "romanian": "Care e regula cea mai importantă aici?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382453"
+    },
+    {
+      "english": "Can you show me, step-by-step?",
+      "romanian": "Îmi poți arăta, pas cu pas?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382456"
+    },
+    {
+      "english": "What gift is appropriate for hosts?",
+      "romanian": "Ce cadou e potrivit pentru gazde?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382459"
+    },
+    {
+      "english": "Are there any taboos I should know?",
+      "romanian": "Sunt interdicții de care să știu?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382461"
+    },
+    {
+      "english": "What songs are typically played?",
+      "romanian": "Ce cântece se ascultă de obicei?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382463"
+    },
+    {
+      "english": "Is it polite to ask about money?",
+      "romanian": "E politicos să întreb despre bani?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382465"
+    },
+    {
+      "english": "What happens during the main ceremony?",
+      "romanian": "Ce se întâmplă la ceremonia principală?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382467"
+    },
+    {
+      "english": "Is there a special dance involved?",
+      "romanian": "Implică un dans anume?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382471"
+    },
+    {
+      "english": "How do locals feel about tourists?",
+      "romanian": "Cum se simt localnicii față de turiști?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382474"
+    },
+    {
+      "english": "What's the best way to participate?",
+      "romanian": "Care e cea mai bună cale să particip?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382476"
+    },
+    {
+      "english": "Can I try this local craft?",
+      "romanian": "Pot să încerc acest meșteșug local?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382479"
+    },
+    {
+      "english": "What time does the festival begin?",
+      "romanian": "La ce oră începe festivalul?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382481"
+    },
+    {
+      "english": "Is it okay to take photos here?",
+      "romanian": "E în regulă să fac poze aici?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382483"
+    },
+    {
+      "english": "What's the tradition behind this gesture?",
+      "romanian": "Care e tradiția din spatele acestui gest?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382486"
+    },
+    {
+      "english": "Do you have any recommendations for me?",
+      "romanian": "Ai vreo recomandare pentru mine?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382488"
+    },
+    {
+      "english": "What should I absolutely avoid doing?",
+      "romanian": "Ce ar trebui să evit categoric?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382490"
+    },
+    {
+      "english": "Is this related to folklore, perhaps?",
+      "romanian": "E legat de folclor, poate?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382493"
+    },
+    {
+      "english": "What's the most common mistake tourists make?",
+      "romanian": "Care e greșeala cea mai comună la turiști?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382495"
+    },
+    {
+      "english": "Can you suggest a good local dish?",
+      "romanian": "Poți sugera un fel de mâncare local bun?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382497"
+    },
+    {
+      "english": "What's the story behind this festival?",
+      "romanian": "Care e povestea din spatele acestui festival?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382499"
+    },
+    {
+      "english": "How long does this usually last?",
+      "romanian": "Cât durează de obicei asta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382502"
+    },
+    {
+      "english": "It's a long story, really.",
+      "romanian": "E o poveste lungă, să știi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382505"
+    },
+    {
+      "english": "That's how we do it.",
+      "romanian": "Așa se face pe la noi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382507"
+    },
+    {
+      "english": "It's a matter of respect.",
+      "romanian": "Ține de respect, desigur.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382511"
+    },
+    {
+      "english": "Old habits die hard.",
+      "romanian": "Obiceiurile vechi, greu se uită.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382517"
+    },
+    {
+      "english": "It's a family heirloom.",
+      "romanian": "E o moștenire de familie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382520"
+    },
+    {
+      "english": "We learned it from grandma.",
+      "romanian": "Am învățat de la bunica.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382522"
+    },
+    {
+      "english": "It’s a sign of good luck.",
+      "romanian": "E semn bun, de noroc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382527"
+    },
+    {
+      "english": "Don't break the chain.",
+      "romanian": "Nu rupe firul tradiției.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382529"
+    },
+    {
+      "english": "It's a spiritual connection.",
+      "romanian": "E o legătură duhovnicească.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382531"
+    },
+    {
+      "english": "It's deeply rooted here.",
+      "romanian": "E adânc înrădăcinat aici.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382535"
+    },
+    {
+      "english": "We pass it down generations.",
+      "romanian": "O ducem din generație în generație.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382538"
+    },
+    {
+      "english": "It’s part of our identity.",
+      "romanian": "Face parte din identitatea noastră.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382541"
+    },
+    {
+      "english": "A time for reflection, always.",
+      "romanian": "Timp de cugetare, mereu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382544"
+    },
+    {
+      "english": "It's a communal effort.",
+      "romanian": "E un efort comunitar.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382546"
+    },
+    {
+      "english": "This holds great meaning.",
+      "romanian": "Asta are mare însemnătate.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382549"
+    },
+    {
+      "english": "It's a sacred ritual.",
+      "romanian": "E un ritual sacru.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382551"
+    },
+    {
+      "english": "We honor our ancestors.",
+      "romanian": "Ne cinstim strămoșii.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382553"
+    },
+    {
+      "english": "It connects us to the past.",
+      "romanian": "Ne leagă de trecut.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382555"
+    },
+    {
+      "english": "It's a reminder of our roots.",
+      "romanian": "E o amintire a rădăcinilor.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382559"
+    },
+    {
+      "english": "We preserve this heritage.",
+      "romanian": "Păstrăm această moștenire.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382561"
+    },
+    {
+      "english": "It's a unique local flavor.",
+      "romanian": "E o aromă locală unică.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382563"
+    },
+    {
+      "english": "This signifies unity.",
+      "romanian": "Asta înseamnă unitate.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382565"
+    },
+    {
+      "english": "It’s a moment of joy.",
+      "romanian": "E un moment de bucurie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382568"
+    },
+    {
+      "english": "We keep the tradition alive.",
+      "romanian": "Ținem tradiția în viață.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382570"
+    },
+    {
+      "english": "This is very traditional.",
+      "romanian": "Asta e foarte tradițional.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382572"
+    },
+    {
+      "english": "It's a cultural cornerstone.",
+      "romanian": "E o piatră de temelie culturală.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382574"
+    },
+    {
+      "english": "We celebrate it with passion.",
+      "romanian": "O sărbătorim cu patimă.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382577"
+    },
+    {
+      "english": "It’s a legacy for us.",
+      "romanian": "E o moștenire pentru noi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382579"
+    },
+    {
+      "english": "This echoes ancient times.",
+      "romanian": "Asta răsună din vremuri vechi.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382583"
+    },
+    {
+      "english": "This tradition, it makes me feel something.",
+      "romanian": "Tradiția asta, mă face să simt ceva.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382586"
+    },
+    {
+      "english": "I'm trying to understand, slowly.",
+      "romanian": "Încerc să înțeleg, încet.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382588"
+    },
+    {
+      "english": "What is the deep meaning here?",
+      "romanian": "Care e sensul profund aici?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382591"
+    },
+    {
+      "english": "It touches my heart, truly.",
+      "romanian": "Mă atinge la suflet, pe bune.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382593"
+    },
+    {
+      "english": "Patience is key, I see.",
+      "romanian": "Răbdarea e cheia, văd.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382595"
+    },
+    {
+      "english": "This evokes a feeling in me.",
+      "romanian": "Asta îmi trezește un sentiment.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382597"
+    },
+    {
+      "english": "I need more time to grasp this.",
+      "romanian": "Am nevoie de mai mult timp să prind asta.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382600"
+    },
+    {
+      "english": "What thoughts does this bring up?",
+      "romanian": "Ce gânduri îți aduce asta?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382602"
+    },
+    {
+      "english": "It feels authentic, honest.",
+      "romanian": "Se simte autentic, sincer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382605"
+    },
+    {
+      "english": "My feelings are mixed, honestly.",
+      "romanian": "Sentimentele mele sunt amestecate, sincer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382607"
+    },
+    {
+      "english": "This requires deep reflection.",
+      "romanian": "Asta cere multă reflecție.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382609"
+    },
+    {
+      "english": "It resonates with my own values.",
+      "romanian": "Rezonează cu propriile mele valori.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382611"
+    },
+    {
+      "english": "This speaks to my soul.",
+      "romanian": "Asta vorbește sufletului meu.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382613"
+    },
+    {
+      "english": "I appreciate the sincerity here.",
+      "romanian": "Apreciez sinceritatea de aici.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382615"
+    },
+    {
+      "english": "What is the emotional core?",
+      "romanian": "Care e nucleul emoțional?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382617"
+    },
+    {
+      "english": "This is a moment of truth.",
+      "romanian": "Ăsta e un moment al adevărului.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382620"
+    },
+    {
+      "english": "I'm genuinely curious.",
+      "romanian": "Sunt cu adevărat curios/curioasă.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382622"
+    },
+    {
+      "english": "It feels profound, somehow.",
+      "romanian": "Se simte profund, cumva.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382624"
+    },
+    {
+      "english": "This makes me think deeply.",
+      "romanian": "Asta mă pune pe gânduri.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382626"
+    },
+    {
+      "english": "I feel a connection forming.",
+      "romanian": "Simt cum se formează o legătură.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382628"
+    },
+    {
+      "english": "What are the underlying emotions?",
+      "romanian": "Care sunt emoțiile de bază?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382631"
+    },
+    {
+      "english": "This requires introspection.",
+      "romanian": "Asta cere introspecție.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382636"
+    },
+    {
+      "english": "It resonates deeply within me.",
+      "romanian": "Rezonează adânc în mine.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382639"
+    },
+    {
+      "english": "I must be patient with this.",
+      "romanian": "Trebuie să am răbdare cu asta.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382641"
+    },
+    {
+      "english": "What wisdom lies here?",
+      "romanian": "Ce înțelepciune zace aici?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382643"
+    },
+    {
+      "english": "It feels like a heartfelt gesture.",
+      "romanian": "Pare un gest din inimă.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382645"
+    },
+    {
+      "english": "I'm reflecting on its significance.",
+      "romanian": "Mă gândesc la semnificația lui.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382647"
+    },
+    {
+      "english": "This tradition inspires sincerity.",
+      "romanian": "Tradiția asta inspiră sinceritate.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382650"
+    },
+    {
+      "english": "What is the heartfelt intention?",
+      "romanian": "Care e intenția din suflet?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382654"
+    },
+    {
+      "english": "I'm feeling a sense of peace.",
+      "romanian": "Simt un sentiment de pace.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382656"
+    },
+    {
+      "english": "Ask locals, they know best.",
+      "romanian": "Întreabă localnicii, ei știu cel mai bine.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-19T05:53:02.382659"
     }
   ],
-  "last_updated": "2026-10-18T05:32:07.744074"
+  "last_updated": "2026-10-19T05:53:02.382661"
 }
