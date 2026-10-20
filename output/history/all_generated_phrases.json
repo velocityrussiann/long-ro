@@ -2177,7 +2177,727 @@
       "romanian": "Întreabă localnicii, ei știu cel mai bine.",
       "category": "Cultural Traditions",
       "generated_at": "2026-10-19T05:53:02.382659"
+    },
+    {
+      "english": "I'm sorry, please forgive me.",
+      "romanian": "Îmi pare rău, te rog să mă ierți.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329694"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "romanian": "Mă poți ierta, te rog?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329708"
+    },
+    {
+      "english": "I really messed up, forgive me.",
+      "romanian": "Am greșit enorm, iartă-mă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329712"
+    },
+    {
+      "english": "It was my fault, please forgive.",
+      "romanian": "A fost vina mea, te rog să ierți.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329715"
+    },
+    {
+      "english": "Please, give me your forgiveness.",
+      "romanian": "Te rog, dă-mi iertarea ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329719"
+    },
+    {
+      "english": "I ask for your forgiveness.",
+      "romanian": "Cer iertarea ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329722"
+    },
+    {
+      "english": "Can we move past this, please?",
+      "romanian": "Putem trece peste asta, te rog?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329725"
+    },
+    {
+      "english": "I was wrong, I apologize.",
+      "romanian": "Am greșit, îmi cer scuze.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329733"
+    },
+    {
+      "english": "Forgive my mistake, okay?",
+      "romanian": "Iartă-mi greșeala, bine?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329736"
+    },
+    {
+      "english": "I truly regret it, forgive me.",
+      "romanian": "Regret sincer, iartă-mă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329741"
+    },
+    {
+      "english": "Please don't hold this against me.",
+      "romanian": "Te rog, nu ține asta împotriva mea.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329745"
+    },
+    {
+      "english": "Can you find it in your heart?",
+      "romanian": "Poți să găsești asta în inima ta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329748"
+    },
+    {
+      "english": "I'm asking for a second chance.",
+      "romanian": "Cer o a doua șansă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329751"
+    },
+    {
+      "english": "Let's start fresh, please.",
+      "romanian": "Să o luăm de la capăt, te rog.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329754"
+    },
+    {
+      "english": "I promise it won't happen again.",
+      "romanian": "Promit că nu se mai întâmplă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329757"
+    },
+    {
+      "english": "Can you find it in yourself?",
+      "romanian": "Poți să te convingi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329759"
+    },
+    {
+      "english": "I truly seek your pardon.",
+      "romanian": "Caut cu adevărat iertarea ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329762"
+    },
+    {
+      "english": "Please forgive my ignorance.",
+      "romanian": "Te rog, iartă-mi neștiința.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329764"
+    },
+    {
+      "english": "I messed up, can you forgive?",
+      "romanian": "Am încurcat-o, poți ierta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329770"
+    },
+    {
+      "english": "I hope for your understanding.",
+      "romanian": "Sper la înțelegerea ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329772"
+    },
+    {
+      "english": "Forgive this foolish action.",
+      "romanian": "Iartă această acțiune prostească.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329775"
+    },
+    {
+      "english": "I'm truly sorry, please forgive.",
+      "romanian": "Îmi pare sincer rău, te rog iartă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329778"
+    },
+    {
+      "english": "Can we start over, please?",
+      "romanian": "Putem începe de la zero, te rog?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329781"
+    },
+    {
+      "english": "I beg your forgiveness.",
+      "romanian": "Te implor să mă ierți.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329784"
+    },
+    {
+      "english": "Please forgive what I did.",
+      "romanian": "Te rog, iartă ce am făcut.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329786"
+    },
+    {
+      "english": "My apologies, please forgive.",
+      "romanian": "Îmi cer scuze, te rog să ierți.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329789"
+    },
+    {
+      "english": "I hope you can forgive me this time.",
+      "romanian": "Sper să mă poți ierta de data asta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329792"
+    },
+    {
+      "english": "It was unintentional, please forgive.",
+      "romanian": "A fost neintenționat, te rog iartă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329795"
+    },
+    {
+      "english": "I'm asking for mercy, forgive me.",
+      "romanian": "Cer milă, iartă-mă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329798"
+    },
+    {
+      "english": "What do you think, can we talk?",
+      "romanian": "Ce zici, putem vorbi?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329801"
+    },
+    {
+      "english": "How should I approach this situation?",
+      "romanian": "Cum să abordez situația asta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329805"
+    },
+    {
+      "english": "Do you feel ready to discuss?",
+      "romanian": "Te simți gata să discutăm?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329807"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "romanian": "Care e perspectiva ta asupra asta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329810"
+    },
+    {
+      "english": "Can we find common ground?",
+      "romanian": "Putem găsi un numitor comun?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329813"
+    },
+    {
+      "english": "What would help you feel better?",
+      "romanian": "Ce te-ar ajuta să te simți mai bine?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329816"
+    },
+    {
+      "english": "Are you willing to listen?",
+      "romanian": "Ești dispus să asculți?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329820"
+    },
+    {
+      "english": "What outcome are you hoping for?",
+      "romanian": "Ce rezultat speri?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329823"
+    },
+    {
+      "english": "Could you explain your feelings?",
+      "romanian": "Ai putea să explici ce simți?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329826"
+    },
+    {
+      "english": "How can we resolve this peacefully?",
+      "romanian": "Cum putem rezolva asta pașnic?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329831"
+    },
+    {
+      "english": "Do you think we can move forward?",
+      "romanian": "Crezi că putem merge mai departe?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329833"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "romanian": "Ce sfat îmi dai?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329836"
+    },
+    {
+      "english": "What does forgiveness mean to you?",
+      "romanian": "Ce înseamnă iertarea pentru tine?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329840"
+    },
+    {
+      "english": "Can you tell me what happened?",
+      "romanian": "Poți să-mi spui ce s-a întâmplat?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329843"
+    },
+    {
+      "english": "What are your expectations now?",
+      "romanian": "Care-s așteptările tale acum?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329846"
+    },
+    {
+      "english": "How do you feel about the apology?",
+      "romanian": "Cum te simți legat de scuze?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329849"
+    },
+    {
+      "english": "What's the best way forward?",
+      "romanian": "Care e cea mai bună cale?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329851"
+    },
+    {
+      "english": "Do you need more time?",
+      "romanian": "Ai nevoie de mai mult timp?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329854"
+    },
+    {
+      "english": "Can we rebuild trust?",
+      "romanian": "Putem reconstrui încrederea?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329857"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "romanian": "Ce părere ai despre asta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329859"
+    },
+    {
+      "english": "Are we able to forgive?",
+      "romanian": "Suntem capabili să iertăm?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329862"
+    },
+    {
+      "english": "What needs to happen next?",
+      "romanian": "Ce trebuie să se întâmple în continuare?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329864"
+    },
+    {
+      "english": "Can we understand each other?",
+      "romanian": "Ne putem înțelege?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329867"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "romanian": "Care e opinia ta sinceră?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329869"
+    },
+    {
+      "english": "How do we get past this anger?",
+      "romanian": "Cum depășim această furie?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329872"
+    },
+    {
+      "english": "Are you open to reconciliation?",
+      "romanian": "Ești deschis la împăcare?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329874"
+    },
+    {
+      "english": "What would closure look like?",
+      "romanian": "Cum ar arăta o încheiere?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329877"
+    },
+    {
+      "english": "Can we learn from this experience?",
+      "romanian": "Putem învăța din asta?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329880"
+    },
+    {
+      "english": "Let go of the past, embrace the future.",
+      "romanian": "Lasă trecutul, îmbrățișează viitorul.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329883"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "romanian": "Ești mai puternic decât crezi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329885"
+    },
+    {
+      "english": "Kindness heals, always remember that.",
+      "romanian": "Bunătatea vindecă, amintește-ți mereu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329888"
+    },
+    {
+      "english": "Every day is a new beginning.",
+      "romanian": "Fiecare zi e un nou început.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329891"
+    },
+    {
+      "english": "Your inner peace matters most.",
+      "romanian": "Pacea ta interioară contează cel mai mult.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329894"
+    },
+    {
+      "english": "Believe in your own strength.",
+      "romanian": "Crede în propria ta forță.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329896"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "romanian": "Gânduri pozitive, rezultate pozitive.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329899"
+    },
+    {
+      "english": "You have the power to heal.",
+      "romanian": "Ai puterea de a vindeca.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329904"
+    },
+    {
+      "english": "Let forgiveness be your guide.",
+      "romanian": "Lasă iertarea să-ți fie ghid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329906"
+    },
+    {
+      "english": "Focus on what truly matters.",
+      "romanian": "Concentrează-te pe ce contează cu adevărat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329909"
+    },
+    {
+      "english": "You are capable of great things.",
+      "romanian": "Ești capabil de lucruri mărețe.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329912"
+    },
+    {
+      "english": "Empathy builds stronger connections.",
+      "romanian": "Empatia construiește legături mai puternice.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329914"
+    },
+    {
+      "english": "Peace starts within you.",
+      "romanian": "Pacea începe din interiorul tău.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329917"
+    },
+    {
+      "english": "Choose understanding over judgment.",
+      "romanian": "Alege înțelegerea în locul judecății.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329919"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "romanian": "Reziliența ta este inspirațională.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329922"
+    },
+    {
+      "english": "Let compassion lead the way.",
+      "romanian": "Lasă compasiunea să te ghideze.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329926"
+    },
+    {
+      "english": "You are growing every single day.",
+      "romanian": "Crești în fiecare zi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329929"
+    },
+    {
+      "english": "Acknowledge your progress, celebrate it.",
+      "romanian": "Recunoaște-ți progresul, sărbătorește-l.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329932"
+    },
+    {
+      "english": "Release what no longer serves you.",
+      "romanian": "Eliberează ce nu-ți mai servește.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329934"
+    },
+    {
+      "english": "Your healing journey is valid.",
+      "romanian": "Călătoria ta de vindecare e validă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329937"
+    },
+    {
+      "english": "Be gentle with yourself now.",
+      "romanian": "Fii blând cu tine acum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329939"
+    },
+    {
+      "english": "Gratitude opens many doors.",
+      "romanian": "Recunoștința deschide multe uși.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329942"
+    },
+    {
+      "english": "You deserve inner calm.",
+      "romanian": "Meriti liniște interioară.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329944"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "romanian": "Învață din greșeli, nu insista.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329949"
+    },
+    {
+      "english": "Your heart is capable of love.",
+      "romanian": "Inima ta e capabilă de iubire.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329952"
+    },
+    {
+      "english": "Find strength in vulnerability.",
+      "romanian": "Găsește putere în vulnerabilitate.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329955"
+    },
+    {
+      "english": "You are a work in progress.",
+      "romanian": "Ești un proces continuu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329957"
+    },
+    {
+      "english": "Let go, and you will be free.",
+      "romanian": "Renunță, și vei fi liber.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329960"
+    },
+    {
+      "english": "Forgiveness is a gift to yourself.",
+      "romanian": "Iertarea e un dar pentru tine.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329963"
+    },
+    {
+      "english": "Choose peace, choose healing.",
+      "romanian": "Alege pacea, alege vindecarea.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329965"
+    },
+    {
+      "english": "I need some time, to think.",
+      "romanian": "Am nevoie de timp, să mă gândesc.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329968"
+    },
+    {
+      "english": "This is hard, on my heart.",
+      "romanian": "E greu, pe sufletul meu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329971"
+    },
+    {
+      "english": "I feel lighter, after talking.",
+      "romanian": "Mă simt mai ușor, după ce am vorbit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329974"
+    },
+    {
+      "english": "Let's be patient, with each other.",
+      "romanian": "Hai să fim răbdători, unul cu altul.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329977"
+    },
+    {
+      "english": "My feelings are complicated, right now.",
+      "romanian": "Sentimentele mele sunt complicate, acum.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329980"
+    },
+    {
+      "english": "I'm trying, to see your side.",
+      "romanian": "Încerc, să văd și perspectiva ta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329983"
+    },
+    {
+      "english": "This requires, real honesty.",
+      "romanian": "Asta cere, sinceritate reală.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329986"
+    },
+    {
+      "english": "Can we heal, together, slowly?",
+      "romanian": "Putem vindeca, împreună, încet?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329992"
+    },
+    {
+      "english": "I'm reflecting, on everything.",
+      "romanian": "Reflectez, la tot ce s-a întâmplat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329995"
+    },
+    {
+      "english": "Your words, hurt me deeply.",
+      "romanian": "Cuvintele tale, m-au rănit profund.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.329998"
+    },
+    {
+      "english": "I wish us, more understanding.",
+      "romanian": "Îmi doresc, nouă, mai multă înțelegere.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330001"
+    },
+    {
+      "english": "It's okay, to feel upset.",
+      "romanian": "E normal, să te simți supărat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330004"
+    },
+    {
+      "english": "Let's rebuild, our connection.",
+      "romanian": "Să ne refacem, legătura.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330007"
+    },
+    {
+      "english": "I need closure, eventually.",
+      "romanian": "Am nevoie de încheiere, până la urmă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330010"
+    },
+    {
+      "english": "Forgiveness is hard, but worth it.",
+      "romanian": "Iertarea e grea, dar merită.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330013"
+    },
+    {
+      "english": "I'm learning, to let go.",
+      "romanian": "Învăț, să las lucrurile să plece.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330016"
+    },
+    {
+      "english": "We need open communication.",
+      "romanian": "Avem nevoie, de comunicare deschisă.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330018"
+    },
+    {
+      "english": "My heart needs, some healing.",
+      "romanian": "Inima mea are, nevoie de vindecare.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330023"
+    },
+    {
+      "english": "Can we start, fresh, maybe?",
+      "romanian": "Putem începe, de la zero, poate?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330026"
+    },
+    {
+      "english": "This situation, changed me.",
+      "romanian": "Situația asta, m-a schimbat.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330028"
+    },
+    {
+      "english": "I accept, your apology.",
+      "romanian": "Îți accept, scuzele.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330031"
+    },
+    {
+      "english": "Let's focus, on the future.",
+      "romanian": "Să ne concentrăm, pe viitor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330034"
+    },
+    {
+      "english": "I forgive, for my own peace.",
+      "romanian": "Iert, pentru liniștea mea.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330037"
+    },
+    {
+      "english": "It takes courage, to forgive.",
+      "romanian": "Necesită curaj, să ierți.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330039"
+    },
+    {
+      "english": "I'm processing, these emotions.",
+      "romanian": "Procesez, aceste emoții.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330042"
+    },
+    {
+      "english": "Let's find, common ground.",
+      "romanian": "Să găsim, un teren comun.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330045"
+    },
+    {
+      "english": "This is a learning process.",
+      "romanian": "Acesta este un proces de învățare.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330048"
+    },
+    {
+      "english": "I value, our relationship.",
+      "romanian": "Prețuiesc, relația noastră.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330051"
+    },
+    {
+      "english": "Can we move, forward now?",
+      "romanian": "Putem merge, mai departe acum?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330053"
+    },
+    {
+      "english": "I need to feel safe, again.",
+      "romanian": "Am nevoie să mă simt în siguranță, din nou.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330056"
+    },
+    {
+      "english": "Let's clear the air, okay?",
+      "romanian": "Hai să lămurim lucrurile, bine?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330059"
+    },
+    {
+      "english": "It's okay, we all make mistakes.",
+      "romanian": "E în regulă, toți greșim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330063"
+    },
+    {
+      "english": "I'm choosing to move past this.",
+      "romanian": "Aleg să trec peste asta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-20T05:45:26.330068"
     }
   ],
-  "last_updated": "2026-10-19T05:53:02.382661"
+  "last_updated": "2026-10-20T05:45:26.330069"
 }
