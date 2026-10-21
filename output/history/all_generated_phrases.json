@@ -2897,7 +2897,727 @@
       "romanian": "Aleg să trec peste asta.",
       "category": "Forgiveness",
       "generated_at": "2026-10-20T05:45:26.330068"
+    },
+    {
+      "english": "What's up, man?",
+      "romanian": "Ce faci, boss?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999455"
+    },
+    {
+      "english": "No way, really?",
+      "romanian": "Nuu, pe bune?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999468"
+    },
+    {
+      "english": "It's awesome, dude.",
+      "romanian": "E tare, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999472"
+    },
+    {
+      "english": "I'm so tired, man.",
+      "romanian": "Mor de oboseală, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999475"
+    },
+    {
+      "english": "Let's go, hurry up!",
+      "romanian": "Hai, repede!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999478"
+    },
+    {
+      "english": "What a mess, oh no.",
+      "romanian": "Ce haos, vai de mine.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999481"
+    },
+    {
+      "english": "It's fine, don't worry.",
+      "romanian": "E ok, lasă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999484"
+    },
+    {
+      "english": "Are you kidding me?",
+      "romanian": "Glumești cu mine?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999489"
+    },
+    {
+      "english": "Just chilling, you know.",
+      "romanian": "Stau așa, știi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999493"
+    },
+    {
+      "english": "Let's grab a beer.",
+      "romanian": "Hai la o bere.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999495"
+    },
+    {
+      "english": "I'm starving, really.",
+      "romanian": "Mor de foame.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999500"
+    },
+    {
+      "english": "See you later, dude.",
+      "romanian": "Ne vedem, boss.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999503"
+    },
+    {
+      "english": "It's freezing outside.",
+      "romanian": "Îngheț afară.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999522"
+    },
+    {
+      "english": "It's boiling hot.",
+      "romanian": "Arde soarele.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999525"
+    },
+    {
+      "english": "I'm broke, can't go.",
+      "romanian": "N-am bani, nu merg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999528"
+    },
+    {
+      "english": "What a pain, seriously.",
+      "romanian": "Ce nasol, pe bune.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999531"
+    },
+    {
+      "english": "It's complicated, man.",
+      "romanian": "E complicat, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999533"
+    },
+    {
+      "english": "You got it, no problem.",
+      "romanian": "Sigur, fără probleme.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999536"
+    },
+    {
+      "english": "Just kidding, relax.",
+      "romanian": "M-am luat de tine, stai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999538"
+    },
+    {
+      "english": "I'm swamped with work.",
+      "romanian": "Sunt înecat în muncă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999543"
+    },
+    {
+      "english": "Let's hang out soon.",
+      "romanian": "Hai să ne vedem.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999546"
+    },
+    {
+      "english": "That sounds fun.",
+      "romanian": "Pare distractiv.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999551"
+    },
+    {
+      "english": "I'm feeling down, man.",
+      "romanian": "Sunt cam trist.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999553"
+    },
+    {
+      "english": "Don't sweat it, bro.",
+      "romanian": "Nu-ți face griji.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999556"
+    },
+    {
+      "english": "What a coincidence!",
+      "romanian": "Ce coincidență!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999558"
+    },
+    {
+      "english": "It's a bit late.",
+      "romanian": "E cam târziu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999561"
+    },
+    {
+      "english": "My bad, sorry.",
+      "romanian": "Scuze, greșeala mea.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999563"
+    },
+    {
+      "english": "Let's hit the road.",
+      "romanian": "Hai s-o luăm spre casă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999566"
+    },
+    {
+      "english": "It's a deal, man.",
+      "romanian": "Batem palma, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999569"
+    },
+    {
+      "english": "What do you think, boss?",
+      "romanian": "Ce zici, șefu'?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999572"
+    },
+    {
+      "english": "Tell me, what's the plan?",
+      "romanian": "Zi-mi, care-i faza?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999575"
+    },
+    {
+      "english": "How's it going, my friend?",
+      "romanian": "Ce mai faci, amice?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999578"
+    },
+    {
+      "english": "You want to join us?",
+      "romanian": "Vrei să vii cu noi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999581"
+    },
+    {
+      "english": "What are you up to today?",
+      "romanian": "Ce faci pe-aici azi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999583"
+    },
+    {
+      "english": "Can I ask you something?",
+      "romanian": "Pot să te întreb ceva?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999586"
+    },
+    {
+      "english": "Any advice for me, please?",
+      "romanian": "Ai vreun sfat pentru mine?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999589"
+    },
+    {
+      "english": "What's new with you?",
+      "romanian": "Ce mai e nou pe la tine?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999592"
+    },
+    {
+      "english": "What do you recommend here?",
+      "romanian": "Ce recomanzi pe aici?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999595"
+    },
+    {
+      "english": "Is this seat taken?",
+      "romanian": "E ocupat locul ăsta?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999598"
+    },
+    {
+      "english": "What's the secret, man?",
+      "romanian": "Care-i șmecheria, frate?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999602"
+    },
+    {
+      "english": "You seem busy, right?",
+      "romanian": "Pari ocupat, nu?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999604"
+    },
+    {
+      "english": "What should I do now?",
+      "romanian": "Ce să fac acum?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999607"
+    },
+    {
+      "english": "Can you explain that, please?",
+      "romanian": "Poți să explici, te rog?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999610"
+    },
+    {
+      "english": "Did you hear the news?",
+      "romanian": "Ai auzit știrea?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999613"
+    },
+    {
+      "english": "What's the gossip, girl?",
+      "romanian": "Ce bârfe sunt, fată?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999615"
+    },
+    {
+      "english": "Are you free tonight?",
+      "romanian": "Ești liberă diseară?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999618"
+    },
+    {
+      "english": "What's the catch here?",
+      "romanian": "Unde e șpilul?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999622"
+    },
+    {
+      "english": "How did you manage that?",
+      "romanian": "Cum ai reușit asta?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999625"
+    },
+    {
+      "english": "What are you thinking about?",
+      "romanian": "La ce te gândești?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999627"
+    },
+    {
+      "english": "Can we talk for a bit?",
+      "romanian": "Putem vorbi puțin?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999630"
+    },
+    {
+      "english": "What's the latest update?",
+      "romanian": "Care-i ultima veste?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999632"
+    },
+    {
+      "english": "Any plans for the weekend?",
+      "romanian": "Ce planuri ai de weekend?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999635"
+    },
+    {
+      "english": "You've got a minute?",
+      "romanian": "Ai un minut?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999637"
+    },
+    {
+      "english": "You can do it, believe!",
+      "romanian": "Poți să faci asta, crede!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999642"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "romanian": "Ține-o tot așa, nu renunța.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999645"
+    },
+    {
+      "english": "That's awesome, well done!",
+      "romanian": "Super tare, bine făcut!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999648"
+    },
+    {
+      "english": "You're really smart, wow!",
+      "romanian": "Ești tare deștept, wow!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999651"
+    },
+    {
+      "english": "Think positive, always.",
+      "romanian": "Gândește pozitiv, mereu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999653"
+    },
+    {
+      "english": "You've got this, easy peasy.",
+      "romanian": "Ai prins ideea, floare la ureche.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999656"
+    },
+    {
+      "english": "That's a great idea, yes!",
+      "romanian": "Ce idee genială, da!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999659"
+    },
+    {
+      "english": "You are very talented.",
+      "romanian": "Ești foarte talentat.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999662"
+    },
+    {
+      "english": "Just go for it, man.",
+      "romanian": "Bagă mare, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999664"
+    },
+    {
+      "english": "You're a rockstar, seriously.",
+      "romanian": "Ești un star, pe bune.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999667"
+    },
+    {
+      "english": "That's the spirit, go on!",
+      "romanian": "Asta-i atitudinea, mergi înainte!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999670"
+    },
+    {
+      "english": "You learned super fast.",
+      "romanian": "Ai învățat super repede.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999673"
+    },
+    {
+      "english": "Every step counts, you know.",
+      "romanian": "Fiecare pas contează, știi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999675"
+    },
+    {
+      "english": "Stay strong, you can win.",
+      "romanian": "Rămâi puternic, poți câștiga.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999678"
+    },
+    {
+      "english": "You're nailing it, fantastic!",
+      "romanian": "Îți iese de minune, fantastic!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999681"
+    },
+    {
+      "english": "This is your moment, shine!",
+      "romanian": "Acesta e momentul tău, strălucește!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999684"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "romanian": "Nu te subestima niciodată.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999686"
+    },
+    {
+      "english": "Chin up, head high, friend.",
+      "romanian": "Sus capul, sus, prietene.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999691"
+    },
+    {
+      "english": "You're doing great, really.",
+      "romanian": "O faci excelent, chiar.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999694"
+    },
+    {
+      "english": "Let your light shine out.",
+      "romanian": "Lasă-ți lumina să iasă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999699"
+    },
+    {
+      "english": "Success is within reach.",
+      "romanian": "Succesul e la îndemână.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999701"
+    },
+    {
+      "english": "You're a winner, for sure.",
+      "romanian": "Ești un învingător, sigur.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999704"
+    },
+    {
+      "english": "Keep that energy up, man.",
+      "romanian": "Menține energia aia, băi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999707"
+    },
+    {
+      "english": "You got this whole thing.",
+      "romanian": "Ai prins tot scheletul.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999709"
+    },
+    {
+      "english": "You're unstoppable, go!",
+      "romanian": "Ești de neoprit, hai!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999712"
+    },
+    {
+      "english": "Positive vibes only, man.",
+      "romanian": "Doar vibe-uri pozitive, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999714"
+    },
+    {
+      "english": "You're totally crushing it.",
+      "romanian": "Îl distrugi complet.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999717"
+    },
+    {
+      "english": "It hit me, you know.",
+      "romanian": "Mi-a picat fisa, știi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999720"
+    },
+    {
+      "english": "I'm really feeling it.",
+      "romanian": "Chiar simt asta, pe bune.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999722"
+    },
+    {
+      "english": "It's a deep one, truly.",
+      "romanian": "E adâncă treaba, sincer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999725"
+    },
+    {
+      "english": "My gut feeling says no.",
+      "romanian": "Burta îmi zice pas, cumva.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999728"
+    },
+    {
+      "english": "Just gotta trust the process.",
+      "romanian": "Trebuie doar să am încredere.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999730"
+    },
+    {
+      "english": "Slow and steady wins, right?",
+      "romanian": "Încet și sigur, nu-i așa?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999735"
+    },
+    {
+      "english": "It's a tough pill to swallow.",
+      "romanian": "E greu de digerat, asta-i clar.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999738"
+    },
+    {
+      "english": "I'm pondering this a lot.",
+      "romanian": "Mă frământ tare la asta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999740"
+    },
+    {
+      "english": "It makes you think, doesn't it?",
+      "romanian": "Te pune pe gânduri, nu-i așa?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999743"
+    },
+    {
+      "english": "I'm just going with the flow.",
+      "romanian": "Las lucrurile să vină.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999746"
+    },
+    {
+      "english": "It weighs on my mind.",
+      "romanian": "Mă macină gândul ăsta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999748"
+    },
+    {
+      "english": "I'm just taking it easy.",
+      "romanian": "O iau mai ușor, pur și simplu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999751"
+    },
+    {
+      "english": "It's a learning curve, man.",
+      "romanian": "E o curbă de învățare, frate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999754"
+    },
+    {
+      "english": "Patience is a virtue, for sure.",
+      "romanian": "Răbdarea e sfântă, clar.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999756"
+    },
+    {
+      "english": "I need some time to process.",
+      "romanian": "Îmi trebuie timp să diger.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999759"
+    },
+    {
+      "english": "It's a complicated matter.",
+      "romanian": "E o treabă complicată, tare.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999762"
+    },
+    {
+      "english": "I'm really reflecting on this.",
+      "romanian": "Mă gândesc serios la asta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999764"
+    },
+    {
+      "english": "It got me thinking deeply.",
+      "romanian": "M-a pus pe gânduri adânci.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999769"
+    },
+    {
+      "english": "It's not that simple, dude.",
+      "romanian": "Nu-i chiar așa simplu, știi?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999771"
+    },
+    {
+      "english": "Just gotta let it unfold.",
+      "romanian": "Lasă, oricum se rezolvă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999774"
+    },
+    {
+      "english": "My intuition is strong here.",
+      "romanian": "Intuiția îmi spune clar.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999777"
+    },
+    {
+      "english": "It feels right, honestly.",
+      "romanian": "Simt că e bine, sincer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999779"
+    },
+    {
+      "english": "This is a real eye-opener.",
+      "romanian": "Asta chiar mi-a deschis ochii.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999782"
+    },
+    {
+      "english": "It's food for thought, you know.",
+      "romanian": "E de gândit, să știi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999785"
+    },
+    {
+      "english": "I'm trying to be patient.",
+      "romanian": "Încerc să am răbdare.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999787"
+    },
+    {
+      "english": "It's a tricky situation.",
+      "romanian": "E o situație delicată.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999790"
+    },
+    {
+      "english": "I'm feeling a bit lost.",
+      "romanian": "Mă simt puțin pierdut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999792"
+    },
+    {
+      "english": "This requires careful thought.",
+      "romanian": "Asta cere gândire atentă.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999795"
+    },
+    {
+      "english": "It's a tough realization.",
+      "romanian": "E o conștientizare grea.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999797"
+    },
+    {
+      "english": "I'm just going with my gut.",
+      "romanian": "Ascult ce-mi zice stomacul.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999800"
+    },
+    {
+      "english": "No worries, man, relax.",
+      "romanian": "Las-o moale, frate, relax.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999803"
+    },
+    {
+      "english": "Let's grab a bite, quick.",
+      "romanian": "Hai să ronțăim ceva, repede.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999806"
+    },
+    {
+      "english": "What's the damage, dude?",
+      "romanian": "Cât costă tota, nene?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999809"
+    },
+    {
+      "english": "Don't sweat it, it's fine.",
+      "romanian": "Nu te agita, e ok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999812"
+    },
+    {
+      "english": "Spill the beans, what happened?",
+      "romanian": "Zi tot, ce s-a întâmplat?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999815"
+    },
+    {
+      "english": "I'm beat, need to crash.",
+      "romanian": "Sunt praf, trebuie să pic.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999818"
+    },
+    {
+      "english": "Cut to the chase, please.",
+      "romanian": "Direct la subiect, te rog.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999822"
+    },
+    {
+      "english": "It's a piece of cake.",
+      "romanian": "E floare la ureche.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999825"
+    },
+    {
+      "english": "You nailed it, seriously.",
+      "romanian": "Ai nimerit-o perfect, serios.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999828"
+    },
+    {
+      "english": "Just winging it, you know.",
+      "romanian": "Improvizez pe parcurs, știi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-21T05:48:55.999830"
     }
   ],
-  "last_updated": "2026-10-20T05:45:26.330069"
+  "last_updated": "2026-10-21T05:48:55.999832"
 }
