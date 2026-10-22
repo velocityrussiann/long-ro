@@ -3617,7 +3617,727 @@
       "romanian": "Improvizez pe parcurs, știi.",
       "category": "Common Native Slang",
       "generated_at": "2026-10-21T05:48:55.999830"
+    },
+    {
+      "english": "Hello, where is the bus stop?",
+      "romanian": "Bună, unde e stația de autobuz?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588477"
+    },
+    {
+      "english": "Excuse me, does this bus go downtown?",
+      "romanian": "Scuzați-mă, autobuzul ăsta merge în centru?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588492"
+    },
+    {
+      "english": "How much is a ticket, please?",
+      "romanian": "Cât costă un bilet, vă rog?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588495"
+    },
+    {
+      "english": "Where can I buy a ticket?",
+      "romanian": "Unde pot să cumpăr un bilet?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588498"
+    },
+    {
+      "english": "This is my stop, thank you.",
+      "romanian": "Aceasta e stația mea, mulțumesc.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588501"
+    },
+    {
+      "english": "Is the next stop the central station?",
+      "romanian": "Stația următoare e gara centrală?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588503"
+    },
+    {
+      "english": "I need to get to the airport.",
+      "romanian": "Trebuie să ajung la aeroport.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588505"
+    },
+    {
+      "english": "What time does the last train leave?",
+      "romanian": "La ce oră pleacă ultimul tren?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588511"
+    },
+    {
+      "english": "Can I have a return ticket?",
+      "romanian": "Pot să am un bilet dus-întors?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588514"
+    },
+    {
+      "english": "This train is very crowded.",
+      "romanian": "Trenul ăsta e foarte aglomerat.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588516"
+    },
+    {
+      "english": "When does it arrive?",
+      "romanian": "Când ajunge?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588518"
+    },
+    {
+      "english": "I missed my connection.",
+      "romanian": "Am pierdut legătura.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588521"
+    },
+    {
+      "english": "Is there a metro station nearby?",
+      "romanian": "E vreo stație de metrou pe aici?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588523"
+    },
+    {
+      "english": "I'm looking for the tram.",
+      "romanian": "Caut tramvaiul.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588525"
+    },
+    {
+      "english": "How often do the buses run?",
+      "romanian": "Cât de des circulă autobuzele?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588527"
+    },
+    {
+      "english": "I need a map of the subway.",
+      "romanian": "Îmi trebuie o hartă a metroului.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588529"
+    },
+    {
+      "english": "Can I pay with a card?",
+      "romanian": "Pot să plătesc cu cardul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588531"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "romanian": "Există reducere pentru studenți?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588533"
+    },
+    {
+      "english": "This route is quite long.",
+      "romanian": "Ruta asta e destul de lungă.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588535"
+    },
+    {
+      "english": "Where is the next stop?",
+      "romanian": "Unde e următoarea stație?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588537"
+    },
+    {
+      "english": "I need to go to the train station.",
+      "romanian": "Trebuie să ajung la gară.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588540"
+    },
+    {
+      "english": "Can I get on here?",
+      "romanian": "Pot să urc aici?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588542"
+    },
+    {
+      "english": "Is this bus going to the city center?",
+      "romanian": "Autobuzul ăsta merge spre centrul orașului?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588544"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "romanian": "M-am rătăcit puțin.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588546"
+    },
+    {
+      "english": "How do I get to the old town?",
+      "romanian": "Cum ajung în orașul vechi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588548"
+    },
+    {
+      "english": "Is it far from here?",
+      "romanian": "E departe de aici?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588550"
+    },
+    {
+      "english": "I need to validate my ticket.",
+      "romanian": "Trebuie să-mi validez biletul.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588552"
+    },
+    {
+      "english": "Which platform is it?",
+      "romanian": "Care e peronul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588555"
+    },
+    {
+      "english": "This is the right way.",
+      "romanian": "E direcția corectă.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588558"
+    },
+    {
+      "english": "Sorry, I don't understand.",
+      "romanian": "Scuze, nu înțeleg.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588561"
+    },
+    {
+      "english": "Which bus, do you think, is faster?",
+      "romanian": "Ce autobuz, crezi, este mai rapid?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588564"
+    },
+    {
+      "english": "Could you point me, towards the station?",
+      "romanian": "Ați putea să-mi arătați, spre gară?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588567"
+    },
+    {
+      "english": "Is this the correct line, for the museum?",
+      "romanian": "Este linia corectă, pentru muzeu?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588571"
+    },
+    {
+      "english": "How many stops, until the main square?",
+      "romanian": "Câte stații, până în piața principală?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588574"
+    },
+    {
+      "english": "Does this tram, have a schedule display?",
+      "romanian": "Tramvaiul acesta, are afișaj cu program?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588576"
+    },
+    {
+      "english": "Can I get off, at any door?",
+      "romanian": "Pot să cobor, la orice ușă?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588579"
+    },
+    {
+      "english": "Is there a transfer, available here?",
+      "romanian": "Există un transfer, disponibil aici?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588582"
+    },
+    {
+      "english": "What's the best way, to reach the university?",
+      "romanian": "Care e cel mai bun drum, spre universitate?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588584"
+    },
+    {
+      "english": "Do you know, if this is a night bus?",
+      "romanian": "Știți, dacă acesta e autobuz de noapte?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588587"
+    },
+    {
+      "english": "When is the next connection, to Cluj?",
+      "romanian": "Când e următoarea legătură, spre Cluj?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588589"
+    },
+    {
+      "english": "Is it possible, to buy a day pass?",
+      "romanian": "E posibil, să cumpăr un abonament de o zi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588591"
+    },
+    {
+      "english": "How late, does the last tram run?",
+      "romanian": "Până la ce oră, circulă ultimul tramvai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588593"
+    },
+    {
+      "english": "Are these seats, free?",
+      "romanian": "Sunt locurile acestea, libere?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588596"
+    },
+    {
+      "english": "Could you tell me, the stop name?",
+      "romanian": "Ați putea să-mi spuneți, numele stației?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588598"
+    },
+    {
+      "english": "Which platform, for the express bus?",
+      "romanian": "Care peron, pentru autobuzul expres?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588600"
+    },
+    {
+      "english": "Does this vehicle, have Wi-Fi?",
+      "romanian": "Vehiculul acesta, are Wi-Fi?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588603"
+    },
+    {
+      "english": "Is there a restroom, on board?",
+      "romanian": "Există o toaletă, la bord?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588605"
+    },
+    {
+      "english": "How do I switch, to the metro?",
+      "romanian": "Cum fac legătura, cu metroul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588607"
+    },
+    {
+      "english": "Can I bring, a bicycle on board?",
+      "romanian": "Pot să aduc, o bicicletă în vehicul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588609"
+    },
+    {
+      "english": "What's the final destination?",
+      "romanian": "Care este destinația finală?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588612"
+    },
+    {
+      "english": "Is this route, usually busy?",
+      "romanian": "Traseul acesta, este de obicei aglomerat?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588614"
+    },
+    {
+      "english": "Can I help, someone find their seat?",
+      "romanian": "Pot să ajut, pe cineva să-și găsească locul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588616"
+    },
+    {
+      "english": "Where can I get, a public transport pass?",
+      "romanian": "Unde pot obține, un abonament de transport?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588618"
+    },
+    {
+      "english": "Is there a station, with a ticket machine?",
+      "romanian": "Există o stație, cu aparat de bilete?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588620"
+    },
+    {
+      "english": "Do you recommend, this particular line?",
+      "romanian": "Recomandați, această linie anume?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588623"
+    },
+    {
+      "english": "How long does the journey take?",
+      "romanian": "Cât durează călătoria?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588625"
+    },
+    {
+      "english": "Is this vehicle, accessible for wheelchairs?",
+      "romanian": "Vehiculul acesta, e accesibil pentru scaune rulante?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588627"
+    },
+    {
+      "english": "Could you confirm, the next stop?",
+      "romanian": "Ați putea confirma, următoarea stație?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588629"
+    },
+    {
+      "english": "Where should I wait, for the tram?",
+      "romanian": "Unde ar trebui să aștept, tramvaiul?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588632"
+    },
+    {
+      "english": "You're doing great, keep it up!",
+      "romanian": "Te descurci excelent, continuă așa!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588634"
+    },
+    {
+      "english": "Every journey starts, with one step.",
+      "romanian": "Fiecare călătorie începe, cu un pas.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588637"
+    },
+    {
+      "english": "Learning is a process, be patient.",
+      "romanian": "Învățarea e un proces, ai răbdare.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588639"
+    },
+    {
+      "english": "You've got this, embrace the challenge.",
+      "romanian": "Poți face asta, îmbrățișează provocarea.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588643"
+    },
+    {
+      "english": "Don't be afraid, to ask questions.",
+      "romanian": "Nu îți fie frică, să pui întrebări.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588646"
+    },
+    {
+      "english": "Mistakes are proof, you are trying.",
+      "romanian": "Greșelile sunt dovada, că încerci.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588648"
+    },
+    {
+      "english": "This is a new skill, you're building.",
+      "romanian": "E o nouă abilitate, pe care o construiești.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588651"
+    },
+    {
+      "english": "You're learning fast, I can see it.",
+      "romanian": "Înveți repede, se vede.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588654"
+    },
+    {
+      "english": "Focus on progress, not perfection.",
+      "romanian": "Concentrează-te pe progres, nu pe perfecțiune.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588656"
+    },
+    {
+      "english": "Take a deep breath, you'll figure it out.",
+      "romanian": "Trage aer în piept, vei reuși.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588659"
+    },
+    {
+      "english": "That's a great observation!",
+      "romanian": "Ce observație grozavă!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588661"
+    },
+    {
+      "english": "You're really getting the hang of it.",
+      "romanian": "Începi să te prinzi, cu asta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588665"
+    },
+    {
+      "english": "Excellent work, on understanding that!",
+      "romanian": "Bravo, ai înțeles asta!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588667"
+    },
+    {
+      "english": "Don't give up, it's worth it.",
+      "romanian": "Nu renunța, merită.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588670"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "romanian": "Aceasta e o oportunitate, de învățare.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588672"
+    },
+    {
+      "english": "You're making good progress.",
+      "romanian": "Progresezi bine.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588675"
+    },
+    {
+      "english": "Stay positive, you'll master it.",
+      "romanian": "Rămâi pozitiv, vei stăpâni asta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588677"
+    },
+    {
+      "english": "Every attempt counts, towards success.",
+      "romanian": "Fiecare încercare contează, spre succes.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588680"
+    },
+    {
+      "english": "You're doing much better, than yesterday.",
+      "romanian": "Te descurci mult mai bine, ca ieri.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588682"
+    },
+    {
+      "english": "Trust your instincts, they're usually right.",
+      "romanian": "Ai încredere în instinct, sunt de obicei corecte.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588685"
+    },
+    {
+      "english": "You're capable of more, than you think.",
+      "romanian": "Ești capabil de mai mult, decât crezi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588687"
+    },
+    {
+      "english": "Celebrate small victories, they add up.",
+      "romanian": "Sărbătorește micile victorii, se adună.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588689"
+    },
+    {
+      "english": "Your effort is noticeable.",
+      "romanian": "Efortul tău se observă.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588691"
+    },
+    {
+      "english": "You are learning, one step at a time.",
+      "romanian": "Înveți, câte un pas.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588694"
+    },
+    {
+      "english": "This is a good moment, to practice.",
+      "romanian": "E un moment bun, să exersezi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588696"
+    },
+    {
+      "english": "You're building confidence, with each try.",
+      "romanian": "Îți construiești încrederea, cu fiecare încercare.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588699"
+    },
+    {
+      "english": "That was a smart question!",
+      "romanian": "Ce întrebare inteligentă!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588701"
+    },
+    {
+      "english": "You're navigating this well.",
+      "romanian": "Te descurci bine, cu asta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588703"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "romanian": "Păstrează atitudinea asta pozitivă.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588705"
+    },
+    {
+      "english": "You are stronger, than you realize.",
+      "romanian": "Ești mai puternic, decât îți dai seama.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588707"
+    },
+    {
+      "english": "Sometimes, I just enjoy the ride.",
+      "romanian": "Uneori, pur și simplu mă bucur de drum.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588710"
+    },
+    {
+      "english": "This commute, makes me think.",
+      "romanian": "Acest drum, mă pune pe gânduri.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588712"
+    },
+    {
+      "english": "I feel calmer, after this journey.",
+      "romanian": "Mă simt mai liniștit, după călătoria asta.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588714"
+    },
+    {
+      "english": "It's a good time, to people-watch.",
+      "romanian": "E un moment bun, să observi oamenii.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588718"
+    },
+    {
+      "english": "I appreciate, the quiet moments.",
+      "romanian": "Apreciez, momentele de liniște.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588720"
+    },
+    {
+      "english": "This journey, always teaches me something.",
+      "romanian": "Călătoria asta, mă învață mereu ceva.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588722"
+    },
+    {
+      "english": "I feel a connection, with the city.",
+      "romanian": "Simt o legătură, cu orașul.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588726"
+    },
+    {
+      "english": "Unexpected delays, test my patience.",
+      "romanian": "Întârzierile neașteptate, îmi testează răbdarea.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588728"
+    },
+    {
+      "english": "It's surprisingly peaceful, sometimes.",
+      "romanian": "E surprinzător de liniștit, uneori.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588731"
+    },
+    {
+      "english": "I often daydream, on the bus.",
+      "romanian": "Adesea visez cu ochii deschiși, în autobuz.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588734"
+    },
+    {
+      "english": "This is my quiet reflection time.",
+      "romanian": "Acesta e timpul meu, de reflecție liniștită.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588736"
+    },
+    {
+      "english": "I feel the city's pulse, here.",
+      "romanian": "Simt pulsul orașului, aici.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588739"
+    },
+    {
+      "english": "It makes me appreciate, simple things.",
+      "romanian": "Mă face să apreciez, lucrurile simple.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588741"
+    },
+    {
+      "english": "Every passenger, has a story.",
+      "romanian": "Fiecare pasager, are o poveste.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588743"
+    },
+    {
+      "english": "This journey, helps me decompress.",
+      "romanian": "Drumul acesta, mă ajută să mă destind.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588746"
+    },
+    {
+      "english": "I'm learning to be more present.",
+      "romanian": "Învăț să fiu mai prezent.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588749"
+    },
+    {
+      "english": "It’s a shared experience, isn't it?",
+      "romanian": "E o experiență comună, nu-i așa?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588752"
+    },
+    {
+      "english": "I find inspiration, in the routine.",
+      "romanian": "Găsesc inspirație, în rutină.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588755"
+    },
+    {
+      "english": "The rhythm of the train, is soothing.",
+      "romanian": "Ritmul trenului, e liniștitor.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588757"
+    },
+    {
+      "english": "It’s a moment, of honest self-reflection.",
+      "romanian": "E un moment, de sinceră auto-reflecție.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588761"
+    },
+    {
+      "english": "I try to see the beauty, in transit.",
+      "romanian": "Încerc să văd frumusețea, în tranzit.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588763"
+    },
+    {
+      "english": "This ride, helps me process thoughts.",
+      "romanian": "Călătoria asta, mă ajută să-mi procesez gândurile.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588765"
+    },
+    {
+      "english": "I'm practicing, patience today.",
+      "romanian": "Practic, răbdare astăzi.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588768"
+    },
+    {
+      "english": "It's fascinating, observing human behavior.",
+      "romanian": "E fascinant, să observi comportamentul uman.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588770"
+    },
+    {
+      "english": "I feel a sense of community, sometimes.",
+      "romanian": "Simt un sentiment de comunitate, uneori.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588772"
+    },
+    {
+      "english": "This journey, brings perspective.",
+      "romanian": "Călătoria asta, aduce perspectivă.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588774"
+    },
+    {
+      "english": "I find peace, in the movement.",
+      "romanian": "Găsesc pace, în mișcare.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588777"
+    },
+    {
+      "english": "It’s a small escape, from routine.",
+      "romanian": "E o mică evadare, din rutină.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588780"
+    },
+    {
+      "english": "I'm learning to embrace, the unexpected.",
+      "romanian": "Învăț să accept, neașteptatul.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588782"
+    },
+    {
+      "english": "This downtime, is truly valuable.",
+      "romanian": "Acest timp liber, e cu adevărat valoros.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588784"
+    },
+    {
+      "english": "I need a ticket, please.",
+      "romanian": "Am nevoie de un bilet, vă rog.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-22T05:51:48.588786"
     }
   ],
-  "last_updated": "2026-10-21T05:48:55.999832"
+  "last_updated": "2026-10-22T05:51:48.588788"
 }
