@@ -4337,7 +4337,727 @@
       "romanian": "Am nevoie de un bilet, vă rog.",
       "category": "Public Transportation",
       "generated_at": "2026-10-22T05:51:48.588786"
+    },
+    {
+      "english": "Thank you, really, very much.",
+      "romanian": "Mulțumesc, mult, chiar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324024"
+    },
+    {
+      "english": "That's so kind, of you.",
+      "romanian": "Ce drăguț, din partea ta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324038"
+    },
+    {
+      "english": "I owe you, one.",
+      "romanian": "Îți sunt, dator.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324041"
+    },
+    {
+      "english": "That means, a lot.",
+      "romanian": "Înseamnă, mult.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324043"
+    },
+    {
+      "english": "I'm so grateful, for this.",
+      "romanian": "Sunt recunoscător, pentru asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324045"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "romanian": "Ești cel mai bun, serios.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324047"
+    },
+    {
+      "english": "How thoughtful, of you.",
+      "romanian": "Ce atent, ești.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324049"
+    },
+    {
+      "english": "I really appreciate, it.",
+      "romanian": "Chiar apreciez, asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324053"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "romanian": "Mulțumesc, pentru tot.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324055"
+    },
+    {
+      "english": "This is, wonderful.",
+      "romanian": "Este, minunat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324057"
+    },
+    {
+      "english": "I'm touched, deeply.",
+      "romanian": "Sunt mișcat, profund.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324059"
+    },
+    {
+      "english": "You saved, my day.",
+      "romanian": "Mi-ai salvat, ziua.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324061"
+    },
+    {
+      "english": "Thanks a million, friend.",
+      "romanian": "Mulțumesc, un milion, prieten.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324064"
+    },
+    {
+      "english": "I can't thank, you enough.",
+      "romanian": "Nu pot, mulțumi, destul.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324067"
+    },
+    {
+      "english": "You're amazing, truly.",
+      "romanian": "Ești uimitor, cu adevărat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324068"
+    },
+    {
+      "english": "I'm so glad, you're here.",
+      "romanian": "Mă bucur, enorm, că ești aici.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324070"
+    },
+    {
+      "english": "Much appreciated, indeed.",
+      "romanian": "Foarte apreciat, într-adevăr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324072"
+    },
+    {
+      "english": "You've been, so helpful.",
+      "romanian": "Ai fost, de mare ajutor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324074"
+    },
+    {
+      "english": "This is, perfect.",
+      "romanian": "Este, perfect.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324075"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "romanian": "Sunt îndatorat, ție.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324077"
+    },
+    {
+      "english": "Thank you, kindly.",
+      "romanian": "Mulțumesc, amabil.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324079"
+    },
+    {
+      "english": "What a nice, gesture.",
+      "romanian": "Ce gest, frumos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324081"
+    },
+    {
+      "english": "You're a gem, honestly.",
+      "romanian": "Ești o comoară, sincer.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324082"
+    },
+    {
+      "english": "I'm truly, thankful.",
+      "romanian": "Sunt cu adevărat, recunoscător.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324084"
+    },
+    {
+      "english": "Bless you, always.",
+      "romanian": "Dumnezeu, să te binecuvânteze.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324086"
+    },
+    {
+      "english": "How can I repay you?",
+      "romanian": "Cum pot să-ți mulțumesc?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324088"
+    },
+    {
+      "english": "What can I do for you?",
+      "romanian": "Ce pot face pentru tine?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324090"
+    },
+    {
+      "english": "Are you sure, it's no trouble?",
+      "romanian": "Ești sigur, nu te deranjez?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324092"
+    },
+    {
+      "english": "Can I ask a favor?",
+      "romanian": "Pot să te rog ceva?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324094"
+    },
+    {
+      "english": "Could you help me, please?",
+      "romanian": "M-ai putea ajuta, te rog?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324096"
+    },
+    {
+      "english": "Did you need something?",
+      "romanian": "Ai avut nevoie de ceva?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324098"
+    },
+    {
+      "english": "Tell me, what's on your mind?",
+      "romanian": "Spune-mi, ce te frământă?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324100"
+    },
+    {
+      "english": "Is everything okay, with you?",
+      "romanian": "E totul în regulă, la tine?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324102"
+    },
+    {
+      "english": "Do you have a moment, to talk?",
+      "romanian": "Ai un moment, să vorbim?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324104"
+    },
+    {
+      "english": "Can I get your opinion, please?",
+      "romanian": "Pot să am părerea ta, te rog?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324106"
+    },
+    {
+      "english": "Would you mind, helping me?",
+      "romanian": "Te-ai supăra, să mă ajuți?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324107"
+    },
+    {
+      "english": "Can you explain, that again?",
+      "romanian": "Poți să explici, asta din nou?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324111"
+    },
+    {
+      "english": "Can I borrow, your thoughts?",
+      "romanian": "Pot să împrumut, gândurile tale?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324113"
+    },
+    {
+      "english": "Do you have any suggestions?",
+      "romanian": "Ai vreo sugestie?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324117"
+    },
+    {
+      "english": "Is there anything, I missed?",
+      "romanian": "Există ceva, ce am ratat?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324119"
+    },
+    {
+      "english": "How would you handle, this situation?",
+      "romanian": "Cum ai gestiona, situația asta?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324121"
+    },
+    {
+      "english": "What's the best plan, for us?",
+      "romanian": "Care e cel mai bun plan, pentru noi?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324123"
+    },
+    {
+      "english": "Keep shining, bright.",
+      "romanian": "Continuă să strălucești, intens.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324125"
+    },
+    {
+      "english": "You inspire, me greatly.",
+      "romanian": "Mă inspiri, mult.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324127"
+    },
+    {
+      "english": "Your effort, is seen.",
+      "romanian": "Efortul tău, se vede.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324129"
+    },
+    {
+      "english": "You did, a great job.",
+      "romanian": "Ai făcut, o treabă grozavă.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324131"
+    },
+    {
+      "english": "Your kindness, matters.",
+      "romanian": "Bunătatea ta, contează.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324133"
+    },
+    {
+      "english": "This is, progress.",
+      "romanian": "Acesta este, progres.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324134"
+    },
+    {
+      "english": "I admire, your spirit.",
+      "romanian": "Admir, spiritul tău.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324136"
+    },
+    {
+      "english": "Keep going, strong.",
+      "romanian": "Continuă, să mergi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324138"
+    },
+    {
+      "english": "You have, my support.",
+      "romanian": "Ai, susținerea mea.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324140"
+    },
+    {
+      "english": "What a, mindset!",
+      "romanian": "Ce, mentalitate!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324142"
+    },
+    {
+      "english": "Proud of, you.",
+      "romanian": "Mândru, de tine.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324143"
+    },
+    {
+      "english": "Your dedication, shines.",
+      "romanian": "Dedicarea ta, strălucește.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324145"
+    },
+    {
+      "english": "You make, things better.",
+      "romanian": "Faci, lucrurile mai bune.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324148"
+    },
+    {
+      "english": "Embrace, the journey.",
+      "romanian": "Îmbrățișează, călătoria.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324150"
+    },
+    {
+      "english": "Your growth, is evident.",
+      "romanian": "Creșterea ta, este evidentă.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324152"
+    },
+    {
+      "english": "Stay positive, always.",
+      "romanian": "Rămâi pozitiv, mereu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324153"
+    },
+    {
+      "english": "That's, impressive.",
+      "romanian": "Este, impresionant.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324155"
+    },
+    {
+      "english": "You've got, this.",
+      "romanian": "Poți, face asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324157"
+    },
+    {
+      "english": "Your attitude, is great.",
+      "romanian": "Atitudinea ta, e grozavă.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324159"
+    },
+    {
+      "english": "Keep that, energy.",
+      "romanian": "Păstrează, energia aia.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324161"
+    },
+    {
+      "english": "This outlook, helps.",
+      "romanian": "Această perspectivă, ajută.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324163"
+    },
+    {
+      "english": "Your efforts, count.",
+      "romanian": "Eforturile tale, contează.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324164"
+    },
+    {
+      "english": "Stay focused, forward.",
+      "romanian": "Rămâi concentrat, înainte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324167"
+    },
+    {
+      "english": "You radiate, positivity.",
+      "romanian": "Radiezi, pozitivitate.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324170"
+    },
+    {
+      "english": "Admire, your resilience.",
+      "romanian": "Admir, reziliența ta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324172"
+    },
+    {
+      "english": "Keep believing, always.",
+      "romanian": "Continuă să crezi, mereu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324173"
+    },
+    {
+      "english": "You have, great potential.",
+      "romanian": "Ai, un potențial mare.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324176"
+    },
+    {
+      "english": "Thanks a lot, buddy.",
+      "romanian": "Mulțumesc mult, amice.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324178"
+    },
+    {
+      "english": "My gratitude, knows no bounds.",
+      "romanian": "Recunoștința mea, nu are margini.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324180"
+    },
+    {
+      "english": "That was, really helpful.",
+      "romanian": "Asta a fost, foarte de ajutor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324182"
+    },
+    {
+      "english": "I really appreciate, this.",
+      "romanian": "Chiar apreciez, asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324183"
+    },
+    {
+      "english": "Much obliged, my friend.",
+      "romanian": "Multe mulțumiri, prietene.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324185"
+    },
+    {
+      "english": "Couldn't have done, it without you.",
+      "romanian": "Nu aș fi putut, face fără tine.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324187"
+    },
+    {
+      "english": "Your gesture, means the world.",
+      "romanian": "Gestul tău, înseamnă lumea.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324189"
+    },
+    {
+      "english": "I'm truly thankful, for you.",
+      "romanian": "Sunt cu adevărat recunoscător, pentru tine.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324191"
+    },
+    {
+      "english": "This is, a big help.",
+      "romanian": "Asta e, un mare ajutor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324193"
+    },
+    {
+      "english": "You're too kind, honestly.",
+      "romanian": "Ești prea amabil, sincer.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324195"
+    },
+    {
+      "english": "What a relief, thanks.",
+      "romanian": "Ce ușurare, mulțumesc.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324196"
+    },
+    {
+      "english": "You're a gem, truly.",
+      "romanian": "Ești o comoară, cu adevărat.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324198"
+    },
+    {
+      "english": "I don't know, what to say.",
+      "romanian": "Nu știu, ce să spun.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324200"
+    },
+    {
+      "english": "Your support, is invaluable.",
+      "romanian": "Sprijinul tău, este de neprețuit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324201"
+    },
+    {
+      "english": "You have, my sincere thanks.",
+      "romanian": "Ai, mulțumirile mele sincere.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324203"
+    },
+    {
+      "english": "Forever grateful, for this.",
+      "romanian": "Veșnic recunoscător, pentru asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324205"
+    },
+    {
+      "english": "Couldn't ask, for more.",
+      "romanian": "Nu puteam cere, mai mult.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324207"
+    },
+    {
+      "english": "You're amazing, thank you.",
+      "romanian": "Ești uimitor, mulțumesc.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324209"
+    },
+    {
+      "english": "Consider it, done.",
+      "romanian": "Consideră-l, făcut.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324211"
+    },
+    {
+      "english": "You're a true friend, always.",
+      "romanian": "Ești un prieten adevărat, mereu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324213"
+    },
+    {
+      "english": "My heartfelt thanks, go to you.",
+      "romanian": "Mulțumirile mele din inimă, ție.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324215"
+    },
+    {
+      "english": "You really helped, out.",
+      "romanian": "Chiar ai ajutat, afară.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324216"
+    },
+    {
+      "english": "This means, so much.",
+      "romanian": "Asta înseamnă, atât de mult.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324219"
+    },
+    {
+      "english": "My heart, feels full, today.",
+      "romanian": "Inima mea, se simte plină, azi.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324221"
+    },
+    {
+      "english": "This moment, I cherish deeply.",
+      "romanian": "Acest moment, îl prețuiesc profund.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324223"
+    },
+    {
+      "english": "Your kindness, stays with me.",
+      "romanian": "Bunătatea ta, rămâne cu mine.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324224"
+    },
+    {
+      "english": "I reflect, with gratitude.",
+      "romanian": "Reflect, cu recunoștință.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324226"
+    },
+    {
+      "english": "Patience, is a gift, received.",
+      "romanian": "Răbdarea, e un dar, primit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324228"
+    },
+    {
+      "english": "I feel truly lucky, honestly.",
+      "romanian": "Mă simt cu adevărat norocos/norocoasă, sincer.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324230"
+    },
+    {
+      "english": "Your presence, is a comfort.",
+      "romanian": "Prezența ta, e o alinare.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324232"
+    },
+    {
+      "english": "A deep breath, of thankfulness.",
+      "romanian": "O respirație, adâncă, de mulțumire.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324233"
+    },
+    {
+      "english": "This lesson, I won't forget.",
+      "romanian": "Această lecție, nu o voi uita.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324237"
+    },
+    {
+      "english": "My spirit, feels lighter.",
+      "romanian": "Sufletul meu, se simte mai ușor.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324238"
+    },
+    {
+      "english": "What a beautiful, feeling.",
+      "romanian": "Ce sentiment, frumos.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324240"
+    },
+    {
+      "english": "I hold this close, to my heart.",
+      "romanian": "Țin asta aproape, de sufletul meu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324242"
+    },
+    {
+      "english": "Grateful for, simple joys.",
+      "romanian": "Recunoscător/Recunoscătoare, pentru bucurii simple.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324244"
+    },
+    {
+      "english": "Your belief, gives me strength.",
+      "romanian": "Credința ta, îmi dă putere.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324245"
+    },
+    {
+      "english": "A moment, of pure thanks.",
+      "romanian": "Un moment, de mulțumire pură.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324247"
+    },
+    {
+      "english": "I find peace, in this.",
+      "romanian": "Găsesc liniște, în asta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324249"
+    },
+    {
+      "english": "Thank you, from the bottom, of my soul.",
+      "romanian": "Îți mulțumesc, din adâncul, sufletului meu.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324251"
+    },
+    {
+      "english": "This connection, I value greatly.",
+      "romanian": "Această legătură, o prețuiesc mult.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324253"
+    },
+    {
+      "english": "A heartfelt sigh, of relief.",
+      "romanian": "Un oftat, din inimă, de ușurare.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324255"
+    },
+    {
+      "english": "I'm touched, by your sincerity.",
+      "romanian": "Sunt atins/Ating de sinceritatea ta.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324257"
+    },
+    {
+      "english": "This feeling, is precious.",
+      "romanian": "Acest sentiment, este prețios.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324259"
+    },
+    {
+      "english": "You inspire, deep reflection.",
+      "romanian": "Inspiri, o reflecție profundă.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324261"
+    },
+    {
+      "english": "My appreciation, grows daily.",
+      "romanian": "Aprecierea mea, crește zilnic.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324263"
+    },
+    {
+      "english": "A simple nod, of thanks.",
+      "romanian": "Un simplu semn, din cap, de mulțumire.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324265"
+    },
+    {
+      "english": "This kindness, is remembered.",
+      "romanian": "Această bunătate, este ținută minte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324266"
+    },
+    {
+      "english": "I truly feel, at peace.",
+      "romanian": "Mă simt cu adevărat, în pace.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324270"
+    },
+    {
+      "english": "Gratitude floods, my senses.",
+      "romanian": "Recunoștința îmi inundă, simțurile.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324273"
+    },
+    {
+      "english": "This inner calm, is thanks, to you.",
+      "romanian": "Acest calm interior, îți datorez ție.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-23T05:50:18.324275"
     }
   ],
-  "last_updated": "2026-10-22T05:51:48.588788"
+  "last_updated": "2026-10-23T05:50:18.324276"
 }
