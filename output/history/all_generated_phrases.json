@@ -5777,7 +5777,727 @@
       "romanian": "Bea apă, când te simți obosit.",
       "category": "Inner Peace",
       "generated_at": "2026-10-24T05:31:56.864544"
+    },
+    {
+      "english": "I love you, truly.",
+      "romanian": "Te iubesc, cu adevărat.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594530"
+    },
+    {
+      "english": "You are my everything.",
+      "romanian": "Ești totul pentru mine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594544"
+    },
+    {
+      "english": "My heart beats for you.",
+      "romanian": "Inima mea bate pentru tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594548"
+    },
+    {
+      "english": "I miss you so much.",
+      "romanian": "Mi-e dor de tine, mult.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594551"
+    },
+    {
+      "english": "Thinking of you, always.",
+      "romanian": "Mă gândesc la tine, mereu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594554"
+    },
+    {
+      "english": "You make me happy.",
+      "romanian": "Mă faci fericit(ă).",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594556"
+    },
+    {
+      "english": "My love for you grows.",
+      "romanian": "Dragostea mea pentru tine crește.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594559"
+    },
+    {
+      "english": "You are so special.",
+      "romanian": "Ești atât de special(ă).",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594565"
+    },
+    {
+      "english": "Can I see you soon?",
+      "romanian": "Ne putem vedea curând?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594568"
+    },
+    {
+      "english": "You are beautiful, truly.",
+      "romanian": "Ești frumos(oasă), sincer.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594571"
+    },
+    {
+      "english": "I adore you, deeply.",
+      "romanian": "Te ador, profund.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594576"
+    },
+    {
+      "english": "You are my soulmate.",
+      "romanian": "Ești sufletul meu pereche.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594581"
+    },
+    {
+      "english": "My world revolves around you.",
+      "romanian": "Lumea mea se învârte-n jurul tău.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594584"
+    },
+    {
+      "english": "I need you here.",
+      "romanian": "Am nevoie de tine aici.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594586"
+    },
+    {
+      "english": "You are my sunshine.",
+      "romanian": "Ești raza mea de soare.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594588"
+    },
+    {
+      "english": "Let's stay together.",
+      "romanian": "Să rămânem împreună.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594591"
+    },
+    {
+      "english": "I cherish every moment.",
+      "romanian": "Prețuiesc fiecare clipă.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594594"
+    },
+    {
+      "english": "You complete me.",
+      "romanian": "Mă completezi.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594596"
+    },
+    {
+      "english": "You are my dream.",
+      "romanian": "Ești visul meu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594599"
+    },
+    {
+      "english": "I want to be with you.",
+      "romanian": "Vreau să fiu cu tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594601"
+    },
+    {
+      "english": "Your smile is everything.",
+      "romanian": "Zâmbetul tău e totul.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594604"
+    },
+    {
+      "english": "I am yours, forever.",
+      "romanian": "Sunt al tău, pentru totdeauna.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594621"
+    },
+    {
+      "english": "Love at first sight.",
+      "romanian": "Dragoste la prima vedere.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594625"
+    },
+    {
+      "english": "You are my destiny.",
+      "romanian": "Ești destinul meu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594627"
+    },
+    {
+      "english": "My love, my life.",
+      "romanian": "Iubirea mea, viața mea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594630"
+    },
+    {
+      "english": "I can't live without you.",
+      "romanian": "Nu pot trăi fără tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594633"
+    },
+    {
+      "english": "You are my greatest joy.",
+      "romanian": "Ești cea mai mare bucurie a mea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594635"
+    },
+    {
+      "english": "Kiss me, please.",
+      "romanian": "Sărută-mă, te rog.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594638"
+    },
+    {
+      "english": "My heart is full.",
+      "romanian": "Inima mea e plină.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594640"
+    },
+    {
+      "english": "What do you think, my dear?",
+      "romanian": "Ce crezi, dragă?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594646"
+    },
+    {
+      "english": "What would you like to do?",
+      "romanian": "Ce ai vrea să facem?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594649"
+    },
+    {
+      "english": "Can you help me with this?",
+      "romanian": "Mă poți ajuta cu asta?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594652"
+    },
+    {
+      "english": "Where should we go, hmm?",
+      "romanian": "Unde să mergem, hmm?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594655"
+    },
+    {
+      "english": "What is your favorite memory?",
+      "romanian": "Care-i amintirea ta preferată?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594658"
+    },
+    {
+      "english": "How did you spend your day?",
+      "romanian": "Cum ți-ai petrecut ziua?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594660"
+    },
+    {
+      "english": "Is everything alright, love?",
+      "romanian": "E totul în regulă, iubire?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594663"
+    },
+    {
+      "english": "What are your dreams, tell me?",
+      "romanian": "Care-s visele tale, spune-mi?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594666"
+    },
+    {
+      "english": "Do you need anything, darling?",
+      "romanian": "Ai nevoie de ceva, scumpo?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594669"
+    },
+    {
+      "english": "Can we talk a little, please?",
+      "romanian": "Putem vorbi puțin, te rog?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594673"
+    },
+    {
+      "english": "What are you listening to?",
+      "romanian": "La ce asculți?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594676"
+    },
+    {
+      "english": "Do you like this song?",
+      "romanian": "Îți place melodia asta?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594679"
+    },
+    {
+      "english": "What are you reading now?",
+      "romanian": "Ce citești acum?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594681"
+    },
+    {
+      "english": "Do you want to watch a movie?",
+      "romanian": "Vrei să ne uităm la un film?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594684"
+    },
+    {
+      "english": "What are your plans for tomorrow?",
+      "romanian": "Ce planuri ai pentru mâine?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594686"
+    },
+    {
+      "english": "Are you hungry, sweetheart?",
+      "romanian": "Ți-e foame, suflet?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594689"
+    },
+    {
+      "english": "What should we eat tonight?",
+      "romanian": "Ce mâncăm diseară?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594692"
+    },
+    {
+      "english": "Do you need a hug, perhaps?",
+      "romanian": "Ai nevoie de o îmbrățișare, poate?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594694"
+    },
+    {
+      "english": "Tell me your secret wish.",
+      "romanian": "Spune-mi dorința ta secretă.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594697"
+    },
+    {
+      "english": "What makes you smile, really?",
+      "romanian": "Ce te face să zâmbești, sincer?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594699"
+    },
+    {
+      "english": "Can you show me that place?",
+      "romanian": "Poți să-mi arăți locul acela?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594702"
+    },
+    {
+      "english": "Do you want to go for a walk?",
+      "romanian": "Vrei să mergem la o plimbare?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594704"
+    },
+    {
+      "english": "Can I hold your hand?",
+      "romanian": "Pot să-ți țin mâna?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594707"
+    },
+    {
+      "english": "What's the best part of today?",
+      "romanian": "Care-i cea mai bună parte din zi?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594709"
+    },
+    {
+      "english": "Should we dance tonight, maybe?",
+      "romanian": "Dansăm diseară, oare?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594712"
+    },
+    {
+      "english": "Believe in us, always.",
+      "romanian": "Crede în noi, mereu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594717"
+    },
+    {
+      "english": "Your strength is amazing.",
+      "romanian": "Forța ta e uimitoare.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594719"
+    },
+    {
+      "english": "You've got this, my love.",
+      "romanian": "Tu poți asta, iubirea mea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594722"
+    },
+    {
+      "english": "Never doubt your worth.",
+      "romanian": "Nu-ți pune niciodată la îndoială valoarea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594725"
+    },
+    {
+      "english": "You are truly special.",
+      "romanian": "Ești cu adevărat special/specială.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594727"
+    },
+    {
+      "english": "I see greatness in you.",
+      "romanian": "Văd măreție în tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594730"
+    },
+    {
+      "english": "You make everything better.",
+      "romanian": "Tu faci totul mai bun.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594732"
+    },
+    {
+      "english": "Embrace your unique journey.",
+      "romanian": "Îmbrățișează-ți călătoria unică.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594736"
+    },
+    {
+      "english": "You are incredibly capable.",
+      "romanian": "Ești incredibil de capabil/capabilă.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594739"
+    },
+    {
+      "english": "Focus on your dreams.",
+      "romanian": "Concentrează-te pe visele tale.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594742"
+    },
+    {
+      "english": "Your inner beauty shines.",
+      "romanian": "Frumusețea ta interioară strălucește.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594744"
+    },
+    {
+      "english": "Keep growing, my darling.",
+      "romanian": "Continuă să crești, dragul/draga mea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594749"
+    },
+    {
+      "english": "You are a true inspiration.",
+      "romanian": "Ești o adevărată inspirație.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594752"
+    },
+    {
+      "english": "Trust your intuition always.",
+      "romanian": "Ai încredere mereu în intuiția ta.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594755"
+    },
+    {
+      "english": "Your spirit is vibrant.",
+      "romanian": "Spiritul tău e vibrant.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594758"
+    },
+    {
+      "english": "You have so much heart.",
+      "romanian": "Ai atâta inimă.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594760"
+    },
+    {
+      "english": "Be proud of yourself.",
+      "romanian": "Fii mândru/mândră de tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594763"
+    },
+    {
+      "english": "Your perspective is valuable.",
+      "romanian": "Perspectiva ta e valoroasă.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594766"
+    },
+    {
+      "english": "Your courage is admirable.",
+      "romanian": "Curajul tău e admirabil.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594768"
+    },
+    {
+      "english": "Never stop believing.",
+      "romanian": "Nu înceta să crezi.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594771"
+    },
+    {
+      "english": "Your presence is a blessing.",
+      "romanian": "Prezența ta e o binecuvântare.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594773"
+    },
+    {
+      "english": "You radiate such warmth.",
+      "romanian": "Radiezi atâta căldură.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594776"
+    },
+    {
+      "english": "Keep pursuing your passion.",
+      "romanian": "Continuă să-ți urmărești pasiunea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594778"
+    },
+    {
+      "english": "You're the apple of my eye.",
+      "romanian": "Ești lumina ochilor mei.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594781"
+    },
+    {
+      "english": "I'm crazy about you.",
+      "romanian": "Sunt nebun/nebună după tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594784"
+    },
+    {
+      "english": "My love for you is endless.",
+      "romanian": "Dragostea mea pentru tine, nu are sfârșit.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594786"
+    },
+    {
+      "english": "You steal my breath away.",
+      "romanian": "Îmi furi respirația.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594789"
+    },
+    {
+      "english": "My world starts and ends with you.",
+      "romanian": "Lumea mea începe și se termină cu tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594791"
+    },
+    {
+      "english": "You're my missing piece.",
+      "romanian": "Ești piesa care îmi lipsea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594794"
+    },
+    {
+      "english": "My heart sighs your name.",
+      "romanian": "Inima suspină numele tău.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594797"
+    },
+    {
+      "english": "You make my soul sing.",
+      "romanian": "Mă faci sufletul să cânte.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594799"
+    },
+    {
+      "english": "I'm head over heels for you.",
+      "romanian": "M-am îndrăgostit lulea de tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594802"
+    },
+    {
+      "english": "You're my everything, really.",
+      "romanian": "Ești totul pentru mine, jur.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594805"
+    },
+    {
+      "english": "My heart is yours, always.",
+      "romanian": "Inima mea e a ta, mereu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594807"
+    },
+    {
+      "english": "I fell for you, hard.",
+      "romanian": "M-am îndrăgostit de tine, rău.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594810"
+    },
+    {
+      "english": "My soul found its home.",
+      "romanian": "Sufletul meu și-a găsit sălașul.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594813"
+    },
+    {
+      "english": "You make my heart skip a beat.",
+      "romanian": "Îmi faci inima să tresalte.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594817"
+    },
+    {
+      "english": "I'm yours, completely.",
+      "romanian": "Sunt a ta, cu totul.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594820"
+    },
+    {
+      "english": "You're the reason I smile.",
+      "romanian": "Ești motivul zâmbetului meu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594822"
+    },
+    {
+      "english": "You are my true north.",
+      "romanian": "Ești nordul meu adevărat.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594827"
+    },
+    {
+      "english": "I'm lost without you.",
+      "romanian": "Mă pierd fără tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594829"
+    },
+    {
+      "english": "You light up my life.",
+      "romanian": "Îmi luminezi viața.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594832"
+    },
+    {
+      "english": "I'm hooked on you.",
+      "romanian": "Sunt prins/prinsă de tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594834"
+    },
+    {
+      "english": "My heart belongs to you.",
+      "romanian": "Inima mea îți aparține.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594837"
+    },
+    {
+      "english": "You're my destiny.",
+      "romanian": "Ești destinul meu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594839"
+    },
+    {
+      "english": "You're the only one.",
+      "romanian": "Ești singurul/singura.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594842"
+    },
+    {
+      "english": "Let's build a happy home, together.",
+      "romanian": "Hai să construim o casă fericită, împreună.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594845"
+    },
+    {
+      "english": "Share your day, I want to know.",
+      "romanian": "Povestește-mi ziua ta, vreau să știu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594848"
+    },
+    {
+      "english": "How can I help you today?",
+      "romanian": "Cum te pot ajuta azi?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594850"
+    },
+    {
+      "english": "Your comfort is my priority.",
+      "romanian": "Confortul tău, prioritatea mea.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594853"
+    },
+    {
+      "english": "Let's find solutions, side by side.",
+      "romanian": "Găsim soluții, unul lângă altul.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594856"
+    },
+    {
+      "english": "What's worrying you, my dear?",
+      "romanian": "Ce te frământă, dragă?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594859"
+    },
+    {
+      "english": "I'll always be here for you.",
+      "romanian": "Voi fi mereu aici pentru tine.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594862"
+    },
+    {
+      "english": "Let's make a plan, a good one.",
+      "romanian": "Facem un plan, unul bun.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594865"
+    },
+    {
+      "english": "We can manage anything, with love.",
+      "romanian": "Putem gestiona orice, cu dragoste.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594867"
+    },
+    {
+      "english": "Tell me what you need, honestly.",
+      "romanian": "Spune-mi ce ai nevoie, sincer.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594870"
+    },
+    {
+      "english": "Your dreams are important to me.",
+      "romanian": "Visele tale contează mult.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594873"
+    },
+    {
+      "english": "Let's support each other's goals.",
+      "romanian": "Susținem obiectivele fiecăruia.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594876"
+    },
+    {
+      "english": "Is everything okay right now?",
+      "romanian": "E totul în regulă acum?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594878"
+    },
+    {
+      "english": "Let's talk, truly and openly.",
+      "romanian": "Să vorbim, pe bune și deschis.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594881"
+    },
+    {
+      "english": "My advice is, be kind always.",
+      "romanian": "Sfatul meu e, fii bun mereu.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594884"
+    },
+    {
+      "english": "How was your day, my love?",
+      "romanian": "Cum ți-a fost ziua, iubire?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594887"
+    },
+    {
+      "english": "Let's simplify things, together.",
+      "romanian": "Simplificăm lucrurile, împreună.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594890"
+    },
+    {
+      "english": "What can we improve, darling?",
+      "romanian": "Ce putem îmbunătăți, scumpo?",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594895"
+    },
+    {
+      "english": "Your happiness matters most.",
+      "romanian": "Fericirea ta contează cel mai mult.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594897"
+    },
+    {
+      "english": "Let's create peace in our home.",
+      "romanian": "Creăm pace în casa noastră.",
+      "category": "Love",
+      "generated_at": "2026-10-25T05:49:18.594902"
     }
   ],
-  "last_updated": "2026-10-24T05:31:56.864545"
+  "last_updated": "2026-10-25T05:49:18.594905"
 }
