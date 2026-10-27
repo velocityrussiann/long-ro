@@ -7217,7 +7217,727 @@
       "romanian": "Când te simți anxios, practică respirația profundă.",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-26T05:52:20.793999"
+    },
+    {
+      "english": "Hello, how much is this?",
+      "romanian": "Bună, cât costă asta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809199"
+    },
+    {
+      "english": "It's a bit expensive, isn't it?",
+      "romanian": "E cam scump, nu credeți?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809212"
+    },
+    {
+      "english": "Do you have anything cheaper?",
+      "romanian": "Aveți ceva mai ieftin?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809216"
+    },
+    {
+      "english": "I'm just looking, thank you.",
+      "romanian": "Doar mă uit, mulțumesc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809219"
+    },
+    {
+      "english": "Can I see that, please?",
+      "romanian": "Pot să văd asta, vă rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809222"
+    },
+    {
+      "english": "Where can I find the bread?",
+      "romanian": "Unde găsesc pâine?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809225"
+    },
+    {
+      "english": "This is exactly what I need.",
+      "romanian": "Exact asta îmi trebuie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809228"
+    },
+    {
+      "english": "How much for all of this?",
+      "romanian": "Cât costă tot?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809235"
+    },
+    {
+      "english": "Is there a discount possible?",
+      "romanian": "Se poate un mic discount?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809239"
+    },
+    {
+      "english": "I'll take this one, please.",
+      "romanian": "O iau pe acesta, vă rog.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809242"
+    },
+    {
+      "english": "Do you accept credit cards?",
+      "romanian": "Acceptați carduri?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809245"
+    },
+    {
+      "english": "That's a good price.",
+      "romanian": "E un preț bun.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809248"
+    },
+    {
+      "english": "I need a bag for this.",
+      "romanian": "Am nevoie de o sacoșă.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809250"
+    },
+    {
+      "english": "Can I pay with cash?",
+      "romanian": "Pot plăti cu numerar?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809253"
+    },
+    {
+      "english": "What time do you close?",
+      "romanian": "La ce oră închideți?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809255"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "romanian": "Aveți asta pe stoc?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809258"
+    },
+    {
+      "english": "It's too much for me.",
+      "romanian": "E prea mult pentru mine.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809260"
+    },
+    {
+      "english": "I'll think about it.",
+      "romanian": "Mă mai gândesc.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809263"
+    },
+    {
+      "english": "Can I have the receipt, please?",
+      "romanian": "Bonul, vă rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809266"
+    },
+    {
+      "english": "This is very nice quality.",
+      "romanian": "E calitate foarte bună.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809268"
+    },
+    {
+      "english": "Where is the checkout?",
+      "romanian": "Unde e casa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809271"
+    },
+    {
+      "english": "I'm looking for a gift.",
+      "romanian": "Caut un cadou.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809273"
+    },
+    {
+      "english": "Do you offer gift wrapping?",
+      "romanian": "Oferiți ambalare cadou?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809276"
+    },
+    {
+      "english": "This is a great deal!",
+      "romanian": "E o afacere grozavă!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809278"
+    },
+    {
+      "english": "How much is one kilogram?",
+      "romanian": "Cât e un kilogram?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809281"
+    },
+    {
+      "english": "Can I try this on?",
+      "romanian": "Pot să probez?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809294"
+    },
+    {
+      "english": "Where are the fitting rooms?",
+      "romanian": "Unde sunt cabinele?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809297"
+    },
+    {
+      "english": "I need something for the kitchen.",
+      "romanian": "Îmi trebuie ceva pentru bucătărie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809302"
+    },
+    {
+      "english": "This is sold out.",
+      "romanian": "S-a terminat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809304"
+    },
+    {
+      "english": "I'll take two, please.",
+      "romanian": "O iau pe două, vă rog.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809307"
+    },
+    {
+      "english": "What do you recommend, dear?",
+      "romanian": "Ce recomanzi, draga mea?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809310"
+    },
+    {
+      "english": "Is this the best price you have?",
+      "romanian": "Acesta e ultimul preț?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809313"
+    },
+    {
+      "english": "Could you check the price again?",
+      "romanian": "Poți verifica prețul, te rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809316"
+    },
+    {
+      "english": "How much is this beautiful thing?",
+      "romanian": "Cât costă minunăția asta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809318"
+    },
+    {
+      "english": "Do you have a similar item?",
+      "romanian": "Aveți ceva asemănător?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809323"
+    },
+    {
+      "english": "Is there any sale happening soon?",
+      "romanian": "Mai sunt reduceri curând?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809325"
+    },
+    {
+      "english": "What’s the special offer today?",
+      "romanian": "Ce ofertă aveți azi?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809329"
+    },
+    {
+      "english": "Can I get a small discount?",
+      "romanian": "Pot primi o mică reducere?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809332"
+    },
+    {
+      "english": "This looks amazing, how much?",
+      "romanian": "Arată superb, cât face?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809335"
+    },
+    {
+      "english": "Is this authentic, or a copy?",
+      "romanian": "E original, sau copie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809337"
+    },
+    {
+      "english": "Tell me, what’s your best price?",
+      "romanian": "Spune-mi, care-i cel mai bun preț?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809341"
+    },
+    {
+      "english": "Could you wrap it nicely for me?",
+      "romanian": "Îl puteți împacheta frumos?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809343"
+    },
+    {
+      "english": "I’m not sure, can I think?",
+      "romanian": "Nu sunt sigur, pot să mă gândesc?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809349"
+    },
+    {
+      "english": "What else do you have like this?",
+      "romanian": "Ce altceva mai aveți, asemănător?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809352"
+    },
+    {
+      "english": "Is this price firm, or negotiable?",
+      "romanian": "Prețul e fix, sau discutăm?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809355"
+    },
+    {
+      "english": "Do you deliver this item?",
+      "romanian": "Faceți livrare la domiciliu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809358"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "romanian": "Pot plăti în rate?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809360"
+    },
+    {
+      "english": "What's the warranty on this?",
+      "romanian": "Ce garanție are?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809363"
+    },
+    {
+      "english": "Is this product locally made?",
+      "romanian": "Produsul e românesc?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809365"
+    },
+    {
+      "english": "How much for a pair?",
+      "romanian": "Cât costă perechea?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809368"
+    },
+    {
+      "english": "Can you show me something else?",
+      "romanian": "Puteți să-mi arătați altceva?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809370"
+    },
+    {
+      "english": "Is this the newest model?",
+      "romanian": "E ultimul model?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809373"
+    },
+    {
+      "english": "What's the return policy?",
+      "romanian": "Care e politica de retur?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809375"
+    },
+    {
+      "english": "Could you hold this for me?",
+      "romanian": "Puteți să-mi țineți asta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809377"
+    },
+    {
+      "english": "I need your expert opinion.",
+      "romanian": "Am nevoie de părerea ta.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809380"
+    },
+    {
+      "english": "Is this the only color?",
+      "romanian": "E singura culoare?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809382"
+    },
+    {
+      "english": "What materials were used?",
+      "romanian": "Din ce materiale e făcut?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809385"
+    },
+    {
+      "english": "Can I get a discount for bulk?",
+      "romanian": "Reducere la cantitate?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809387"
+    },
+    {
+      "english": "Can you tell me about this?",
+      "romanian": "Îmi poți spune despre asta?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809389"
+    },
+    {
+      "english": "Believe in your good taste, always.",
+      "romanian": "Crede în gustul tău bun, mereu.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809396"
+    },
+    {
+      "english": "You deserve this little joy.",
+      "romanian": "Meriti această mică bucurie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809400"
+    },
+    {
+      "english": "Shopping is therapy, sometimes.",
+      "romanian": "Cumpărăturile sunt terapie, uneori.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809403"
+    },
+    {
+      "english": "Don't overthink, just feel it.",
+      "romanian": "Nu te gândi prea mult, doar simte.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809406"
+    },
+    {
+      "english": "Smart choices, happy wallet.",
+      "romanian": "Alegeri istețe, portofel fericit.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809408"
+    },
+    {
+      "english": "This is an investment in you.",
+      "romanian": "Aceasta e o investiție în tine.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809411"
+    },
+    {
+      "english": "You found a real treasure!",
+      "romanian": "Ai găsit o comoară adevărată!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809413"
+    },
+    {
+      "english": "Every penny saved, is earned.",
+      "romanian": "Fiecare bănuț economisit, e câștigat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809416"
+    },
+    {
+      "english": "Trust your intuition, it's sharp.",
+      "romanian": "Ai încredere în intuiția ta, e ascuțită.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809419"
+    },
+    {
+      "english": "This purchase will bring joy.",
+      "romanian": "Achiziția asta va aduce bucurie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809421"
+    },
+    {
+      "english": "You have a good eye for deals.",
+      "romanian": "Ai ochi bun pentru oferte.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809424"
+    },
+    {
+      "english": "Celebrate your smart find!",
+      "romanian": "Sărbătorește descoperirea ta inteligentă!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809426"
+    },
+    {
+      "english": "It's okay to treat yourself.",
+      "romanian": "E în regulă să te răsfeți.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809429"
+    },
+    {
+      "english": "This is worth every leu.",
+      "romanian": "Merită toți banii ăștia.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809431"
+    },
+    {
+      "english": "You are a savvy shopper.",
+      "romanian": "Ești un cumpărător iscusit.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809434"
+    },
+    {
+      "english": "Focus on value, not just cost.",
+      "romanian": "Concentrează-te pe valoare, nu preț.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809437"
+    },
+    {
+      "english": "Imagine the happiness it brings.",
+      "romanian": "Imaginează-ți fericirea ce o aduce.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809439"
+    },
+    {
+      "english": "Your instincts are rarely wrong.",
+      "romanian": "Intuiția ta rareori greșește.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809442"
+    },
+    {
+      "english": "This find is a true win.",
+      "romanian": "Găseala asta e o victorie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809444"
+    },
+    {
+      "english": "Invest wisely, shop with joy.",
+      "romanian": "Investește cu cap, cumpără cu bucurie.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809447"
+    },
+    {
+      "english": "You have a knack for bargains.",
+      "romanian": "Ai un talent pentru chilipiruri.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809449"
+    },
+    {
+      "english": "This is a perfect fit for you.",
+      "romanian": "Se potrivește perfect, asta e sigur.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809452"
+    },
+    {
+      "english": "Positive vibes, great deals.",
+      "romanian": "Vibrații pozitive, oferte grozave.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809454"
+    },
+    {
+      "english": "Your budget is your guide.",
+      "romanian": "Bugetul tău e ghidul tău.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809457"
+    },
+    {
+      "english": "This makes the effort worthwhile.",
+      "romanian": "Face efortul să merite.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809459"
+    },
+    {
+      "english": "You're making excellent choices.",
+      "romanian": "Faci alegeri excelente.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809462"
+    },
+    {
+      "english": "Happiness is finding the right price.",
+      "romanian": "Fericirea e să găsești prețul corect.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809464"
+    },
+    {
+      "english": "Dream big, buy smart.",
+      "romanian": "Visează mare, cumpără inteligent.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809467"
+    },
+    {
+      "english": "This is a reward, well-deserved.",
+      "romanian": "E o recompensă, bine meritată.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809471"
+    },
+    {
+      "english": "You always find the best.",
+      "romanian": "Găsești mereu ce e mai bun.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809474"
+    },
+    {
+      "english": "This price feels a bit high, doesn't it?",
+      "romanian": "Prețul ăsta pare cam piperat, nu-i așa?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809477"
+    },
+    {
+      "english": "I need to reflect on this purchase.",
+      "romanian": "Trebuie să mă gândesc la cumpărătură.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809481"
+    },
+    {
+      "english": "Is there room for negotiation here?",
+      "romanian": "Există loc de tocmeală aici?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809484"
+    },
+    {
+      "english": "My heart says yes, wallet says maybe.",
+      "romanian": "Inima zice da, portofelul zice poate.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809487"
+    },
+    {
+      "english": "I'm trying to be patient with prices.",
+      "romanian": "Încerc să am răbdare cu prețurile.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809489"
+    },
+    {
+      "english": "This feeling is more important than price.",
+      "romanian": "Sentimentul ăsta e mai important decât prețul.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809492"
+    },
+    {
+      "english": "Let's see if it's truly worth it.",
+      "romanian": "Să vedem dacă merită cu adevărat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809495"
+    },
+    {
+      "english": "Sometimes, you just know, right?",
+      "romanian": "Uneori, pur și simplu știi, nu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809498"
+    },
+    {
+      "english": "This requires a moment of honest thought.",
+      "romanian": "Asta necesită un moment de gândire sinceră.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809501"
+    },
+    {
+      "english": "Does this price truly reflect its value?",
+      "romanian": "Prețul ăsta reflectă cu adevărat valoarea?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809503"
+    },
+    {
+      "english": "My gut feeling about this is strong.",
+      "romanian": "Intuiția mea despre asta e puternică.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809508"
+    },
+    {
+      "english": "I'm weighing the pros and cons carefully.",
+      "romanian": "Cântăresc atent avantajele și dezavantajele.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809510"
+    },
+    {
+      "english": "This decision needs real contemplation.",
+      "romanian": "Decizia asta cere cugetare pe bune.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809513"
+    },
+    {
+      "english": "Is this an emotional impulse or a need?",
+      "romanian": "E un impuls emoțional sau o nevoie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809516"
+    },
+    {
+      "english": "I have to be honest with myself.",
+      "romanian": "Trebuie să fiu sincer cu mine.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809518"
+    },
+    {
+      "english": "What if I regret this later?",
+      "romanian": "Ce-o să regret asta mai târziu?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809521"
+    },
+    {
+      "english": "This feeling is hard to explain.",
+      "romanian": "Senzația asta e greu de explicat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809523"
+    },
+    {
+      "english": "Let's take a deep breath and decide.",
+      "romanian": "Hai să respirăm adânc și să decidem.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809526"
+    },
+    {
+      "english": "Does this truly spark joy for me?",
+      "romanian": "Asta chiar îmi aduce bucurie?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809529"
+    },
+    {
+      "english": "I'm trusting my inner voice now.",
+      "romanian": "Am încredere acum în vocea mea interioară.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809531"
+    },
+    {
+      "english": "It's important to feel good about it.",
+      "romanian": "E important să mă simt bine cu asta.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809534"
+    },
+    {
+      "english": "This price is making me pause.",
+      "romanian": "Prețul ăsta mă pune pe gânduri.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809536"
+    },
+    {
+      "english": "My patience is being tested here.",
+      "romanian": "Răbdarea îmi este pusă la încercare.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809539"
+    },
+    {
+      "english": "Is this really what I need right now?",
+      "romanian": "E chiar ce-mi trebuie acum?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809542"
+    },
+    {
+      "english": "I need to be sure of this.",
+      "romanian": "Trebuie să fiu sigur(ă) de asta.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809544"
+    },
+    {
+      "english": "This is a moment for sincere evaluation.",
+      "romanian": "E un moment de evaluare sinceră.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809547"
+    },
+    {
+      "english": "What does my heart truly desire?",
+      "romanian": "Ce-și dorește inima mea cu adevărat?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809549"
+    },
+    {
+      "english": "Let's not rush this important decision.",
+      "romanian": "Să nu ne grăbim cu decizia asta importantă.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809552"
+    },
+    {
+      "english": "This feeling is genuine, I think.",
+      "romanian": "Sentimentul ăsta e autentic, cred.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809554"
+    },
+    {
+      "english": "I'm listening to my inner wisdom.",
+      "romanian": "Ascult înțelepciunea mea interioară.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809557"
+    },
+    {
+      "english": "Always check the tag, carefully.",
+      "romanian": "Verifică mereu eticheta, cu atenție.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-10-27T06:04:45.809560"
     }
   ],
-  "last_updated": "2026-10-26T05:52:20.794001"
+  "last_updated": "2026-10-27T06:04:45.809562"
 }
