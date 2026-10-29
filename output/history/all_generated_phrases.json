@@ -8657,7 +8657,727 @@
       "romanian": "Automatizează economiile.",
       "category": "Banking & Money",
       "generated_at": "2026-10-28T06:47:50.056021"
+    },
+    {
+      "english": "Excuse me, where is the station?",
+      "romanian": "Scuzați-mă, unde este gară?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972035"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "romanian": "Îmi puteți arăta pe hartă?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972049"
+    },
+    {
+      "english": "I'm lost, please help.",
+      "romanian": "M-am rătăcit, vă rog ajutați.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972053"
+    },
+    {
+      "english": "How do I get to the center?",
+      "romanian": "Cum ajung în centru?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972056"
+    },
+    {
+      "english": "Which way to the museum?",
+      "romanian": "În ce direcție e muzeul?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972059"
+    },
+    {
+      "english": "I need to find the pharmacy.",
+      "romanian": "Trebuie să găsesc farmacia.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972061"
+    },
+    {
+      "english": "Is this the right street?",
+      "romanian": "E strada asta corectă?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972064"
+    },
+    {
+      "english": "Can you speak slower, please?",
+      "romanian": "Puteți vorbi mai rar, vă rog?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972069"
+    },
+    {
+      "english": "Thank you for your help.",
+      "romanian": "Mulțumesc pentru ajutor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972073"
+    },
+    {
+      "english": "Just around the corner.",
+      "romanian": "Chiar după colț.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972076"
+    },
+    {
+      "english": "It's very close, nearby.",
+      "romanian": "E foarte aproape, pe-aici.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972079"
+    },
+    {
+      "english": "Go straight ahead.",
+      "romanian": "Mergeți drept înainte.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972082"
+    },
+    {
+      "english": "Turn left at the traffic light.",
+      "romanian": "Virați stânga la semafor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972084"
+    },
+    {
+      "english": "Turn right after the bridge.",
+      "romanian": "Faceți dreapta după pod.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972086"
+    },
+    {
+      "english": "Cross the street here.",
+      "romanian": "Traversați strada aici.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972089"
+    },
+    {
+      "english": "It's on your left.",
+      "romanian": "E pe partea stângă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972091"
+    },
+    {
+      "english": "It's on your right.",
+      "romanian": "E pe partea dreaptă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972094"
+    },
+    {
+      "english": "You will see a big church.",
+      "romanian": "Veți vedea o biserică mare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972096"
+    },
+    {
+      "english": "You can't miss it.",
+      "romanian": "Nu aveți cum să-l ratați.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972099"
+    },
+    {
+      "english": "Take the second street on the right.",
+      "romanian": "Luați a doua stradă la dreapta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972104"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "romanian": "E vreun punct de autobuz prin apropiere?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972106"
+    },
+    {
+      "english": "How much is a taxi to the airport?",
+      "romanian": "Cât costă un taxi spre aeroport?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972109"
+    },
+    {
+      "english": "I'm looking for this address.",
+      "romanian": "Caut această adresă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972112"
+    },
+    {
+      "english": "Is this the way to the old town?",
+      "romanian": "E drumul spre orașul vechi pe aici?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972114"
+    },
+    {
+      "english": "Just follow this road.",
+      "romanian": "Doar urmați drumul acesta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972117"
+    },
+    {
+      "english": "Thank you, have a nice day!",
+      "romanian": "Mulțumesc, o zi bună!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972119"
+    },
+    {
+      "english": "Could you point me, in the right direction?",
+      "romanian": "Ați putea să-mi arătați, direcția corectă?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972124"
+    },
+    {
+      "english": "I'm trying to find, a specific place.",
+      "romanian": "Încerc să găsesc, un loc anume.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972128"
+    },
+    {
+      "english": "Can you help me, locate this building?",
+      "romanian": "Mă puteți ajuta, să localizez clădirea asta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972130"
+    },
+    {
+      "english": "Is this road, heading towards the river?",
+      "romanian": "Drumul ăsta, duce spre râu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972133"
+    },
+    {
+      "english": "What's the quickest, way to the market?",
+      "romanian": "Care e cel mai rapid, drum spre piață?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972136"
+    },
+    {
+      "english": "Do you know, this neighborhood well?",
+      "romanian": "Cunoașteți bine, cartierul ăsta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972141"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "romanian": "Ați putea repeta, vă rog?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972144"
+    },
+    {
+      "english": "How do locals, usually get around?",
+      "romanian": "Cum se deplasează, de obicei localnicii?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972147"
+    },
+    {
+      "english": "Which bus, goes to the old town?",
+      "romanian": "Ce autobuz, merge spre orașul vechi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972149"
+    },
+    {
+      "english": "Is there, a shortcut nearby?",
+      "romanian": "Există, o scurtătură prin apropiere?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972152"
+    },
+    {
+      "english": "Are we on, the right path?",
+      "romanian": "Suntem pe, drumul bun?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972154"
+    },
+    {
+      "english": "Can you suggest, a nice route?",
+      "romanian": "Puteți sugera, un traseu frumos?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972157"
+    },
+    {
+      "english": "Where would you, recommend I start?",
+      "romanian": "De unde mi-ați recomanda, să încep?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972160"
+    },
+    {
+      "english": "Is this a pedestrian, friendly area?",
+      "romanian": "Este o zonă, prietenoasă pentru pietoni?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972162"
+    },
+    {
+      "english": "How do I avoid, the busy traffic?",
+      "romanian": "Cum evit, aglomerația?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972165"
+    },
+    {
+      "english": "Could you describe, the landmark ahead?",
+      "romanian": "Ați putea descrie, monumentul din față?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972167"
+    },
+    {
+      "english": "Is there a better, way to go?",
+      "romanian": "Există o cale, mai bună?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972170"
+    },
+    {
+      "english": "Can you give me, general directions?",
+      "romanian": "Îmi puteți da, indicații generale?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972173"
+    },
+    {
+      "english": "I'm looking for, a quiet street.",
+      "romanian": "Caut, o stradă liniștită.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972175"
+    },
+    {
+      "english": "Where can I find, public transport?",
+      "romanian": "Unde pot găsi, transport în comun?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972178"
+    },
+    {
+      "english": "Is it safe, to walk at night?",
+      "romanian": "Este sigur, să merg noaptea?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972181"
+    },
+    {
+      "english": "How long does it take, to walk there?",
+      "romanian": "Cât durează, să merg pe jos acolo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972183"
+    },
+    {
+      "english": "Could you draw, a small map?",
+      "romanian": "Ați putea desena, o mică hartă?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972186"
+    },
+    {
+      "english": "What should I look, for as a landmark?",
+      "romanian": "Ce ar trebui să caut, ca reper?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972189"
+    },
+    {
+      "english": "Is this the main, avenue?",
+      "romanian": "Este aceasta, principala arteră?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972191"
+    },
+    {
+      "english": "Which way is, the nearest ATM?",
+      "romanian": "În ce direcție e, cel mai apropiat bancomat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972193"
+    },
+    {
+      "english": "You've got this, just ask!",
+      "romanian": "Poți face asta, doar întreabă!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972198"
+    },
+    {
+      "english": "Don't be shy, people help.",
+      "romanian": "Nu-ți fie frică, oamenii ajută.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972201"
+    },
+    {
+      "english": "Every question, is a step forward.",
+      "romanian": "Fiecare întrebare, e un pas înainte.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972204"
+    },
+    {
+      "english": "You're learning fast, keep it up!",
+      "romanian": "Înveți repede, continuă așa!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972206"
+    },
+    {
+      "english": "Mistakes are okay, part of learning.",
+      "romanian": "Greșelile sunt ok, parte din învățare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972209"
+    },
+    {
+      "english": "Speak clearly, they will understand.",
+      "romanian": "Vorbește clar, vor înțelege.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972212"
+    },
+    {
+      "english": "You're doing great, asking questions.",
+      "romanian": "Te descurci excelent, punând întrebări.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972216"
+    },
+    {
+      "english": "Just try your best, that's enough.",
+      "romanian": "Doar dă tot ce poți, e suficient.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972219"
+    },
+    {
+      "english": "Imagine you know, stay confident.",
+      "romanian": "Imaginează-ți că știi, rămâi încrezător.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972222"
+    },
+    {
+      "english": "Good job trying, stay positive.",
+      "romanian": "Bine că ai încercat, fii pozitiv.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972226"
+    },
+    {
+      "english": "You can do this, a little more.",
+      "romanian": "Poți reuși asta, încă puțin.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972229"
+    },
+    {
+      "english": "Brave attempt, well done asking.",
+      "romanian": "Îndrăzneală bună, bravo că ai întrebat.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972232"
+    },
+    {
+      "english": "You're improving, with each try.",
+      "romanian": "Te îmbunătățești, cu fiecare încercare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972235"
+    },
+    {
+      "english": "Be patient, with yourself always.",
+      "romanian": "Ai răbdare, mereu cu tine.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972238"
+    },
+    {
+      "english": "Listen carefully, you'll get there.",
+      "romanian": "Ascultă atent, vei ajunge.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972240"
+    },
+    {
+      "english": "One question, solved the puzzle.",
+      "romanian": "O întrebare, a rezolvat misterul.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972243"
+    },
+    {
+      "english": "You are capable, of finding it.",
+      "romanian": "Ești capabil, să-l găsești.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972246"
+    },
+    {
+      "english": "Embrace the challenge, learn more.",
+      "romanian": "Îmbrățișează provocarea, învață.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972248"
+    },
+    {
+      "english": "Stay curious, ask away now.",
+      "romanian": "Rămâi curios, întreabă acum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972251"
+    },
+    {
+      "english": "Your effort matters, keep trying.",
+      "romanian": "Efortul tău contează, continuă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972253"
+    },
+    {
+      "english": "You are resourceful, find the way.",
+      "romanian": "Ești ingenios, găsește drumul.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972256"
+    },
+    {
+      "english": "Don't give up, you are close.",
+      "romanian": "Nu renunța, ești aproape.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972259"
+    },
+    {
+      "english": "Good thinking, asking for help.",
+      "romanian": "Gândire bună, ceri ajutor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972262"
+    },
+    {
+      "english": "You will get there, believe it.",
+      "romanian": "Vei ajunge acolo, crede.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972264"
+    },
+    {
+      "english": "Ask boldly, receive clarity.",
+      "romanian": "Întreabă curajos, primești claritate.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972267"
+    },
+    {
+      "english": "Your spirit is willing, just speak.",
+      "romanian": "Spiritul tău e dornic, doar vorbește.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972270"
+    },
+    {
+      "english": "You are navigating well, keep going.",
+      "romanian": "Te descurci bine, continuă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972272"
+    },
+    {
+      "english": "Every conversation, builds confidence.",
+      "romanian": "Fiecare conversație, construiește încredere.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972275"
+    },
+    {
+      "english": "I'm a bit lost, can you help?",
+      "romanian": "Sunt puțin pierdut, mă poți ajuta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972278"
+    },
+    {
+      "english": "I'm trying to find, this address.",
+      "romanian": "Încerc să găsesc, această adresă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972280"
+    },
+    {
+      "english": "Is this the way, to the city center?",
+      "romanian": "E asta e calea, spre centrul orașului?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972283"
+    },
+    {
+      "english": "Excuse me, where is the nearest pharmacy?",
+      "romanian": "Scuzați-mă, unde este cea mai apropiată farmacie?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972286"
+    },
+    {
+      "english": "I hope I'm not bothering, you too much.",
+      "romanian": "Sper să nu te deranjez, prea tare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972293"
+    },
+    {
+      "english": "My sense of direction, is terrible today.",
+      "romanian": "Simțul meu de orientare, e groaznic azi.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972297"
+    },
+    {
+      "english": "It's a bit confusing, around here.",
+      "romanian": "E puțin confuz, pe aici.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972300"
+    },
+    {
+      "english": "I'm trying to be brave, and ask.",
+      "romanian": "Încerc să fiu curajos, și să întreb.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972303"
+    },
+    {
+      "english": "This new city, is a bit overwhelming.",
+      "romanian": "Acest oraș nou, e puțin copleșitor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972306"
+    },
+    {
+      "english": "I trust your guidance, implicitly.",
+      "romanian": "Am încredere în ghidarea ta, implicit.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972310"
+    },
+    {
+      "english": "This journey is teaching me, a lot.",
+      "romanian": "Această călătorie mă învață, multe.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972313"
+    },
+    {
+      "english": "Maybe there's a shortcut, you know?",
+      "romanian": "Poate există o scurtătură, știi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972316"
+    },
+    {
+      "english": "I feel a bit silly, asking this.",
+      "romanian": "Mă simt puțin prost, întrebând asta.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972319"
+    },
+    {
+      "english": "Your directions are, incredibly clear.",
+      "romanian": "Indicațiile tale sunt, incredibil de clare.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972321"
+    },
+    {
+      "english": "Navigating here, makes me think.",
+      "romanian": "Orientarea aici, mă pune pe gânduri.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972324"
+    },
+    {
+      "english": "I'm exploring, with an open heart.",
+      "romanian": "Explorez, cu inima deschisă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972327"
+    },
+    {
+      "english": "This is a good test, of my Romanian.",
+      "romanian": "Acesta e un test bun, pentru româna mea.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972330"
+    },
+    {
+      "english": "I hope I remember, all this.",
+      "romanian": "Sper să-mi amintesc, toate astea.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972332"
+    },
+    {
+      "english": "You make it sound, so easy.",
+      "romanian": "Le faci să pară, atât de ușor.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972335"
+    },
+    {
+      "english": "It's a journey, of discovery.",
+      "romanian": "E o călătorie, de descoperire.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972338"
+    },
+    {
+      "english": "I'm soaking it all, in.",
+      "romanian": "Absorb totul, în jur.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972340"
+    },
+    {
+      "english": "Your kindness is, truly refreshing.",
+      "romanian": "Bunătatea ta este, cu adevărat revigorantă.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972343"
+    },
+    {
+      "english": "This feels like, an adventure.",
+      "romanian": "Asta pare, o aventură.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972346"
+    },
+    {
+      "english": "I'm learning to trust, the process.",
+      "romanian": "Învăț să am încredere, în proces.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972348"
+    },
+    {
+      "english": "Thanks for being, so understanding.",
+      "romanian": "Mulțumesc că ești, atât de înțelegător.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972351"
+    },
+    {
+      "english": "This moment is, quite revealing.",
+      "romanian": "Acest moment este, destul de revelator.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972353"
+    },
+    {
+      "english": "I'm looking for a place, nearby?",
+      "romanian": "Caut un loc, prin apropiere?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972356"
+    },
+    {
+      "english": "How far is it, walking distance?",
+      "romanian": "Cât de departe este, pe jos?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972359"
+    },
+    {
+      "english": "Is there a map, I could see?",
+      "romanian": "Există o hartă, pe care să o văd?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972362"
+    },
+    {
+      "english": "My phone died, no GPS now.",
+      "romanian": "Telefonul mi-a murit, fără GPS acum.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972364"
+    },
+    {
+      "english": "This building looks, very familiar.",
+      "romanian": "Clădirea asta pare, foarte familiară.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972367"
+    },
+    {
+      "english": "I think I missed, my turn.",
+      "romanian": "Cred că am ratat, schimbarea mea.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972370"
+    },
+    {
+      "english": "Where can I find, a taxi?",
+      "romanian": "Unde pot găsi, un taxi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972372"
+    },
+    {
+      "english": "Is it safe, to walk there?",
+      "romanian": "Este sigur, să merg pe acolo?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972375"
+    },
+    {
+      "english": "I'm a bit turned around, you see.",
+      "romanian": "Sunt puțin încurcat, vedeți dumneavoastră.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972378"
+    },
+    {
+      "english": "Which way is downtown, please?",
+      "romanian": "În ce direcție e centrul, vă rog?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972382"
+    },
+    {
+      "english": "Does this road lead, to the river?",
+      "romanian": "Dușește drumul ăsta, spre râu?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972385"
+    },
+    {
+      "english": "I'm trying to find, a landmark.",
+      "romanian": "Încerc să găsesc, un punct de reper.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972388"
+    },
+    {
+      "english": "Is that the right, bus stop?",
+      "romanian": "Este asta stația, corectă?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972390"
+    },
+    {
+      "english": "I got off, at the wrong stop.",
+      "romanian": "Am coborât, la stația greșită.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-29T06:50:25.972392"
     }
   ],
-  "last_updated": "2026-10-28T06:47:50.056023"
+  "last_updated": "2026-10-29T06:50:25.972394"
 }
