@@ -9377,7 +9377,727 @@
       "romanian": "Am coborât, la stația greșită.",
       "category": "Asking for Directions",
       "generated_at": "2026-10-29T06:50:25.972392"
+    },
+    {
+      "english": "Help, please!",
+      "romanian": "Ajutor, vă rog!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006845"
+    },
+    {
+      "english": "I need a doctor.",
+      "romanian": "Am nevoie de un doctor.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006857"
+    },
+    {
+      "english": "Where is the hospital?",
+      "romanian": "Unde este spitalul?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006863"
+    },
+    {
+      "english": "Call an ambulance!",
+      "romanian": "Chemați o ambulanță!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006866"
+    },
+    {
+      "english": "I feel sick.",
+      "romanian": "Mă simt rău.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006868"
+    },
+    {
+      "english": "It's an emergency.",
+      "romanian": "Este o urgență.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006871"
+    },
+    {
+      "english": "I am injured.",
+      "romanian": "Sunt rănit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006874"
+    },
+    {
+      "english": "I need medicine.",
+      "romanian": "Am nevoie de medicamente.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006878"
+    },
+    {
+      "english": "Do you speak English?",
+      "romanian": "Vorbiți engleză?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006882"
+    },
+    {
+      "english": "Where is the pharmacy?",
+      "romanian": "Unde este farmacia?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006884"
+    },
+    {
+      "english": "I have a headache.",
+      "romanian": "Am dureri de cap.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006887"
+    },
+    {
+      "english": "I have a fever.",
+      "romanian": "Am febră.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006891"
+    },
+    {
+      "english": "My leg hurts.",
+      "romanian": "Mă doare piciorul.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006894"
+    },
+    {
+      "english": "Be careful!",
+      "romanian": "Ai grijă!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006898"
+    },
+    {
+      "english": "Is anyone there?",
+      "romanian": "Este cineva acolo?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006900"
+    },
+    {
+      "english": "I can't breathe.",
+      "romanian": "Nu pot respira.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006903"
+    },
+    {
+      "english": "I am lost.",
+      "romanian": "M-am rătăcit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006905"
+    },
+    {
+      "english": "What happened?",
+      "romanian": "Ce s-a întâmplat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006908"
+    },
+    {
+      "english": "I need water.",
+      "romanian": "Am nevoie de apă.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006910"
+    },
+    {
+      "english": "Don't move!",
+      "romanian": "Nu te mișca!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006912"
+    },
+    {
+      "english": "I need help immediately.",
+      "romanian": "Am nevoie urgentă de ajutor.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006915"
+    },
+    {
+      "english": "I fell down.",
+      "romanian": "Am căzut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006917"
+    },
+    {
+      "english": "I need a bandage.",
+      "romanian": "Am nevoie de un bandaj.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006920"
+    },
+    {
+      "english": "My arm is broken.",
+      "romanian": "Brațul meu este rupt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006922"
+    },
+    {
+      "english": "I am allergic to...",
+      "romanian": "Sunt alergic la...",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006925"
+    },
+    {
+      "english": "I need to lie down.",
+      "romanian": "Trebuie să mă așez.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006927"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "romanian": "Este vreun doctor prin apropiere?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006930"
+    },
+    {
+      "english": "I feel dizzy.",
+      "romanian": "Mă simt amețit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006932"
+    },
+    {
+      "english": "Take me to the clinic.",
+      "romanian": "Du-mă la clinică.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006935"
+    },
+    {
+      "english": "Could you assist me, please?",
+      "romanian": "Mă puteți ajuta, vă rog?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006937"
+    },
+    {
+      "english": "Is there a nurse here?",
+      "romanian": "Este o asistentă aici?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006940"
+    },
+    {
+      "english": "Can you call someone for me?",
+      "romanian": "Puteți suna pe cineva pentru mine?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006942"
+    },
+    {
+      "english": "Where can I find help?",
+      "romanian": "Unde pot găsi ajutor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006945"
+    },
+    {
+      "english": "Do you have any bandages?",
+      "romanian": "Aveți cumva pansamente?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006947"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "romanian": "Trebuie să văd un specialist.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006950"
+    },
+    {
+      "english": "Is this a serious problem?",
+      "romanian": "Este o problemă gravă?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006954"
+    },
+    {
+      "english": "How long will this take?",
+      "romanian": "Cât timp va dura asta?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006956"
+    },
+    {
+      "english": "Can you explain it to me?",
+      "romanian": "Îmi puteți explica, vă rog?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006959"
+    },
+    {
+      "english": "Where is the nearest clinic?",
+      "romanian": "Unde este cea mai apropiată clinică?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006961"
+    },
+    {
+      "english": "I don't understand this.",
+      "romanian": "Nu înțeleg asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006964"
+    },
+    {
+      "english": "Is there someone who speaks French?",
+      "romanian": "Există cineva care vorbește franceză?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006967"
+    },
+    {
+      "english": "What is the recommended treatment?",
+      "romanian": "Care este tratamentul recomandat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006969"
+    },
+    {
+      "english": "I need to go to the bathroom.",
+      "romanian": "Trebuie să merg la baie.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006973"
+    },
+    {
+      "english": "What are the symptoms?",
+      "romanian": "Care sunt simptomele?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006976"
+    },
+    {
+      "english": "Can I have some water, please?",
+      "romanian": "Pot să beau puțină apă?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006978"
+    },
+    {
+      "english": "I need a quiet place.",
+      "romanian": "Am nevoie de un loc liniștit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006980"
+    },
+    {
+      "english": "Should I wait here?",
+      "romanian": "Ar trebui să aștept aici?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006983"
+    },
+    {
+      "english": "Is there an emergency exit?",
+      "romanian": "Există o ieșire de urgență?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006985"
+    },
+    {
+      "english": "I feel a bit unwell.",
+      "romanian": "Mă simt puțin rău.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006987"
+    },
+    {
+      "english": "When can I leave?",
+      "romanian": "Când pot pleca?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006990"
+    },
+    {
+      "english": "What is this medicine for?",
+      "romanian": "Pentru ce este acest medicament?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006992"
+    },
+    {
+      "english": "Can you call my family?",
+      "romanian": "Puteți suna familia mea?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006994"
+    },
+    {
+      "english": "I need a wheelchair.",
+      "romanian": "Am nevoie de un scaun rulant.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006997"
+    },
+    {
+      "english": "Where is the nearest public toilet?",
+      "romanian": "Unde este cea mai apropiată toaletă publică?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.006999"
+    },
+    {
+      "english": "Is there a telephone nearby?",
+      "romanian": "Există un telefon în apropiere?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007001"
+    },
+    {
+      "english": "What is your name?",
+      "romanian": "Cum vă numiți?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007004"
+    },
+    {
+      "english": "Stay calm, breathe deeply.",
+      "romanian": "Stai calm, respiră adânc.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007006"
+    },
+    {
+      "english": "Keep positive thoughts.",
+      "romanian": "Păstrează gândurile pozitive.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007009"
+    },
+    {
+      "english": "We will get through this.",
+      "romanian": "Vom trece peste asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007011"
+    },
+    {
+      "english": "Your courage is inspiring.",
+      "romanian": "Curajul tău este inspirațional.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007014"
+    },
+    {
+      "english": "Take it one step at a time.",
+      "romanian": "Ia-o pas cu pas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007016"
+    },
+    {
+      "english": "Focus on recovery.",
+      "romanian": "Concentrează-te pe recuperare.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007018"
+    },
+    {
+      "english": "Every day is progress.",
+      "romanian": "Fiecare zi e un progres.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007022"
+    },
+    {
+      "english": "Believe in healing.",
+      "romanian": "Crede în vindecare.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007025"
+    },
+    {
+      "english": "You are not alone.",
+      "romanian": "Nu ești singur.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007027"
+    },
+    {
+      "english": "Good job, really.",
+      "romanian": "Bravo, chiar.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007030"
+    },
+    {
+      "english": "Keep fighting.",
+      "romanian": "Continuă lupta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007032"
+    },
+    {
+      "english": "You are doing so well.",
+      "romanian": "Te descurci foarte bine.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007035"
+    },
+    {
+      "english": "Stay strong.",
+      "romanian": "Rămâi puternic.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007039"
+    },
+    {
+      "english": "Hope is important.",
+      "romanian": "Speranța e importantă.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007041"
+    },
+    {
+      "english": "You are brave.",
+      "romanian": "Ești curajos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007044"
+    },
+    {
+      "english": "Never give up.",
+      "romanian": "Nu renunța niciodată.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007046"
+    },
+    {
+      "english": "Positive energy helps.",
+      "romanian": "Energia pozitivă ajută.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007049"
+    },
+    {
+      "english": "You are doing your best.",
+      "romanian": "Faci tot ce poți.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007051"
+    },
+    {
+      "english": "Let's focus on healing.",
+      "romanian": "Să ne concentrăm pe vindecare.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007055"
+    },
+    {
+      "english": "You are resilient.",
+      "romanian": "Ești rezilient.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007058"
+    },
+    {
+      "english": "Keep your spirits up.",
+      "romanian": "Ține-ți moralul sus.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007060"
+    },
+    {
+      "english": "You will recover.",
+      "romanian": "Te vei recupera.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007063"
+    },
+    {
+      "english": "Think of brighter days.",
+      "romanian": "Gândește-te la zile mai bune.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007065"
+    },
+    {
+      "english": "It will get better.",
+      "romanian": "Va fi mai bine.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007067"
+    },
+    {
+      "english": "Mind over matter.",
+      "romanian": "Mintea controlează materia.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007070"
+    },
+    {
+      "english": "This is quite serious, isn't it?",
+      "romanian": "E destul de grav, nu-i așa?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007072"
+    },
+    {
+      "english": "I'm worried about the results.",
+      "romanian": "Îmi fac griji pentru rezultate.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007075"
+    },
+    {
+      "english": "Patience is key right now.",
+      "romanian": "Răbdarea e cheia acum.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007078"
+    },
+    {
+      "english": "We need to understand deeply.",
+      "romanian": "Trebuie să înțelegem profund.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007080"
+    },
+    {
+      "english": "My feelings are complicated.",
+      "romanian": "Sentimentele mele sunt complicate.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007083"
+    },
+    {
+      "english": "Honesty is the best policy.",
+      "romanian": "Onestitatea e cea mai bună politică.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007085"
+    },
+    {
+      "english": "I'm reflecting on this situation.",
+      "romanian": "Mă gândesc la situația asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007087"
+    },
+    {
+      "english": "It's hard to accept, really.",
+      "romanian": "E greu de acceptat, sincer.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007090"
+    },
+    {
+      "english": "What are your true thoughts?",
+      "romanian": "Care sunt adevăratele tale gânduri?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007092"
+    },
+    {
+      "english": "Let's be open about this.",
+      "romanian": "Hai să fim deschiși despre asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007097"
+    },
+    {
+      "english": "I feel vulnerable, honestly.",
+      "romanian": "Mă simt vulnerabil, sincer.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007100"
+    },
+    {
+      "english": "This requires deep consideration.",
+      "romanian": "Asta necesită multă considerație.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007102"
+    },
+    {
+      "english": "It's a difficult moment, for sure.",
+      "romanian": "E un moment greu, sigur.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007105"
+    },
+    {
+      "english": "Expressing this is important.",
+      "romanian": "A exprima asta e important.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007108"
+    },
+    {
+      "english": "My perspective has changed.",
+      "romanian": "Perspectiva mea s-a schimbat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007110"
+    },
+    {
+      "english": "Are you feeling okay, truly?",
+      "romanian": "Te simți bine, cu adevărat?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007113"
+    },
+    {
+      "english": "Let's talk honestly about it.",
+      "romanian": "Hai să vorbim sincer despre asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007115"
+    },
+    {
+      "english": "I'm thinking a lot about this.",
+      "romanian": "Mă gândesc mult la asta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007118"
+    },
+    {
+      "english": "This situation makes me reflect.",
+      "romanian": "Situația asta mă face să reflectez.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007120"
+    },
+    {
+      "english": "I appreciate your understanding.",
+      "romanian": "Apreciez înțelegerea ta.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007122"
+    },
+    {
+      "english": "It's important to be sincere.",
+      "romanian": "E important să fim sinceri.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007125"
+    },
+    {
+      "english": "How do you feel deep down?",
+      "romanian": "Cum te simți în adânc?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007127"
+    },
+    {
+      "english": "This requires some reflection.",
+      "romanian": "Asta necesită puțină reflecție.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007130"
+    },
+    {
+      "english": "Your honesty means a lot.",
+      "romanian": "Onestitatea ta înseamnă mult.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007132"
+    },
+    {
+      "english": "Let's explore these feelings.",
+      "romanian": "Hai să explorăm sentimentele astea.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007134"
+    },
+    {
+      "english": "I'm contemplating the next steps.",
+      "romanian": "Contemplu următorii pași.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007139"
+    },
+    {
+      "english": "This experience is humbling.",
+      "romanian": "Experiența asta e smerită.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007141"
+    },
+    {
+      "english": "What is truly important now?",
+      "romanian": "Ce e cu adevărat important acum?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007143"
+    },
+    {
+      "english": "Call an ambulance, quickly please.",
+      "romanian": "Chemați o ambulanță, repede vă rog.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007146"
+    },
+    {
+      "english": "Take this medicine, twice a day.",
+      "romanian": "Luați medicamentul ăsta, de două ori pe zi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007148"
+    },
+    {
+      "english": "My head really hurts.",
+      "romanian": "Mă doare capul tare.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007151"
+    },
+    {
+      "english": "I feel dizzy, I need to sit.",
+      "romanian": "Mă simt amețit, trebuie să stau jos.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007153"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "romanian": "Este vreo farmacie prin apropiere?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007156"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "romanian": "Cred că mi-am rupt brațul.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007158"
+    },
+    {
+      "english": "Don't move, stay still.",
+      "romanian": "Nu vă mișcați, stați nemișcat.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007161"
+    },
+    {
+      "english": "I feel very weak today.",
+      "romanian": "Mă simt foarte slăbit azi.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007165"
+    },
+    {
+      "english": "Do you have a first-aid kit?",
+      "romanian": "Aveți trusă de prim ajutor?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007168"
+    },
+    {
+      "english": "It's a medical emergency.",
+      "romanian": "Este o urgență medicală.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007170"
+    },
+    {
+      "english": "I have a fever, a high one.",
+      "romanian": "Am febră, una mare.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:54:06.007173"
     }
   ],
-  "last_updated": "2026-10-29T06:50:25.972394"
+  "last_updated": "2026-10-30T06:54:06.007175"
 }
