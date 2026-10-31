@@ -10097,7 +10097,727 @@
       "romanian": "Am febră, una mare.",
       "category": "Emergency & Health",
       "generated_at": "2026-10-30T06:54:06.007173"
+    },
+    {
+      "english": "Welcome home, dear.",
+      "romanian": "Bine ai venit acasă, dragă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614040"
+    },
+    {
+      "english": "Is everything okay?",
+      "romanian": "E totul în regulă?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614056"
+    },
+    {
+      "english": "I'm here, mom.",
+      "romanian": "Sunt aici, mamă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614059"
+    },
+    {
+      "english": "Let's eat, everyone.",
+      "romanian": "Haideți să mâncăm, toată lumea.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614076"
+    },
+    {
+      "english": "What's for dinner?",
+      "romanian": "Ce avem de cină?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614080"
+    },
+    {
+      "english": "The house is quiet.",
+      "romanian": "Casa e liniștită.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614084"
+    },
+    {
+      "english": "Did you see that?",
+      "romanian": "Ai văzut asta?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614094"
+    },
+    {
+      "english": "Don't forget, please.",
+      "romanian": "Nu uita, te rog.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614100"
+    },
+    {
+      "english": "My family is great.",
+      "romanian": "Familia mea e grozavă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614103"
+    },
+    {
+      "english": "I love my home.",
+      "romanian": "Îmi iubesc casa.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614105"
+    },
+    {
+      "english": "Where is my phone?",
+      "romanian": "Unde e telefonul meu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614107"
+    },
+    {
+      "english": "It's a bit cold.",
+      "romanian": "E puțin frig.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614110"
+    },
+    {
+      "english": "Turn on the light.",
+      "romanian": "Aprinde lumina.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614112"
+    },
+    {
+      "english": "Close the door, please.",
+      "romanian": "Închide ușa, te rog.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614115"
+    },
+    {
+      "english": "I need some rest.",
+      "romanian": "Am nevoie de odihnă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614117"
+    },
+    {
+      "english": "Let's go out.",
+      "romanian": "Hai să ieșim.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614119"
+    },
+    {
+      "english": "I'm tired, honestly.",
+      "romanian": "Sunt obosit, sincer.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614122"
+    },
+    {
+      "english": "This is our home.",
+      "romanian": "Aceasta e casa noastră.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614124"
+    },
+    {
+      "english": "Is anyone home?",
+      "romanian": "E cineva acasă?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614126"
+    },
+    {
+      "english": "The children are playing.",
+      "romanian": "Copiii se joacă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614129"
+    },
+    {
+      "english": "We are a team.",
+      "romanian": "Suntem o echipă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614133"
+    },
+    {
+      "english": "Please be quiet.",
+      "romanian": "Te rog, liniște.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614135"
+    },
+    {
+      "english": "Pass me the salt.",
+      "romanian": "Dă-mi sarea, te rog.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614138"
+    },
+    {
+      "english": "It smells good.",
+      "romanian": "Miroase bine.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614140"
+    },
+    {
+      "english": "I'm coming right now.",
+      "romanian": "Vin imediat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614142"
+    },
+    {
+      "english": "Let's clean up.",
+      "romanian": "Hai să facem curățenie.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614144"
+    },
+    {
+      "english": "This is my room.",
+      "romanian": "Aceasta e camera mea.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614147"
+    },
+    {
+      "english": "Good night, sleep well.",
+      "romanian": "Noapte bună, dormi bine.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614150"
+    },
+    {
+      "english": "How was your day, honey?",
+      "romanian": "Cum ți-a fost ziua, dragă?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614153"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "romanian": "Ți-ai terminat tema?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614155"
+    },
+    {
+      "english": "What are we doing tonight?",
+      "romanian": "Ce facem diseară?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614159"
+    },
+    {
+      "english": "Do you need anything else?",
+      "romanian": "Mai ai nevoie de ceva?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614161"
+    },
+    {
+      "english": "Whose turn is it today?",
+      "romanian": "A cui e rândul azi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614164"
+    },
+    {
+      "english": "Shall we watch a movie?",
+      "romanian": "Ne uităm la un film?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614166"
+    },
+    {
+      "english": "Is the door locked?",
+      "romanian": "E ușă închisă?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614169"
+    },
+    {
+      "english": "When will you be back?",
+      "romanian": "Când te întorci?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614171"
+    },
+    {
+      "english": "What time should we leave?",
+      "romanian": "La ce oră plecăm?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614173"
+    },
+    {
+      "english": "Did you call grandma?",
+      "romanian": "Ai sunat-o pe bunica?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614176"
+    },
+    {
+      "english": "Is the table set?",
+      "romanian": "E masa aranjată?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614178"
+    },
+    {
+      "english": "What did you learn today?",
+      "romanian": "Ce ai învățat azi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614180"
+    },
+    {
+      "english": "Can I borrow your sweater?",
+      "romanian": "Îmi împrumuți puloverul tău?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614182"
+    },
+    {
+      "english": "Are you feeling better?",
+      "romanian": "Te simți mai bine?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614185"
+    },
+    {
+      "english": "Who's at the door?",
+      "romanian": "Cine e la ușă?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614187"
+    },
+    {
+      "english": "What should I cook?",
+      "romanian": "Ce să gătesc?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614189"
+    },
+    {
+      "english": "Can we talk later?",
+      "romanian": "Putem vorbi mai târziu?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614191"
+    },
+    {
+      "english": "Is the baby sleeping?",
+      "romanian": "Bebelușul doarme?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614193"
+    },
+    {
+      "english": "Did you lock the car?",
+      "romanian": "Ai închis mașina?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614195"
+    },
+    {
+      "english": "What's your favorite part?",
+      "romanian": "Care-i partea ta preferată?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614198"
+    },
+    {
+      "english": "Where did you put it?",
+      "romanian": "Unde ai pus-o?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614200"
+    },
+    {
+      "english": "Are we ready to go?",
+      "romanian": "Suntem gata de plecare?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614202"
+    },
+    {
+      "english": "Do you want some tea?",
+      "romanian": "Vrei o cană de ceai?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614204"
+    },
+    {
+      "english": "What's happening outside?",
+      "romanian": "Ce se întâmplă afară?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614208"
+    },
+    {
+      "english": "Can I have a moment?",
+      "romanian": "Pot avea un moment?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614210"
+    },
+    {
+      "english": "Did you hear that noise?",
+      "romanian": "Ai auzit zgomotul acela?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614212"
+    },
+    {
+      "english": "Is it time for bed?",
+      "romanian": "E ora de culcare?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614214"
+    },
+    {
+      "english": "Our home is full of love.",
+      "romanian": "Casa noastră e plină de iubire.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614217"
+    },
+    {
+      "english": "We support each other.",
+      "romanian": "Ne susținem unii pe alții.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614219"
+    },
+    {
+      "english": "You are capable of anything.",
+      "romanian": "Ești capabil de orice.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614221"
+    },
+    {
+      "english": "Let's create good memories together.",
+      "romanian": "Să creăm amintiri frumoase împreună.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614224"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "romanian": "Fiecare zi e o nouă șansă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614226"
+    },
+    {
+      "english": "We are stronger together.",
+      "romanian": "Suntem mai puternici împreună.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614228"
+    },
+    {
+      "english": "Keep a positive outlook.",
+      "romanian": "Păstrează o perspectivă pozitivă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614230"
+    },
+    {
+      "english": "You make this house a home.",
+      "romanian": "Tu faci din casa asta un cămin.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614234"
+    },
+    {
+      "english": "Never give up on your dreams.",
+      "romanian": "Nu renunța niciodată la visele tale.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614236"
+    },
+    {
+      "english": "Your contribution matters greatly.",
+      "romanian": "Contribuția ta contează enorm.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614239"
+    },
+    {
+      "english": "We're building a beautiful future.",
+      "romanian": "Construim un viitor frumos.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614241"
+    },
+    {
+      "english": "Stay strong, my dear.",
+      "romanian": "Rămâi puternic, dragul meu/draga mea.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614243"
+    },
+    {
+      "english": "This is a place of peace.",
+      "romanian": "Acesta e un loc de pace.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614246"
+    },
+    {
+      "english": "You are incredibly talented.",
+      "romanian": "Ești incredibil de talentat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614248"
+    },
+    {
+      "english": "Let's focus on the good.",
+      "romanian": "Să ne concentrăm pe ce e bun.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614251"
+    },
+    {
+      "english": "Your presence is a gift.",
+      "romanian": "Prezența ta este un dar.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614253"
+    },
+    {
+      "english": "We can overcome any challenge.",
+      "romanian": "Putem depăși orice provocare.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614255"
+    },
+    {
+      "english": "Keep up the excellent work.",
+      "romanian": "Continuă munca excelentă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614257"
+    },
+    {
+      "english": "Home is where our hearts are.",
+      "romanian": "Acasă e unde ne sunt inimile.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614259"
+    },
+    {
+      "english": "You inspire me daily.",
+      "romanian": "Mă inspiri zilnic.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614261"
+    },
+    {
+      "english": "Everything will be alright.",
+      "romanian": "Totul va fi bine.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614263"
+    },
+    {
+      "english": "Let's make this a happy place.",
+      "romanian": "Să facem din locul ăsta unul fericit.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614266"
+    },
+    {
+      "english": "Your kindness shines through.",
+      "romanian": "Bunătatea ta strălucește.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614268"
+    },
+    {
+      "english": "We are proud of you.",
+      "romanian": "Suntem mândri de tine.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614271"
+    },
+    {
+      "english": "Embrace the positive energy.",
+      "romanian": "Îmbrățișează energia pozitivă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614274"
+    },
+    {
+      "english": "Your efforts make a difference.",
+      "romanian": "Eforturile tale fac o diferență.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614277"
+    },
+    {
+      "english": "This is our sanctuary.",
+      "romanian": "Acesta e sanctuarul nostru.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614279"
+    },
+    {
+      "english": "This feeling, it runs deep.",
+      "romanian": "Sentimentul ăsta, vine din suflet.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614282"
+    },
+    {
+      "english": "Reflecting on our journey, hmm?",
+      "romanian": "Reflectând la drumul nostru, hmm?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614284"
+    },
+    {
+      "english": "Patience, a virtue at home.",
+      "romanian": "Răbdarea, o virtute acasă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614286"
+    },
+    {
+      "english": "My thoughts, they wander here.",
+      "romanian": "Gândurile mele, zboară aici.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614289"
+    },
+    {
+      "english": "Truly feeling connected, you know?",
+      "romanian": "Simțindu-mă cu adevărat conectat, știi?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614291"
+    },
+    {
+      "english": "What does 'home' mean, really?",
+      "romanian": "Ce înseamnă 'acasă', cu adevărat?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614294"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "romanian": "Uneori, tăcerea vorbește mult.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614296"
+    },
+    {
+      "english": "This warmth, it's unique.",
+      "romanian": "Căldura asta, e unică.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614299"
+    },
+    {
+      "english": "Deep down, this is it.",
+      "romanian": "În adâncul sufletului, acesta e.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614301"
+    },
+    {
+      "english": "Sincere moments, treasured forever.",
+      "romanian": "Momente sincere, prețuite mereu.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614304"
+    },
+    {
+      "english": "Thinking about our shared past.",
+      "romanian": "Mă gândesc la trecutul nostru comun.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614306"
+    },
+    {
+      "english": "This peace, it's profound.",
+      "romanian": "Pacea asta, e profundă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614308"
+    },
+    {
+      "english": "Honesty, the foundation, right?",
+      "romanian": "Onestitatea, fundația, nu-i așa?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614315"
+    },
+    {
+      "english": "What memories linger here?",
+      "romanian": "Ce amintiri persistă aici?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614317"
+    },
+    {
+      "english": "Feeling grateful, truly grateful.",
+      "romanian": "Mă simt recunoscător, cu adevărat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614320"
+    },
+    {
+      "english": "This understanding, it blossoms.",
+      "romanian": "Înțelegerea asta, înflorește.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614322"
+    },
+    {
+      "english": "A quiet contemplation, here.",
+      "romanian": "O contemplație liniștită, aici.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614324"
+    },
+    {
+      "english": "What lies beneath the surface?",
+      "romanian": "Ce se ascunde sub suprafață?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614326"
+    },
+    {
+      "english": "My heart finds its rhythm.",
+      "romanian": "Inima mea își găsește ritmul.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614329"
+    },
+    {
+      "english": "Believing in our shared future.",
+      "romanian": "Cred în viitorul nostru comun.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614331"
+    },
+    {
+      "english": "This is where I truly belong.",
+      "romanian": "Aici este unde aparțin cu adevărat.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614333"
+    },
+    {
+      "english": "Letting go, slowly, surely.",
+      "romanian": "Lăsând să plece, lent, sigur.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614335"
+    },
+    {
+      "english": "Acceptance brings such calm.",
+      "romanian": "Acceptarea aduce multă liniște.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614338"
+    },
+    {
+      "english": "Thinking back, with fondness.",
+      "romanian": "Mă gândesc înapoi, cu drag.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614340"
+    },
+    {
+      "english": "This bond, unbreakable, I feel.",
+      "romanian": "Legătura asta, de nezdruncinat, simt.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614346"
+    },
+    {
+      "english": "Are we understanding each other?",
+      "romanian": "Ne înțelegem oare?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614349"
+    },
+    {
+      "english": "Finding solace, right here.",
+      "romanian": "Găsind alinare, chiar aici.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614351"
+    },
+    {
+      "english": "This shared quiet, precious.",
+      "romanian": "Liniștea asta comună, prețioasă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614353"
+    },
+    {
+      "english": "A moment of true reflection.",
+      "romanian": "Un moment de reflecție adevărată.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614355"
+    },
+    {
+      "english": "This feeling, it anchors me.",
+      "romanian": "Sentimentul ăsta, mă ancorează.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614358"
+    },
+    {
+      "english": "Put away your toys, please.",
+      "romanian": "Pune-ți jucăriile la loc, te rog.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614360"
+    },
+    {
+      "english": "Did you brush your teeth?",
+      "romanian": "Ți-ai spălat dinții?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614362"
+    },
+    {
+      "english": "Help me set the table.",
+      "romanian": "Ajută-mă să pun masa.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614364"
+    },
+    {
+      "english": "Time for bed, little one.",
+      "romanian": "E timpul de culcare, puiule.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614367"
+    },
+    {
+      "english": "Don't leave the door open.",
+      "romanian": "Nu lăsa ușa deschisă.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614369"
+    },
+    {
+      "english": "Please tidy up your room.",
+      "romanian": "Te rog, fă-ți ordine în cameră.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614371"
+    },
+    {
+      "english": "Who wants some tea?",
+      "romanian": "Cine vrea ceai?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614373"
+    },
+    {
+      "english": "Let's water the plants together.",
+      "romanian": "Hai să udăm plantele împreună.",
+      "category": "Family & Home",
+      "generated_at": "2026-10-31T06:46:36.614376"
     }
   ],
-  "last_updated": "2026-10-30T06:54:06.007175"
+  "last_updated": "2026-10-31T06:46:36.614378"
 }
