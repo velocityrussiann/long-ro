@@ -12977,7 +12977,727 @@
       "romanian": "Sunt mândru de efort, nu doar de rezultate.",
       "category": "Inspiration",
       "generated_at": "2026-11-03T07:43:00.162046"
+    },
+    {
+      "english": "Excuse me, where is the check-in desk?",
+      "romanian": "Scuzați-mă, unde este ghișeul de check-in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707012"
+    },
+    {
+      "english": "Hi, I need help with my boarding pass.",
+      "romanian": "Bună, am nevoie de ajutor cu tichetul de îmbarcare.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707026"
+    },
+    {
+      "english": "Sorry, is this line for security?",
+      "romanian": "Pardon, acesta e rândul pentru controlul de securitate?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707031"
+    },
+    {
+      "english": "Do I need to show my passport here?",
+      "romanian": "Trebuie să arăt pașaportul aici?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707033"
+    },
+    {
+      "english": "My flight is delayed, what should I do?",
+      "romanian": "Zborul meu e întârziat, ce ar trebui să fac?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707036"
+    },
+    {
+      "english": "Where can I find the baggage claim?",
+      "romanian": "Unde găsesc zona de preluare bagaje?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707038"
+    },
+    {
+      "english": "I think my suitcase didn’t arrive.",
+      "romanian": "Cred că valiza mea nu a ajuns.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707041"
+    },
+    {
+      "english": "Can you check my reservation, please?",
+      "romanian": "Puteți să-mi verificați rezervarea, vă rog?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707045"
+    },
+    {
+      "english": "Is there a faster route to the gate?",
+      "romanian": "Există o cale mai rapidă până la poartă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707048"
+    },
+    {
+      "english": "How much is the luggage weight limit?",
+      "romanian": "Care e limita de greutate la bagaje?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707050"
+    },
+    {
+      "english": "I’m looking for customs, where is it?",
+      "romanian": "Caut vama, unde este?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707053"
+    },
+    {
+      "english": "Please, I have a connection, help me.",
+      "romanian": "Vă rog, am o legătură, ajutați-mă.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707056"
+    },
+    {
+      "english": "Sorry, I’m lost, which way to departures?",
+      "romanian": "Îmi pare rău, sunt pierdut, pe unde plecările?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707059"
+    },
+    {
+      "english": "What time does boarding start for my flight?",
+      "romanian": "La ce oră începe îmbarcarea pentru zborul meu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707061"
+    },
+    {
+      "english": "My screen shows the wrong terminal.",
+      "romanian": "Ecranul arată terminalul greșit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707063"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "romanian": "Puteți vorbi mai încet, vă rog?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707065"
+    },
+    {
+      "english": "That’s my seat, I found it.",
+      "romanian": "Acesta e locul meu, l-am găsit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707070"
+    },
+    {
+      "english": "Wait, my passport is missing, help!",
+      "romanian": "Stai, pașaportul meu lipsește, ajutor!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707072"
+    },
+    {
+      "english": "No problem, take your time.",
+      "romanian": "Nu-i nicio problemă, luați-vă timpul.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707074"
+    },
+    {
+      "english": "I need an adapter for charging my phone.",
+      "romanian": "Am nevoie de un adaptor pentru încărcat telefonul.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707077"
+    },
+    {
+      "english": "Where’s the ATM, near the exit?",
+      "romanian": "Unde e bancomatul, lângă ieșire?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707079"
+    },
+    {
+      "english": "Is the Wi‑Fi free in the terminal?",
+      "romanian": "Wi‑Fi-ul e gratuit în terminal?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707083"
+    },
+    {
+      "english": "I’ll just wait here, okay?",
+      "romanian": "Eu doar aștept aici, e bine?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707086"
+    },
+    {
+      "english": "Do I have to take off my shoes?",
+      "romanian": "Trebuie să-mi scot pantofii?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707087"
+    },
+    {
+      "english": "My bag is overweight, what now?",
+      "romanian": "Geanta e prea grea, ce fac acum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707089"
+    },
+    {
+      "english": "I lost my luggage tag, can I redo it?",
+      "romanian": "Am pierdut eticheta bagajului, pot să o refac?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707092"
+    },
+    {
+      "english": "Please confirm, is my gate number correct?",
+      "romanian": "Vă rog să confirmați, e corect numărul porții?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707096"
+    },
+    {
+      "english": "We’re boarding now, are you ready?",
+      "romanian": "Începem îmbarcarea acum, ești gata?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707100"
+    },
+    {
+      "english": "Thanks, I’m all set for departure.",
+      "romanian": "Mulțumesc, sunt gata de plecare.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707102"
+    },
+    {
+      "english": "Oops, I left my phone on the seat.",
+      "romanian": "Vai, mi-am lăsat telefonul pe scaun.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707104"
+    },
+    {
+      "english": "Excuse me, how do I get to security?",
+      "romanian": "Spuneți-mi, cum ajung la controlul de securitate?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707107"
+    },
+    {
+      "english": "Is this the right place for baggage drop?",
+      "romanian": "E aici unde predau bagajul, corect?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707109"
+    },
+    {
+      "english": "What documents do I need for boarding?",
+      "romanian": "Ce documente trebuie să arăt la îmbarcare?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707111"
+    },
+    {
+      "english": "Do I need to print anything at home?",
+      "romanian": "Trebuie să printez ceva acasă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707114"
+    },
+    {
+      "english": "Could you advise on the fastest check-in?",
+      "romanian": "Îmi puteți spune cum e cel mai rapid check-in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707116"
+    },
+    {
+      "english": "How early should I arrive for international flights?",
+      "romanian": "La cât timp înainte să vin pentru cursa externă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707119"
+    },
+    {
+      "english": "Where is the nearest help desk, please?",
+      "romanian": "Unde e cel mai apropiat birou de informații?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707121"
+    },
+    {
+      "english": "Is there a place to store luggage?",
+      "romanian": "Există un loc unde pot lăsa bagajul?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707123"
+    },
+    {
+      "english": "Can I change terminals after check-in?",
+      "romanian": "Pot schimba terminalul după check-in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707125"
+    },
+    {
+      "english": "Do you recommend buying Wi‑Fi tickets here?",
+      "romanian": "Recomandați să cumpăr internet aici?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707127"
+    },
+    {
+      "english": "Is there a quiet area for waiting?",
+      "romanian": "E un colț liniștit unde pot aștepta?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707129"
+    },
+    {
+      "english": "How can I track my delayed flight?",
+      "romanian": "Cum pot urmări zborul meu întârziat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707131"
+    },
+    {
+      "english": "If my flight changes, how will I know?",
+      "romanian": "Dacă se schimbă zborul, cum aflăm?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707134"
+    },
+    {
+      "english": "Is there a desk for rebooking tickets?",
+      "romanian": "Unde pot reface rezervarea, la ce ghișeu?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707136"
+    },
+    {
+      "english": "What happens if I miss boarding?",
+      "romanian": "Ce se întâmplă dacă ratez îmbarcarea?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707138"
+    },
+    {
+      "english": "Which gate numbers should I check now?",
+      "romanian": "Pe ce număr de poartă verific acum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707142"
+    },
+    {
+      "english": "Do I need luggage tags for each bag?",
+      "romanian": "Trebuie etichete pentru fiecare bagaj?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707144"
+    },
+    {
+      "english": "Is there a pharmacy inside the terminal?",
+      "romanian": "Există o farmacie în interior?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707146"
+    },
+    {
+      "english": "Where can I refill my water bottle?",
+      "romanian": "Unde pot umple sticla cu apă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707148"
+    },
+    {
+      "english": "Do you know where the restroom is?",
+      "romanian": "Știți unde e toaleta, vă rog?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707150"
+    },
+    {
+      "english": "Is there a charging station near the gate?",
+      "romanian": "Sunt prize lângă poartă pentru încărcat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707152"
+    },
+    {
+      "english": "Can I bring a small backpack on board?",
+      "romanian": "Pot lua un rucsac mic la bord?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707154"
+    },
+    {
+      "english": "What’s the policy for carry-on liquids?",
+      "romanian": "Care e regula pentru lichidele în cabină?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707157"
+    },
+    {
+      "english": "Do I need a new boarding pass today?",
+      "romanian": "Trebuie să primesc altă cartelă de îmbarcare?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707159"
+    },
+    {
+      "english": "Could you help me find my departure area?",
+      "romanian": "Mă ajutați să găsesc zona de plecări?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707161"
+    },
+    {
+      "english": "What’s the Wi‑Fi name in this airport?",
+      "romanian": "Care e numele rețelei Wi‑Fi aici?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707163"
+    },
+    {
+      "english": "Is there a shuttle from parking to terminal?",
+      "romanian": "Există navetă de la parcare la terminal?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707165"
+    },
+    {
+      "english": "Do you know where the lost and found is?",
+      "romanian": "Știți unde se predau obiectele pierdute?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707168"
+    },
+    {
+      "english": "Should I take a seat near my gate?",
+      "romanian": "E mai bine să stau aproape de poartă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707171"
+    },
+    {
+      "english": "Breathe, you’ve got this, step by step.",
+      "romanian": "Respiră, poți, pas cu pas.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707174"
+    },
+    {
+      "english": "Stay calm, delays happen, still be confident.",
+      "romanian": "Stai calm, se mai întâmplă întârzieri, rămâi sigur.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707177"
+    },
+    {
+      "english": "You’re already doing it, keep going.",
+      "romanian": "Ești deja pe drumul bun, continuă.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707180"
+    },
+    {
+      "english": "Good job, planning pays off, trust it.",
+      "romanian": "Bravo, planificarea dă roade, ai încredere.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707182"
+    },
+    {
+      "english": "Think positive, the next step will work.",
+      "romanian": "Gândește pozitiv, pasul următor merge.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707184"
+    },
+    {
+      "english": "You prepared well, now relax and enjoy.",
+      "romanian": "Te-ai pregătit bine, acum relaxează-te și bucură-te.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707187"
+    },
+    {
+      "english": "Check once, then stop stressing, move.",
+      "romanian": "Verifică o dată, apoi nu te mai stresa, mergi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707190"
+    },
+    {
+      "english": "Small wins today, big trip tomorrow.",
+      "romanian": "Victorie mică azi, călătorie mare mâine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707192"
+    },
+    {
+      "english": "Arrive with confidence, you can handle it.",
+      "romanian": "Ajungi cu încredere, poți să te descurci.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707194"
+    },
+    {
+      "english": "No panic, just follow signs, keep your pace.",
+      "romanian": "Fără panică, urmează indicatoarele, ține ritmul.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707197"
+    },
+    {
+      "english": "Every queue is progress, stay focused.",
+      "romanian": "Orice rând e progres, rămâi atent.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707199"
+    },
+    {
+      "english": "You belong here, speak up and ask.",
+      "romanian": "Ești acolo unde trebuie, întreabă, spune din nou.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707202"
+    },
+    {
+      "english": "Trust the process, boarding will come.",
+      "romanian": "Ai încredere în proces, îmbarcarea vine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707204"
+    },
+    {
+      "english": "Even a detour can lead to something great.",
+      "romanian": "Chiar și ocolirea te poate duce spre ceva grozav.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707206"
+    },
+    {
+      "english": "Your future vacation starts with one calm decision.",
+      "romanian": "Vacanța ta începe cu o decizie calmă.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707211"
+    },
+    {
+      "english": "You’re learning fast, keep your head up.",
+      "romanian": "Învăți repede, ține-ți capul sus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707213"
+    },
+    {
+      "english": "Say it clearly, you’ll be understood quickly.",
+      "romanian": "Spune clar, te înțeleg repede.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707217"
+    },
+    {
+      "english": "Relax, you don’t need perfection, just effort.",
+      "romanian": "Relax, nu trebuie perfecțiune, doar efort.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707219"
+    },
+    {
+      "english": "Give yourself credit, you handled the details.",
+      "romanian": "Dă-ți credit, ai gestionat detaliile.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707222"
+    },
+    {
+      "english": "When in doubt, ask staff politely, always.",
+      "romanian": "Când nu ești sigur, întreabă politicos, mereu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707224"
+    },
+    {
+      "english": "You’ve got backups, keep calm and continue.",
+      "romanian": "Ai planuri de rezervă, stai calm și mergi mai departe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707227"
+    },
+    {
+      "english": "Today’s mission, stay present, enjoy the journey.",
+      "romanian": "Misiunea de azi, fii prezent, bucură-te de drum.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707230"
+    },
+    {
+      "english": "You’re strong, even unexpected changes can work.",
+      "romanian": "Ești puternic, chiar și schimbările neprevăzute pot funcționa.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707232"
+    },
+    {
+      "english": "Small checklist, big confidence, you’ll be fine.",
+      "romanian": "Checklist mic, încredere mare, o să fie bine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707235"
+    },
+    {
+      "english": "Be kind to yourself, travel can be busy.",
+      "romanian": "Fii blând cu tine, călătoria poate fi agitată.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707238"
+    },
+    {
+      "english": "Notice, learn, adjust, and keep moving forward.",
+      "romanian": "Observă, învață, ajustează, și mergi înainte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707240"
+    },
+    {
+      "english": "You’re doing great, this airport is temporary.",
+      "romanian": "Te descurci super, aeroportul e doar temporar.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707243"
+    },
+    {
+      "english": "Stay curious, every sign tells you something.",
+      "romanian": "Rămâi curios, fiecare indicator îți spune ceva.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707245"
+    },
+    {
+      "english": "You don’t have to rush, you have time.",
+      "romanian": "Nu trebuie să te grăbești, ai timp.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707247"
+    },
+    {
+      "english": "Enjoy the moment, you’re building travel stories.",
+      "romanian": "Bucură-te de moment, construiești povești de călătorie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707250"
+    },
+    {
+      "english": "I’m nervous, but I’ll handle it patiently.",
+      "romanian": "Sunt emoționat(ă), dar o să gestionez calm.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707253"
+    },
+    {
+      "english": "Waiting here feels long, yet I stay kind.",
+      "romanian": "Aici așteptarea pare lungă, dar rămân blând(ă).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707261"
+    },
+    {
+      "english": "I breathe in, I let go of stress.",
+      "romanian": "Inspirez, apoi las stresul să plece.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707264"
+    },
+    {
+      "english": "Honestly, I just want everything simple today.",
+      "romanian": "Pe bune, azi vreau totul cât mai simplu.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707276"
+    },
+    {
+      "english": "This delay reminds me, plan, then adapt.",
+      "romanian": "Întârzierea asta îmi amintește, planifici, apoi te adaptezi.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707281"
+    },
+    {
+      "english": "I’m learning, so mistakes won’t define me.",
+      "romanian": "Învaț, deci greșelile nu mă definesc.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707284"
+    },
+    {
+      "english": "I text once, then I focus on myself.",
+      "romanian": "Trimit un mesaj, apoi mă concentrez pe mine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707286"
+    },
+    {
+      "english": "When I feel lost, I ask gently.",
+      "romanian": "Când mă simt pierdut(ă), întreb politicos.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707288"
+    },
+    {
+      "english": "I trust the route, even if it changes.",
+      "romanian": "Am încredere în traseu, chiar dacă se schimbă.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707290"
+    },
+    {
+      "english": "Calm eyes see options, panic only sees walls.",
+      "romanian": "Ochi calmi văd soluții, panica vede doar pereți.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707292"
+    },
+    {
+      "english": "I don’t mind waiting, I mind rushing.",
+      "romanian": "Nu mă deranjează să aștept, mă deranjează să mă grăbesc.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707295"
+    },
+    {
+      "english": "Today I choose patience, not intensity.",
+      "romanian": "Azi aleg răbdarea, nu intensitatea.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707297"
+    },
+    {
+      "english": "I’m proud I showed up, even tired.",
+      "romanian": "Sunt mândru(ă) că am venit, chiar și obosit(ă).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707300"
+    },
+    {
+      "english": "I let the plan breathe, then move.",
+      "romanian": "Las planul să respire, apoi merg mai departe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707302"
+    },
+    {
+      "english": "Airport noise can’t steal my focus.",
+      "romanian": "Zgomotul din aeroport nu-mi fură atenția.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707304"
+    },
+    {
+      "english": "I’m scared, so I ask for reassurance.",
+      "romanian": "Mi-e frică, deci cer liniștire.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707306"
+    },
+    {
+      "english": "I keep my routine, it steadies me.",
+      "romanian": "Îmi păstrez rutina, mă stabilizează.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707308"
+    },
+    {
+      "english": "It’s okay to be unsure, I’ll adapt.",
+      "romanian": "E în regulă să nu știu sigur, mă descurc.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707311"
+    },
+    {
+      "english": "I remind myself, I’ve done hard things.",
+      "romanian": "Îmi spun, am făcut lucruri grele.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707314"
+    },
+    {
+      "english": "I smile, because kindness travels with me.",
+      "romanian": "Zâmbesc, că bunătatea călătorește cu mine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707316"
+    },
+    {
+      "english": "If I miss a step, I start again.",
+      "romanian": "Dacă ratez un pas, o iau de la capăt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707318"
+    },
+    {
+      "english": "I don’t need control, I need clarity.",
+      "romanian": "Nu am nevoie de control, am nevoie de claritate.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707322"
+    },
+    {
+      "english": "Reflecting helps, I breathe and think ahead.",
+      "romanian": "Când mă gândesc, respir și planific următorul pas.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707325"
+    },
+    {
+      "english": "I’m not rushing, I’m moving with purpose.",
+      "romanian": "Nu mă grăbesc, merg cu un scop.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707327"
+    },
+    {
+      "english": "Travel tests me, but I stay open.",
+      "romanian": "Călătoria mă testează, dar rămân deschis(ă).",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707329"
+    },
+    {
+      "english": "I respect the process, even when it’s slow.",
+      "romanian": "Respect procesul, chiar și când e lent.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707332"
+    },
+    {
+      "english": "My heart is calm, my checklist is ready.",
+      "romanian": "Inima mea e liniștită, lista e pregătită.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707334"
+    },
+    {
+      "english": "I’m choosing faith, not fear, today.",
+      "romanian": "Azi aleg curajul, nu frica.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707337"
+    },
+    {
+      "english": "If plans change, I’ll stay kind to myself.",
+      "romanian": "Dacă se schimbă planurile, rămân blând(ă) cu mine.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707340"
+    },
+    {
+      "english": "I’ll remember this trip, even the messy parts.",
+      "romanian": "Îmi voi aminti de această călătorie, inclusiv de părțile greoaie.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707342"
+    },
+    {
+      "english": "Check your terminal, then double-check your gate.",
+      "romanian": "Verifică terminalul, apoi verifică încă o dată poarta.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-04T07:21:20.707345"
     }
   ],
-  "last_updated": "2026-11-03T07:43:00.162047"
+  "last_updated": "2026-11-04T07:21:20.707346"
 }
