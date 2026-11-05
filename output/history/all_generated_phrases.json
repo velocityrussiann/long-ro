@@ -13697,7 +13697,727 @@
       "romanian": "Verifică terminalul, apoi verifică încă o dată poarta.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-04T07:21:20.707345"
+    },
+    {
+      "english": "Start now, keep it simple, okay?",
+      "romanian": "Începe acum, ține-o simplu, da?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060114"
+    },
+    {
+      "english": "Listen, breathe, you’ve got this.",
+      "romanian": "Ascultă, respiră, poți s-o faci.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060132"
+    },
+    {
+      "english": "Come on, try again, no worries.",
+      "romanian": "Hai, încearcă iar, n-ai griji.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060134"
+    },
+    {
+      "english": "Slow down, you’re rushing things too much.",
+      "romanian": "Încetinește, te grăbești prea tare.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060137"
+    },
+    {
+      "english": "Good idea, tell me more, please.",
+      "romanian": "Idee bună, spune-mi mai multe, te rog.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060140"
+    },
+    {
+      "english": "Wait a sec, I’ll figure it out.",
+      "romanian": "Stai puțin, mă descurc eu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060142"
+    },
+    {
+      "english": "Be careful, you might break it.",
+      "romanian": "Ai grijă, poți să-l strici.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060144"
+    },
+    {
+      "english": "Relax, it’s not the end of world.",
+      "romanian": "Lasă, nu e sfârșitul lumii.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060149"
+    },
+    {
+      "english": "Ask first, then decide, that’s wisdom.",
+      "romanian": "Întâi întreabă, apoi decizi, asta e înțelepciune.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060152"
+    },
+    {
+      "english": "Small steps, daily, that changes everything.",
+      "romanian": "Pași mici, zilnic, schimbă totul.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060155"
+    },
+    {
+      "english": "No panic, we’ll handle it together.",
+      "romanian": "Fără panică, ne descurcăm împreună.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060158"
+    },
+    {
+      "english": "Talk less, listen more, trust me.",
+      "romanian": "Vorbește mai puțin, ascultă mai mult, crede-mă.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060161"
+    },
+    {
+      "english": "That’s fair, I understand your point.",
+      "romanian": "Asta e corect, înțeleg ce spui.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060164"
+    },
+    {
+      "english": "If you’re unsure, ask anyway.",
+      "romanian": "Dacă nu știi sigur, întreabă oricum.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060167"
+    },
+    {
+      "english": "Keep your promises, words matter here.",
+      "romanian": "Ține-ți promisiunile, cuvintele contează.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060169"
+    },
+    {
+      "english": "Today counts, don’t wait for tomorrow.",
+      "romanian": "Contează azi, nu amâna mâine.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060173"
+    },
+    {
+      "english": "Be kind, even when you’re tired.",
+      "romanian": "Fii bun, chiar și când ești obosit.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060175"
+    },
+    {
+      "english": "You’re welcome, anytime, I got you.",
+      "romanian": "Cu plăcere, oricând, te ajut.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060178"
+    },
+    {
+      "english": "Let’s go, we’re not late yet.",
+      "romanian": "Hai, nu suntem încă târziu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060181"
+    },
+    {
+      "english": "Watch out, there’s a trap here.",
+      "romanian": "Ai grijă, e o capcană.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060183"
+    },
+    {
+      "english": "Good morning, how did it go today?",
+      "romanian": "Bună dimineața, cum a fost azi?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060185"
+    },
+    {
+      "english": "Thank you, that helped a lot.",
+      "romanian": "Mulțumesc, m-a ajutat mult.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060187"
+    },
+    {
+      "english": "I hear you, but let’s be realistic.",
+      "romanian": "Te înțeleg, dar hai să fim realiști.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060190"
+    },
+    {
+      "english": "Choose peace, not drama, please.",
+      "romanian": "Alege liniștea, nu drama, te rog.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060192"
+    },
+    {
+      "english": "Right now, small change, big result.",
+      "romanian": "Acum, o schimbare mică, rezultat mare.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060195"
+    },
+    {
+      "english": "That’s enough, we can talk later.",
+      "romanian": "E de ajuns, vorbim mai târziu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060198"
+    },
+    {
+      "english": "I’m in, let’s make a plan.",
+      "romanian": "Sunt de acord, hai să facem un plan.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060201"
+    },
+    {
+      "english": "If it matters, show up, fully.",
+      "romanian": "Dacă contează, arată-te, pe bune.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060203"
+    },
+    {
+      "english": "Sometimes, silence speaks louder than words.",
+      "romanian": "Uneori, tăcerea spune mai mult.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060205"
+    },
+    {
+      "english": "Be steady, don’t change your goal daily.",
+      "romanian": "Fii constant, nu-ți schimba ținta zilnic.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060207"
+    },
+    {
+      "english": "Can you help me choose, which one fits?",
+      "romanian": "Mă poți ajuta să alegi, care se potrivește?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060210"
+    },
+    {
+      "english": "Where do you usually ask for advice?",
+      "romanian": "Unde ceri tu sfaturi de obicei?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060212"
+    },
+    {
+      "english": "How do you handle stress, day to day?",
+      "romanian": "Cum te descurci cu stresul, zi de zi?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060214"
+    },
+    {
+      "english": "What’s your honest opinion, should I go?",
+      "romanian": "Care e părerea ta sinceră, să merg?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060216"
+    },
+    {
+      "english": "Could you explain it simply, like I’m new?",
+      "romanian": "Poți să-mi explici simplu, ca și cum-s nou?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060219"
+    },
+    {
+      "english": "Which matters more, time or quality here?",
+      "romanian": "Ce contează mai mult, timpul sau calitatea?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060221"
+    },
+    {
+      "english": "May I ask you something, real quick?",
+      "romanian": "Pot să te întreb ceva, foarte repede?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060223"
+    },
+    {
+      "english": "How can we fix this, together?",
+      "romanian": "Cum putem să reparăm asta, împreună?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060225"
+    },
+    {
+      "english": "Do you prefer texting, or calling first?",
+      "romanian": "Tu preferi să scrii, sau s-o suni primul?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060228"
+    },
+    {
+      "english": "What would you do, if you were me?",
+      "romanian": "Tu ce ai face, dacă ai fi în locul meu?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060230"
+    },
+    {
+      "english": "Should I listen to my gut, or data?",
+      "romanian": "Să mă iau după intuiție, sau după date?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060232"
+    },
+    {
+      "english": "When you’re stuck, what helps most?",
+      "romanian": "Când te blochezi, ce te ajută cel mai mult?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060234"
+    },
+    {
+      "english": "Can we go over it, step by step?",
+      "romanian": "Putem s-o luăm pas cu pas, încă o dată?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060237"
+    },
+    {
+      "english": "What’s the lesson here, not the blame?",
+      "romanian": "Care e lecția, nu vina aici?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060239"
+    },
+    {
+      "english": "Who do you trust, for real advice?",
+      "romanian": "Pe cine ai încredere, pentru sfaturi adevărate?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060241"
+    },
+    {
+      "english": "How do you ask for a favor politely?",
+      "romanian": "Cum ceri un favor, cât mai politicos?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060243"
+    },
+    {
+      "english": "What’s your plan, if it doesn’t work?",
+      "romanian": "Care e planul tău, dacă nu iese?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060245"
+    },
+    {
+      "english": "Do you want truth, or comfort right now?",
+      "romanian": "Vrei adevărul, sau un pic de confort acum?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060247"
+    },
+    {
+      "english": "Should we set rules, before talking details?",
+      "romanian": "Punem reguli, înainte să discutăm detaliile?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060249"
+    },
+    {
+      "english": "How did you know, it was the right move?",
+      "romanian": "De unde ai știut, că e alegerea corectă?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060251"
+    },
+    {
+      "english": "What question should I ask first, here?",
+      "romanian": "Ce întrebare să pun prima, în cazul ăsta?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060254"
+    },
+    {
+      "english": "Can I get your take, briefly, please?",
+      "romanian": "Pot să-ți cer părerea, pe scurt, te rog?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060256"
+    },
+    {
+      "english": "If we disagree, how do we stay respectful?",
+      "romanian": "Dacă nu suntem de acord, cum rămânem respectuoși?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060259"
+    },
+    {
+      "english": "What’s the smallest step, that moves us forward?",
+      "romanian": "Care e primul pas, care ne duce mai departe?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060262"
+    },
+    {
+      "english": "Do you have time, to talk about it later?",
+      "romanian": "Ai timp, să discutăm mai târziu despre asta?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060264"
+    },
+    {
+      "english": "What would you change, if you could redo it?",
+      "romanian": "Ce ai schimba, dacă ai putea s-o iei de la capăt?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060266"
+    },
+    {
+      "english": "How do you keep calm, when others rush?",
+      "romanian": "Cum păstrezi calmul, când ceilalți se grăbesc?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060268"
+    },
+    {
+      "english": "What’s one habit, you’d recommend to me?",
+      "romanian": "Ce obicei ai recomanda, mie, sincer?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060271"
+    },
+    {
+      "english": "Can we check facts, before we speak?",
+      "romanian": "Putem verifica faptele, înainte să vorbim?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060273"
+    },
+    {
+      "english": "You’ve got this, keep going, one step.",
+      "romanian": "Ai asta, mergi mai departe, un pas.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060276"
+    },
+    {
+      "english": "Small wins count, celebrate them today, seriously.",
+      "romanian": "Victoriile mici contează, sărbătorește-le azi, pe bune.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060278"
+    },
+    {
+      "english": "Your effort matters, even when results lag.",
+      "romanian": "Efortul tău contează, chiar dacă răspunsul întârzie.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060281"
+    },
+    {
+      "english": "Breathe, reset your mind, and continue.",
+      "romanian": "Respiră, dă reset la minte, și mergi mai departe.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060283"
+    },
+    {
+      "english": "Don’t wait for motivation, start anyway.",
+      "romanian": "Nu aștepta motivația, pornește oricum.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060285"
+    },
+    {
+      "english": "Trust your progress, it’s real, not luck.",
+      "romanian": "Fii atent la progres, e real, nu noroc.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060288"
+    },
+    {
+      "english": "Be kind to yourself, learn fast, improve.",
+      "romanian": "Fii bun cu tine, învață repede, îmbunătățește.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060290"
+    },
+    {
+      "english": "Focus on what you can control, now.",
+      "romanian": "Concentrează-te pe ce poți controla, acum.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060293"
+    },
+    {
+      "english": "Say it to yourself, I can handle this.",
+      "romanian": "Spune-ți, pot să descurc, chiar acum.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060296"
+    },
+    {
+      "english": "Keep your head up, success listens closely.",
+      "romanian": "Ține capul sus, succesul te vede.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060298"
+    },
+    {
+      "english": "One habit today beats ten excuses tomorrow.",
+      "romanian": "Un obicei azi bate zece scuze mâine.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060300"
+    },
+    {
+      "english": "You’re not behind, you’re building momentum.",
+      "romanian": "Nu ești în urmă, construiești avânt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060303"
+    },
+    {
+      "english": "Speak to yourself like a teammate, always.",
+      "romanian": "Vorbește cu tine ca un coleg, mereu.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060306"
+    },
+    {
+      "english": "Your future needs your patience today.",
+      "romanian": "Viitorul tău are nevoie de răbdarea ta azi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060308"
+    },
+    {
+      "english": "Celebrate progress, not perfection, please, seriously.",
+      "romanian": "Sărbătorește progresul, nu perfecțiunea, te rog.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060310"
+    },
+    {
+      "english": "Let doubt pass, and choose your next action.",
+      "romanian": "Lasă îndoiala să treacă, și alege următorul pas.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060312"
+    },
+    {
+      "english": "Hard days teach you strong lessons, remember.",
+      "romanian": "Zilele grele te învață lecții puternice, ține minte.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060314"
+    },
+    {
+      "english": "You don’t need perfect, you need consistent.",
+      "romanian": "Nu-ți trebuie perfecțiune, îți trebuie consecvență.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060317"
+    },
+    {
+      "english": "Give yourself credit, you’re improving, visibly.",
+      "romanian": "Dă-ți credit, te îmbunătățești, se vede.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060320"
+    },
+    {
+      "english": "Say yes to effort, no to panic.",
+      "romanian": "Spune da la efort, nu la panică.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060322"
+    },
+    {
+      "english": "When it’s tough, go slower, stay focused.",
+      "romanian": "Când e greu, mergi mai încet, rămâi concentrat.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060326"
+    },
+    {
+      "english": "You’re allowed to start over, anytime.",
+      "romanian": "Ai voie să o iei de la capăt, oricând.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060329"
+    },
+    {
+      "english": "Keep showing up, even in small ways.",
+      "romanian": "Continuă să apari, chiar și în pași mici.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060331"
+    },
+    {
+      "english": "Your mindset is the steering wheel, remember.",
+      "romanian": "Mintea ta e volanul, ține minte.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060333"
+    },
+    {
+      "english": "Thank your progress, it brought you here.",
+      "romanian": "Mulțumește progresului, el te-a adus aici.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060335"
+    },
+    {
+      "english": "Choose calm, then make the best decision.",
+      "romanian": "Alege calmul, apoi ia cea mai bună decizie.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060337"
+    },
+    {
+      "english": "Be proud of trying, that counts.",
+      "romanian": "Fii mândru că încerci, asta contează.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060339"
+    },
+    {
+      "english": "Don’t carry fear, carry your goals.",
+      "romanian": "Nu duce frica, du scopurile.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060342"
+    },
+    {
+      "english": "You learn by doing, so do it.",
+      "romanian": "Înveți făcând, deci fă-o.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060344"
+    },
+    {
+      "english": "Keep your promise to yourself, daily.",
+      "romanian": "Respectă-ți promisiunea față de tine, zilnic.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060347"
+    },
+    {
+      "english": "Sometimes I just need to feel it, then move.",
+      "romanian": "Uneori am doar nevoie să simt, apoi merg mai departe.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060350"
+    },
+    {
+      "english": "My feelings are data, not commands, okay?",
+      "romanian": "Sentimentele mele sunt date, nu porunci, da?",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060352"
+    },
+    {
+      "english": "I’ll be honest, I’m still learning patience.",
+      "romanian": "Sunt sincer, încă învăț răbdarea.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060355"
+    },
+    {
+      "english": "When I get quiet, I’m thinking deeply.",
+      "romanian": "Când mă liniștesc, mă gândesc mai adânc.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060358"
+    },
+    {
+      "english": "I forgive myself faster, when I slow down.",
+      "romanian": "Mă iert mai repede când încetinesc.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060360"
+    },
+    {
+      "english": "I don’t pretend, I name what hurts.",
+      "romanian": "Nu mă prefac, spun ce mă doare.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060362"
+    },
+    {
+      "english": "It’s okay to miss someone, but act.",
+      "romanian": "E în regulă să-ți fie dor, dar acționează.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060364"
+    },
+    {
+      "english": "I choose honesty, even when it’s awkward.",
+      "romanian": "Aleg sinceritatea, chiar și când e incomod.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060367"
+    },
+    {
+      "english": "My pace is my power, I keep going.",
+      "romanian": "Ritmul meu e puterea mea, continui.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060369"
+    },
+    {
+      "english": "I can want more, and stay grateful.",
+      "romanian": "Pot să vreau mai mult, și totuși să fiu recunoscător.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060371"
+    },
+    {
+      "english": "I talk kindly to myself, when days sting.",
+      "romanian": "Vorbește cu blândețe cu tine, când te ustură zilele.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060373"
+    },
+    {
+      "english": "I don’t rush answers, I listen first.",
+      "romanian": "Nu mă grăbesc cu răspunsurile, întâi ascult.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060376"
+    },
+    {
+      "english": "If I’m hurt, I slow my reactions.",
+      "romanian": "Dacă mă doare, îmi încetinesc reacțiile.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060379"
+    },
+    {
+      "english": "Some answers come later, not immediately.",
+      "romanian": "Unele răspunsuri vin mai târziu, nu din prima.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060381"
+    },
+    {
+      "english": "I admit my fear, then I decide.",
+      "romanian": "Îmi recunosc frica, apoi decid.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060383"
+    },
+    {
+      "english": "My heart can be loud, my mind guides.",
+      "romanian": "Inima poate să fie gălăgioasă, mintea conduce.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060385"
+    },
+    {
+      "english": "I keep my promises, even when tired.",
+      "romanian": "Îmi țin promisiunile, chiar și când sunt obosit.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060387"
+    },
+    {
+      "english": "Patience isn’t passive, it’s smart timing.",
+      "romanian": "Răbdarea nu e pasivă, e un timing inteligent.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060390"
+    },
+    {
+      "english": "I can be sad, without losing myself.",
+      "romanian": "Pot să fiu trist, fără să mă pierd.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060392"
+    },
+    {
+      "english": "I check in with me, before I react.",
+      "romanian": "Mă verific pe mine, înainte să reacționez.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060394"
+    },
+    {
+      "english": "I learn faster, when I reflect calmly.",
+      "romanian": "Învăț mai repede când reflectez calm.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060396"
+    },
+    {
+      "english": "Today I choose peace, over constant pressure.",
+      "romanian": "Azi aleg pacea, nu presiunea constantă.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060398"
+    },
+    {
+      "english": "I don’t need perfect, I need honest progress.",
+      "romanian": "Nu am nevoie de perfecțiune, ci de progres sincer.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060401"
+    },
+    {
+      "english": "If it hurts, it’s worth understanding.",
+      "romanian": "Dacă doare, merită să înțeleg.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060403"
+    },
+    {
+      "english": "I let go, when holding hurts more.",
+      "romanian": "Renunț, când să țin doare mai tare.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060405"
+    },
+    {
+      "english": "I don’t chase control, I practice clarity.",
+      "romanian": "Nu alerg după control, practic claritatea.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060407"
+    },
+    {
+      "english": "My best decisions start with a truth.",
+      "romanian": "Cele mai bune decizii pornesc de la o adevăr.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060410"
+    },
+    {
+      "english": "I’m allowed to change my mind, peacefully.",
+      "romanian": "Am voie să-mi schimb părerea, liniștit.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060413"
+    },
+    {
+      "english": "I pause, I breathe, I stay in integrity.",
+      "romanian": "Mă opresc, respir, rămân în integritate.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060415"
+    },
+    {
+      "english": "When I’m ready, I’ll show up fully.",
+      "romanian": "Când sunt pregătit(ă), mă arăt pe deplin.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060418"
+    },
+    {
+      "english": "Small talk first, then ask the real question.",
+      "romanian": "Bârfă ușor la început, apoi întrebi direct.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-05T07:48:28.060420"
     }
   ],
-  "last_updated": "2026-11-04T07:21:20.707346"
+  "last_updated": "2026-11-05T07:48:28.060423"
 }
