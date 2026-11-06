@@ -14417,7 +14417,727 @@
       "romanian": "Bârfă ușor la început, apoi întrebi direct.",
       "category": "Wisdom",
       "generated_at": "2026-11-05T07:48:28.060420"
+    },
+    {
+      "english": "Hi, can I get a coffee, please?",
+      "romanian": "Salut, îmi puteți aduce o cafea, vă rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415630"
+    },
+    {
+      "english": "One latte, please, and that’s it.",
+      "romanian": "Un latte, vă rog, și gata.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415645"
+    },
+    {
+      "english": "Do you have oat milk, by any chance?",
+      "romanian": "Aveți lapte de ovăz, din întâmplare?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415648"
+    },
+    {
+      "english": "Can I try something sweet, maybe?",
+      "romanian": "Pot să încerc ceva dulce, poate?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415651"
+    },
+    {
+      "english": "What’s today’s pastry special, please?",
+      "romanian": "Care e specialul de patiserie de azi, vă rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415654"
+    },
+    {
+      "english": "This smells amazing, seriously.",
+      "romanian": "Mirosul ăsta e senzațional, serios.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415657"
+    },
+    {
+      "english": "Wow, that cinnamon bun looks perfect.",
+      "romanian": "Uau, chifla asta cu scorțișoară arată perfect.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415659"
+    },
+    {
+      "english": "Do you have something quick, for takeaway?",
+      "romanian": "Aveți ceva rapid, de luat la pachet?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415664"
+    },
+    {
+      "english": "Take my order, I’m ready.",
+      "romanian": "Luați comanda, sunt gata.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415667"
+    },
+    {
+      "english": "Can I get it here, or to go?",
+      "romanian": "Îl luați aici, sau la pachet?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415670"
+    },
+    {
+      "english": "I’ll take it, sounds delicious.",
+      "romanian": "Ia-lu, sună delicios.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415673"
+    },
+    {
+      "english": "Just one question, is it fresh?",
+      "romanian": "Doar o întrebare, e proaspăt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415675"
+    },
+    {
+      "english": "No sugar, please, I’ll handle it.",
+      "romanian": "Fără zahăr, vă rog, mă descurc eu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415678"
+    },
+    {
+      "english": "Make it extra hot, please.",
+      "romanian": "Faceți-l extra fierbinte, vă rog.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415680"
+    },
+    {
+      "english": "That’s my favorite, thank you!",
+      "romanian": "Asta e preferata mea, mulțumesc!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415682"
+    },
+    {
+      "english": "Where do I pay, exactly?",
+      "romanian": "Unde plătesc, exact?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415685"
+    },
+    {
+      "english": "Is there Wi‑Fi here, by chance?",
+      "romanian": "Aveți Wi‑Fi aici, din întâmplare?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415687"
+    },
+    {
+      "english": "Do you have coffee beans to buy?",
+      "romanian": "Vindeți boabe de cafea?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415690"
+    },
+    {
+      "english": "Let me smell it, just for a second.",
+      "romanian": "Lasă-mă să-l miros, un pic.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415692"
+    },
+    {
+      "english": "I’m obsessed, this is too good.",
+      "romanian": "Sunt obsedat(ă), e prea bun.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415695"
+    },
+    {
+      "english": "Do you have chocolate croissants today?",
+      "romanian": "Aveți croissante cu ciocolată azi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415697"
+    },
+    {
+      "english": "Can I get it less sweet, please?",
+      "romanian": "Îl puteți face mai puțin dulce, vă rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415702"
+    },
+    {
+      "english": "That’s cute, where’s your display?",
+      "romanian": "Ce drăguț, unde e vitrina?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415705"
+    },
+    {
+      "english": "I’ll share, but only a bite.",
+      "romanian": "Împart, dar doar o bucățică.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415708"
+    },
+    {
+      "english": "Quick question, what’s in this?",
+      "romanian": "O întrebare rapidă, ce are înăuntru?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415712"
+    },
+    {
+      "english": "I’ll be right back, don’t rush.",
+      "romanian": "Mă întorc imediat, nu vă grăbiți.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415715"
+    },
+    {
+      "english": "That barista is so friendly, wow.",
+      "romanian": "Barista asta e super amabilă, wow.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415717"
+    },
+    {
+      "english": "Can I get a receipt, please?",
+      "romanian": "Îmi dați bon, vă rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415719"
+    },
+    {
+      "english": "Excuse me, which one is yours?",
+      "romanian": "Scuzați, pe care e al vostru?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415721"
+    },
+    {
+      "english": "Okay, I’m in, what do you recommend?",
+      "romanian": "Bine, sunt convins(ă), ce recomandați?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415724"
+    },
+    {
+      "english": "Do you recommend it with extra foam?",
+      "romanian": "Îl recomanzi cu extra spumă?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415726"
+    },
+    {
+      "english": "What’s your favorite pastry here, really?",
+      "romanian": "Care e desertul tău favorit aici, serios?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415729"
+    },
+    {
+      "english": "Can we talk about the menu quickly?",
+      "romanian": "Putem vorbi rapid despre meniu?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415731"
+    },
+    {
+      "english": "Is the cake not too sweet, maybe?",
+      "romanian": "E tortul nu prea dulce, poate?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415734"
+    },
+    {
+      "english": "How fresh are your croissants, today?",
+      "romanian": "Cât de proaspete sunt cornurile azi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415736"
+    },
+    {
+      "english": "What pairs best with espresso, in your opinion?",
+      "romanian": "Cu ce se potrivește cel mai bine espresso?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415739"
+    },
+    {
+      "english": "Is this seasonal, or available all year?",
+      "romanian": "E de sezon, sau e tot anul?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415741"
+    },
+    {
+      "english": "Do you have anything gluten-free, by chance?",
+      "romanian": "Aveți și ceva fără gluten, poate?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415743"
+    },
+    {
+      "english": "Can I ask what’s inside this tart?",
+      "romanian": "Pot să întreb ce are în tartă?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415746"
+    },
+    {
+      "english": "Which drink wakes you up the most?",
+      "romanian": "Care băutură te trezește cel mai tare?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415748"
+    },
+    {
+      "english": "Is there a kid-friendly option, too?",
+      "romanian": "Există și ceva prietenos pentru copii?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415751"
+    },
+    {
+      "english": "Do you have something warm for the afternoon?",
+      "romanian": "Aveți ceva cald pentru după-amiază?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415753"
+    },
+    {
+      "english": "Would you switch it, if I ask nicely?",
+      "romanian": "Schimbați, dacă vă rog frumos?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415755"
+    },
+    {
+      "english": "Can I get it with less ice?",
+      "romanian": "Îl pot avea cu mai puțin gheață?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415757"
+    },
+    {
+      "english": "What’s the quickest thing you sell here?",
+      "romanian": "Care e cea mai rapidă opțiune aici?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415760"
+    },
+    {
+      "english": "Is the filling creamy, or more fruity?",
+      "romanian": "Umplutura e cremoasă, sau mai fructată?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415762"
+    },
+    {
+      "english": "Do you have any vegan desserts today?",
+      "romanian": "Aveți deserturi vegane azi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415764"
+    },
+    {
+      "english": "How spicy is the pastry, honestly?",
+      "romanian": "Cât de picant e produsul, sincer?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415766"
+    },
+    {
+      "english": "If I’m late, will it still be warm?",
+      "romanian": "Dacă întârzii, mai e cald?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415769"
+    },
+    {
+      "english": "Can I taste a small sample, please?",
+      "romanian": "Pot să gust puțin, te rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415771"
+    },
+    {
+      "english": "What’s your go-to order, when you’re hungry?",
+      "romanian": "Care e comanda ta preferată, când ți-e foame?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415776"
+    },
+    {
+      "english": "Is there parking nearby, or walk-in only?",
+      "romanian": "E parcare aproape, sau e doar pe jos?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415778"
+    },
+    {
+      "english": "Do you have loyalty points, or a stamp card?",
+      "romanian": "Aveți puncte de fidelitate, sau card cu ștampile?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415781"
+    },
+    {
+      "english": "Can I make it half-caf, maybe?",
+      "romanian": "Îl pot face half-caf, dacă se poate?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415785"
+    },
+    {
+      "english": "Do you serve it in a takeaway cup?",
+      "romanian": "Îl puteți pune în pahar de luat?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415787"
+    },
+    {
+      "english": "What time do pastries start selling out?",
+      "romanian": "La ce oră se termină prăjiturile?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415789"
+    },
+    {
+      "english": "Is this table taken, or free?",
+      "romanian": "Masa asta e ocupată, sau liberă?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415791"
+    },
+    {
+      "english": "Can you tell me the best pick for today?",
+      "romanian": "Îmi spui care e alegerea perfectă azi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415793"
+    },
+    {
+      "english": "Would you recommend it hot, or iced?",
+      "romanian": "O recomandați cald, sau cu gheață?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415795"
+    },
+    {
+      "english": "What’s the story behind this bakery’s recipe?",
+      "romanian": "Care e povestea rețetei acestei brutării?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415798"
+    },
+    {
+      "english": "I’ll take one, just like last time, please.",
+      "romanian": "Eu iau unul, ca data trecută, te rog.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415801"
+    },
+    {
+      "english": "No rush, take your time, I’m waiting.",
+      "romanian": "Fără grabă, ia-ți timpul, eu aștept.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415804"
+    },
+    {
+      "english": "Fresh out of the oven, that’s the vibe.",
+      "romanian": "Ieșit din cuptor, asta e treaba.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415809"
+    },
+    {
+      "english": "Warm and cozy, that’s how coffee hits.",
+      "romanian": "Cald și fain, așa te prinde cafeaua.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415812"
+    },
+    {
+      "english": "Let it be, I’ll try something new today.",
+      "romanian": "Lasă, încerc ceva nou azi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415814"
+    },
+    {
+      "english": "If it’s good, I’ll go back tomorrow.",
+      "romanian": "Dacă e bun, mă întorc mâine.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415817"
+    },
+    {
+      "english": "Between sweet and strong, I’m torn.",
+      "romanian": "Între dulce și tare, sunt în pană.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415822"
+    },
+    {
+      "english": "Keep it simple, I’ll take the classic.",
+      "romanian": "Simplu, te rog, iau clasicul.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415824"
+    },
+    {
+      "english": "This place smells amazing, I swear.",
+      "romanian": "Casa asta miroase bestial, jur.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415827"
+    },
+    {
+      "english": "I’m just browsing, no decision yet.",
+      "romanian": "Doar mă uit, încă nu decid.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415829"
+    },
+    {
+      "english": "One for now, and maybe another later.",
+      "romanian": "Una acum, și poate încă una mai târziu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415832"
+    },
+    {
+      "english": "I’ll split it, but don’t judge.",
+      "romanian": "O împart, dar nu mă judeca.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415834"
+    },
+    {
+      "english": "Go easy on me, I’m trying.",
+      "romanian": "Dă-i mai ușor cu mine, încerc.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415837"
+    },
+    {
+      "english": "That’s the one, I always order it.",
+      "romanian": "Ăsta e, îl comand mereu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415839"
+    },
+    {
+      "english": "It’s not too heavy, perfect for me.",
+      "romanian": "Nu-i prea greu, e fix pentru mine.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415842"
+    },
+    {
+      "english": "Give me the house special, no questions.",
+      "romanian": "Dă-mi specialul casei, fără discuții.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415844"
+    },
+    {
+      "english": "I’ll behave today, maybe just a pastry.",
+      "romanian": "Mă cumtăț azi, poate doar o patiserie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415847"
+    },
+    {
+      "english": "Sweet tooth day, I know what I want.",
+      "romanian": "Zi de poftă dulce, știu ce vreau.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415849"
+    },
+    {
+      "english": "When in doubt, go for the croissant.",
+      "romanian": "Când nu știi, ia croissantul.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415851"
+    },
+    {
+      "english": "Let’s take it to go, we’ll sit outside.",
+      "romanian": "Luăm la pachet, stăm afară.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415854"
+    },
+    {
+      "english": "That’s a nice portion, I won’t complain.",
+      "romanian": "E o porție bună, nu am ce zice.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415857"
+    },
+    {
+      "english": "I’ll warm up, I’m freezing today.",
+      "romanian": "Mă încălzesc, azi mă ia frigul.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415860"
+    },
+    {
+      "english": "Keep the classics coming, I’m loyal.",
+      "romanian": "Ține clasicele, sunt om de bază.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415863"
+    },
+    {
+      "english": "This is comfort food, plain and simple.",
+      "romanian": "Asta e mâncare de suflet, simplu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415865"
+    },
+    {
+      "english": "I’ll pay now, then I’ll grab it.",
+      "romanian": "Plătesc acum, după iau eu.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415869"
+    },
+    {
+      "english": "If it sells out, it wasn’t meant for me.",
+      "romanian": "Dacă se termină, n-a fost să fie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415872"
+    },
+    {
+      "english": "Tell me what’s best right now.",
+      "romanian": "Spune-mi ce e bun acum.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415875"
+    },
+    {
+      "english": "I’m already hooked, this place gets me.",
+      "romanian": "M-a prins, sunt deja dependent de locul ăsta.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415877"
+    },
+    {
+      "english": "One bite, and wow, that’s it.",
+      "romanian": "O înghițitură, și gata, așa e.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415880"
+    },
+    {
+      "english": "No drama, I’ll swap if needed.",
+      "romanian": "Fără dramă, schimb dacă trebuie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415882"
+    },
+    {
+      "english": "I needed quiet, so I came for coffee.",
+      "romanian": "Aveam nevoie de liniște, așa că am venit pentru cafea.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415885"
+    },
+    {
+      "english": "Honestly, this smells like my comfort zone.",
+      "romanian": "Pe bune, mirosul ăsta e zona mea de confort.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415887"
+    },
+    {
+      "english": "I’m taking a breather, one sip at a time.",
+      "romanian": "Îmi iau un răgaz, din înghițitură în înghițitură.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415889"
+    },
+    {
+      "english": "I don’t rush, my thoughts need time here.",
+      "romanian": "Nu mă grăbesc, gândurile au nevoie de timp.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415892"
+    },
+    {
+      "english": "Today I’m listening to my cravings, softly.",
+      "romanian": "Astăzi îmi ascult pofta, încet și blând.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415895"
+    },
+    {
+      "english": "It’s okay to change your mind, here.",
+      "romanian": "E în regulă să-ți schimbi părerea, aici.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415897"
+    },
+    {
+      "english": "I want something simple, but meaningful.",
+      "romanian": "Vreau ceva simplu, dar cu sens.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415899"
+    },
+    {
+      "english": "This place feels like a small reset button.",
+      "romanian": "Locul ăsta e ca un buton mic de reset.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415902"
+    },
+    {
+      "english": "I’m proud of myself, just for showing up.",
+      "romanian": "Sunt mândru(ă) de mine, doar că am venit.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415904"
+    },
+    {
+      "english": "No big talk, I just want warmth.",
+      "romanian": "Fără vorbe mari, eu vreau doar căldură.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415906"
+    },
+    {
+      "english": "I keep it slow, because life is loud.",
+      "romanian": "O țin pe încet, viața e zgomotoasă.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415909"
+    },
+    {
+      "english": "I didn’t plan this, I needed it.",
+      "romanian": "N-am plănuit, dar am avut nevoie.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415912"
+    },
+    {
+      "english": "Sometimes a pastry is my quiet therapy.",
+      "romanian": "Uneori, o prăjitură e terapia mea tăcută.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415914"
+    },
+    {
+      "english": "I’m grateful, even for the small moments.",
+      "romanian": "Sunt recunoscător(are), chiar și pentru clipe mici.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415916"
+    },
+    {
+      "english": "I’m letting go, one aroma at a time.",
+      "romanian": "Las în urmă, câte un miros odată.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415919"
+    },
+    {
+      "english": "Be patient, good things take a moment.",
+      "romanian": "Ai răbdare, lucrurile bune cer timp.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415921"
+    },
+    {
+      "english": "I’m choosing comfort, not perfection today.",
+      "romanian": "Aleg confortul, nu perfecțiunea, azi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415925"
+    },
+    {
+      "english": "I can feel the stress easing, finally.",
+      "romanian": "Simt cum stresul se mai duce, în sfârșit.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415928"
+    },
+    {
+      "english": "I’ll be honest, I’m having a soft day.",
+      "romanian": "Să fiu sincer(ă), azi e o zi mai blândă.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415930"
+    },
+    {
+      "english": "That first bite always resets my mood.",
+      "romanian": "Primul gust îmi schimbă mereu starea.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415933"
+    },
+    {
+      "english": "I’m not overthinking it, just enjoying.",
+      "romanian": "Nu mă gândesc prea mult, doar mă bucur.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415935"
+    },
+    {
+      "english": "I came for flavor, but stayed for calm.",
+      "romanian": "Am venit pentru gust, dar am rămas pentru liniște.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415938"
+    },
+    {
+      "english": "Some mornings need sweetness, not answers.",
+      "romanian": "Diminețile uneori cer dulceață, nu răspunsuri.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415940"
+    },
+    {
+      "english": "I’m letting the day happen, quietly.",
+      "romanian": "Las ziua să se întâmple, în liniște.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415943"
+    },
+    {
+      "english": "If it’s not perfect, I’ll still smile.",
+      "romanian": "Dacă nu e perfect, tot zâmbesc.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415948"
+    },
+    {
+      "english": "I’m trusting the baker, like always.",
+      "romanian": "Mă bazez pe brutărar, ca de obicei.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415952"
+    },
+    {
+      "english": "I needed a pause, so I’m staying longer.",
+      "romanian": "Am avut nevoie de o pauză, rămân mai mult.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415956"
+    },
+    {
+      "english": "I don’t chase hype, I chase comfort.",
+      "romanian": "Nu alerg după hype, alerg după confort.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415959"
+    },
+    {
+      "english": "I’m proud of myself, I chose care.",
+      "romanian": "Sunt mândru(ă), am ales grijă pentru mine.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415961"
+    },
+    {
+      "english": "Right now, all I need is warmth.",
+      "romanian": "Acum, tot ce-mi trebuie e căldură.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-06T07:47:12.415963"
     }
   ],
-  "last_updated": "2026-11-05T07:48:28.060423"
+  "last_updated": "2026-11-06T07:47:12.415965"
 }
