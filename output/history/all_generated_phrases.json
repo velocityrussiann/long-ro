@@ -15137,7 +15137,727 @@
       "romanian": "Acum, tot ce-mi trebuie e căldură.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-06T07:47:12.415963"
+    },
+    {
+      "english": "Say it, I’m listening, what’s up?",
+      "romanian": "Spune, te ascult, ce-i nou?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359697"
+    },
+    {
+      "english": "Wait, hold on, tell me everything.",
+      "romanian": "Stai, stai, spune-mi totul.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359717"
+    },
+    {
+      "english": "Really? Wow, I didn’t expect that.",
+      "romanian": "Chiar? Uau, nu mă așteptam.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359722"
+    },
+    {
+      "english": "Okay, I get it, let’s move on.",
+      "romanian": "Bine, am înțeles, hai mai departe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359726"
+    },
+    {
+      "english": "No way, come closer, I want details.",
+      "romanian": "Nu se poate, vino mai aproape, detalii!",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359729"
+    },
+    {
+      "english": "Careful now, don’t rush, be gentle.",
+      "romanian": "Ai grijă, nu te grăbi, fii blând.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359733"
+    },
+    {
+      "english": "Excuse me, quick question, are you free?",
+      "romanian": "Scuză-mă, o întrebare, ești liber(ă)?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359737"
+    },
+    {
+      "english": "Hey, I’m into this, show me more.",
+      "romanian": "Hei, îmi place, arată-mi mai mult.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359743"
+    },
+    {
+      "english": "Come on, smile, it suits you.",
+      "romanian": "Hai, zâmbește, îți stă bine.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359746"
+    },
+    {
+      "english": "Tell me the plan, right now, please.",
+      "romanian": "Zi-mi planul, chiar acum, te rog.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359750"
+    },
+    {
+      "english": "I’m free tonight, want to meet?",
+      "romanian": "Sunt liber(ă) azi seară, vrei să ne vedem?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359754"
+    },
+    {
+      "english": "That’s it, yes, you nailed it.",
+      "romanian": "Asta da, da, ai prins perfect.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359757"
+    },
+    {
+      "english": "Wait, listen, don’t take it too far.",
+      "romanian": "Stai, ascultă, nu o lua prea departe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359760"
+    },
+    {
+      "english": "Honestly, I like you, let’s talk.",
+      "romanian": "Pe bune, îmi place de tine, hai la vorbă.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359766"
+    },
+    {
+      "english": "Hang on, I’ll be there, just one sec.",
+      "romanian": "Stai, ajung, doar un minut.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359770"
+    },
+    {
+      "english": "Go ahead, try it, I believe you.",
+      "romanian": "Te rog, încearcă, eu cred în tine.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359773"
+    },
+    {
+      "english": "I’m thinking, maybe we should leave.",
+      "romanian": "Mă gândesc, poate plecăm.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359777"
+    },
+    {
+      "english": "Don’t worry, I’ve got you, really.",
+      "romanian": "Nu-ți face griji, am grijă de tine.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359780"
+    },
+    {
+      "english": "Let’s go, right now, don’t overthink.",
+      "romanian": "Hai să mergem, acum, nu mai exagera.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359784"
+    },
+    {
+      "english": "Show me, step by step, I’m ready.",
+      "romanian": "Arată-mi, pas cu pas, sunt gata.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359789"
+    },
+    {
+      "english": "Wow, that’s sweet, where did you learn?",
+      "romanian": "Uau, ce drăguț, de unde ai învățat?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359792"
+    },
+    {
+      "english": "I’m not sure, but I’m curious.",
+      "romanian": "Nu sunt sigur(ă), dar sunt curios/curioasă.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359797"
+    },
+    {
+      "english": "Seriously, what do you want from me?",
+      "romanian": "Serios acum, ce vrei de la mine?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359800"
+    },
+    {
+      "english": "Easy, breathe, you’re doing great.",
+      "romanian": "Încet, respiră, o faci excelent.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359804"
+    },
+    {
+      "english": "Come closer, tell me, I’m intrigued.",
+      "romanian": "Vino mai aproape, spune-mi, sunt intrigat(ă).",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359807"
+    },
+    {
+      "english": "That’s funny, okay, I’m laughing.",
+      "romanian": "E amuzant, bine, râd.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359811"
+    },
+    {
+      "english": "Right here, don’t move, I’m coming.",
+      "romanian": "Aici, nu te mișca, vin eu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359814"
+    },
+    {
+      "english": "Make your move, I’m interested, go!",
+      "romanian": "Fă-ți mutarea, mă interesezi, hai!",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359817"
+    },
+    {
+      "english": "I got it, thanks, you’re awesome.",
+      "romanian": "Am înțeles, mulțumesc, ești super.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359820"
+    },
+    {
+      "english": "Give me one second, then we’ll chat.",
+      "romanian": "Dă-mi o secundă, apoi vorbim.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359824"
+    },
+    {
+      "english": "Can you help me ask this politely?",
+      "romanian": "Poți să mă ajuți să o întreb politicos?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359826"
+    },
+    {
+      "english": "How do you say “What do you mean?”",
+      "romanian": "Cum spui „Ce vrei să spui”?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359830"
+    },
+    {
+      "english": "Is this correct, or did I mess up?",
+      "romanian": "E corect, sau am încurcat ceva?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359833"
+    },
+    {
+      "english": "I want to practice, what should I ask?",
+      "romanian": "Vreau să exersez, ce ar trebui să întreb?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359836"
+    },
+    {
+      "english": "Could you recommend a simple sentence?",
+      "romanian": "Îmi recomanzi o propoziție simplă?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359838"
+    },
+    {
+      "english": "When should I use “please” here?",
+      "romanian": "Când folosesc „vă rog” aici?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359842"
+    },
+    {
+      "english": "Do you mind correcting my Romanian?",
+      "romanian": "Îți pasă să-mi corectezi româna?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359844"
+    },
+    {
+      "english": "What do you think is the safest option?",
+      "romanian": "Tu ce crezi, care e varianta cea mai sigură?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359847"
+    },
+    {
+      "english": "May I ask why you chose that?",
+      "romanian": "Pot să te întreb de ce ai ales asta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359850"
+    },
+    {
+      "english": "Could we talk about your goals, quickly?",
+      "romanian": "Putem vorbi pe scurt despre obiectivele tale?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359853"
+    },
+    {
+      "english": "What’s your advice for beginners like me?",
+      "romanian": "Ce sfat ai pentru începători ca mine?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359856"
+    },
+    {
+      "english": "How do I sound more natural here?",
+      "romanian": "Cum să sun mai natural aici?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359859"
+    },
+    {
+      "english": "If I say this, what will they understand?",
+      "romanian": "Dacă zic asta, ce vor înțelege?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359861"
+    },
+    {
+      "english": "Can you ask me back, in Romanian?",
+      "romanian": "Poți să mă întrebi înapoi, în română?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359864"
+    },
+    {
+      "english": "What would you say in that situation?",
+      "romanian": "Ce ai spune într-o situație ca asta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359867"
+    },
+    {
+      "english": "Should I use formal or casual tone?",
+      "romanian": "Să folosesc un ton formal sau mai relaxat?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359869"
+    },
+    {
+      "english": "Can we slow down, I’m learning fast.",
+      "romanian": "Putem merge mai încet, învăț repede.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359872"
+    },
+    {
+      "english": "What question should I ask next?",
+      "romanian": "Ce întrebare urmează să pun?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359875"
+    },
+    {
+      "english": "Do you have a favorite phrase for this?",
+      "romanian": "Ai o expresie preferată pentru asta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359877"
+    },
+    {
+      "english": "How can I ask for help without sounding rude?",
+      "romanian": "Cum cer ajutor, fără să par nepoliticos?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359880"
+    },
+    {
+      "english": "What’s your take, should we try it today?",
+      "romanian": "Tu cum vezi, încercăm azi?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359894"
+    },
+    {
+      "english": "Can you give me an example sentence?",
+      "romanian": "Îmi poți da un exemplu de propoziție?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359897"
+    },
+    {
+      "english": "Why does this word change in Romanian?",
+      "romanian": "De ce se schimbă cuvântul ăsta?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359899"
+    },
+    {
+      "english": "Is there a quicker way to say it?",
+      "romanian": "Există o variantă mai scurtă?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359904"
+    },
+    {
+      "english": "Can I get your opinion on my answer?",
+      "romanian": "Îmi spui părerea despre răspunsul meu?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359906"
+    },
+    {
+      "english": "What should I keep in mind for conversations?",
+      "romanian": "Ce e important să țin minte la conversații?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359909"
+    },
+    {
+      "english": "Do you understand me, even a little?",
+      "romanian": "Mă înțelegi măcar puțin?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359912"
+    },
+    {
+      "english": "Let’s check again, where does the stress go?",
+      "romanian": "Verificăm încă o dată, unde cade accentul?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359916"
+    },
+    {
+      "english": "What do you need from me, exactly?",
+      "romanian": "Ce anume ai nevoie de la mine?",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359922"
+    },
+    {
+      "english": "You’ve got this, just keep going.",
+      "romanian": "Ai, poți s-o faci, doar mergi mai departe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359925"
+    },
+    {
+      "english": "One small step today, bigger tomorrow.",
+      "romanian": "Un pas mic azi, mâine e mai mare.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359928"
+    },
+    {
+      "english": "Trust your pace, it’s still progress.",
+      "romanian": "Ai încredere în ritmul tău, tot e progres.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359932"
+    },
+    {
+      "english": "Say it again, you’re building confidence.",
+      "romanian": "Spune-l din nou, îți construiești încrederea.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359935"
+    },
+    {
+      "english": "Your effort matters, even when it’s quiet.",
+      "romanian": "Efortul tău contează, chiar și când e liniște.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359939"
+    },
+    {
+      "english": "Keep your eyes on the goal.",
+      "romanian": "Ține-ți privirea pe obiectiv.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359942"
+    },
+    {
+      "english": "Mistakes are lessons, not dead ends.",
+      "romanian": "Greșelile sunt lecții, nu fundături.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359945"
+    },
+    {
+      "english": "Be proud of the work, not just results.",
+      "romanian": "Fii mândru de muncă, nu doar de rezultate.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359947"
+    },
+    {
+      "english": "You’re closer than you think, keep moving.",
+      "romanian": "Ești mai aproape decât crezi, mergi înainte.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359951"
+    },
+    {
+      "english": "Breathe, reset, then choose the next step.",
+      "romanian": "Respiră, ia-o de la capăt, apoi alege pasul următor.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359954"
+    },
+    {
+      "english": "Speak to yourself kindly, you’ll go further.",
+      "romanian": "Vorbește-ți frumos, o să mergi mai departe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359957"
+    },
+    {
+      "english": "Every day counts, even the messy ones.",
+      "romanian": "Fiecare zi contează, chiar și cele haotice.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359960"
+    },
+    {
+      "english": "Start where you are, don’t wait for perfect.",
+      "romanian": "Începe de unde ești, nu aștepta perfecțiunea.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359963"
+    },
+    {
+      "english": "Make your intention clear, then act.",
+      "romanian": "Fă-ți intenția clară, apoi acționează.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359966"
+    },
+    {
+      "english": "Progress feels slow, but it’s real.",
+      "romanian": "Progresul pare lent, dar e real.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359969"
+    },
+    {
+      "english": "Celebrate small wins, they add up fast.",
+      "romanian": "Sărbătorește micile victorii, se adună repede.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359972"
+    },
+    {
+      "english": "You don’t need permission to begin.",
+      "romanian": "Nu ai nevoie de permisiune ca să începi.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359975"
+    },
+    {
+      "english": "Keep the mindset, the goal will follow.",
+      "romanian": "Ține mentalitatea, obiectivul vine după.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359977"
+    },
+    {
+      "english": "Be consistent, motivation comes after practice.",
+      "romanian": "Fii consecvent, motivația vine după antrenament.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359980"
+    },
+    {
+      "english": "Your purpose is showing, even now.",
+      "romanian": "Scopul tău se vede, chiar acum.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359983"
+    },
+    {
+      "english": "If it’s hard, you’re learning—keep going.",
+      "romanian": "Dacă e greu, înveți—mergi mai departe.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359988"
+    },
+    {
+      "english": "Choose faith in yourself, not fear.",
+      "romanian": "Alege încrederea în tine, nu frica.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359991"
+    },
+    {
+      "english": "You’re allowed to try, without pressure.",
+      "romanian": "Ai voie să încerci, fără presiune.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359994"
+    },
+    {
+      "english": "Give yourself credit, you worked for this.",
+      "romanian": "Acordă-ți merit, ai muncit pentru asta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.359997"
+    },
+    {
+      "english": "Write the goal down, make it real.",
+      "romanian": "Scrie obiectivul, fă-l real.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360000"
+    },
+    {
+      "english": "When doubt hits, return to your plan.",
+      "romanian": "Când te lovește îndoiala, revino la plan.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360004"
+    },
+    {
+      "english": "Keep showing up, that’s real confidence.",
+      "romanian": "Continuă să apari, asta e adevărata încredere.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360007"
+    },
+    {
+      "english": "Say, I can, and mean it.",
+      "romanian": "Spune, pot, și chiar crede.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360010"
+    },
+    {
+      "english": "I’m honest about what I feel today, gently.",
+      "romanian": "Sunt sincer cu ce simt azi, blând.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360013"
+    },
+    {
+      "english": "Some days I pause, then I continue.",
+      "romanian": "În unele zile mă opresc, apoi continui.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360016"
+    },
+    {
+      "english": "I don’t rush feelings, they need room.",
+      "romanian": "Nu grăbesc sentimentele, au nevoie de spațiu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360019"
+    },
+    {
+      "english": "My purpose grows slowly, like roots in soil.",
+      "romanian": "Scopul meu crește încet, ca rădăcinile.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360022"
+    },
+    {
+      "english": "I admit it, I’m still learning patience.",
+      "romanian": "Recunosc, încă învăț răbdarea.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360025"
+    },
+    {
+      "english": "I listen inward first, then choose action.",
+      "romanian": "Întâi ascult în mine, apoi aleg.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360028"
+    },
+    {
+      "english": "I don’t fake it, I go step by step.",
+      "romanian": "Nu joc teatru, merg pas cu pas.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360031"
+    },
+    {
+      "english": "If I’m scared, I still move forward.",
+      "romanian": "Dacă mi-e frică, tot înainte merg.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360038"
+    },
+    {
+      "english": "I forgive myself quickly, then restart calmly.",
+      "romanian": "Mă iert repede, apoi reîncep liniștit.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360041"
+    },
+    {
+      "english": "My heart speaks first, my mind follows.",
+      "romanian": "Inima mea vorbește prima, mintea urmează.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360043"
+    },
+    {
+      "english": "I keep it real, even when it hurts.",
+      "romanian": "Țin lucrurile reale, chiar dacă doare.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360046"
+    },
+    {
+      "english": "I’m not perfect, but I’m being sincere.",
+      "romanian": "Nu sunt perfect, dar sunt sincer.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360050"
+    },
+    {
+      "english": "I can be sad, and still stay kind.",
+      "romanian": "Pot fi trist, și totuși rămân blând.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360052"
+    },
+    {
+      "english": "I slow down, so I understand myself.",
+      "romanian": "Încetinesc, ca să mă înțeleg.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360055"
+    },
+    {
+      "english": "I don’t need dramatic changes, steady works.",
+      "romanian": "Nu am nevoie de schimbări dramatice, merge constant.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360059"
+    },
+    {
+      "english": "I’m learning to trust my inner pace.",
+      "romanian": "Învăț să am încredere în ritmul meu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360064"
+    },
+    {
+      "english": "When I doubt, I return to basics.",
+      "romanian": "Când mă îndoiesc, mă întorc la lucruri simple.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360066"
+    },
+    {
+      "english": "I say it softly, I mean it.",
+      "romanian": "O spun încet, și o simt.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360071"
+    },
+    {
+      "english": "My purpose is quiet, but it’s consistent.",
+      "romanian": "Scopul meu e liniștit, dar consecvent.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360074"
+    },
+    {
+      "english": "I can be tired, and still show up.",
+      "romanian": "Pot fi obosit, dar tot mă prezint.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360077"
+    },
+    {
+      "english": "I don’t hide feelings, I name them.",
+      "romanian": "Nu ascund emoțiile, le pun în cuvinte.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360080"
+    },
+    {
+      "english": "Patience isn’t passive, it’s focused waiting.",
+      "romanian": "Răbdarea nu e pasivă, e așteptare atentă.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360084"
+    },
+    {
+      "english": "I choose honesty over looking strong.",
+      "romanian": "Aleg sinceritatea, nu aparența.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360086"
+    },
+    {
+      "english": "I’m building my purpose, one honest talk.",
+      "romanian": "Îmi construiesc scopul, printr-o conversație sinceră.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360089"
+    },
+    {
+      "english": "I let go of shame, and keep learning.",
+      "romanian": "Las rușinea, și continui să învăț.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360092"
+    },
+    {
+      "english": "I don’t chase everything, I pick meaning.",
+      "romanian": "Nu alerg după tot, aleg ce contează.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360095"
+    },
+    {
+      "english": "My feelings guide me, not control me.",
+      "romanian": "Sentimentele mă ghidează, nu mă conduc.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360098"
+    },
+    {
+      "english": "I’m grateful for progress, even imperfect.",
+      "romanian": "Sunt recunoscător pentru progres, chiar imperfect.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360101"
+    },
+    {
+      "english": "If it’s messy, I handle it kindly.",
+      "romanian": "Dacă e haos, îl gestionez blând.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360104"
+    },
+    {
+      "english": "I choose calm, and my purpose stays clear.",
+      "romanian": "Aleg liniștea, și scopul rămâne clar.",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360109"
+    },
+    {
+      "english": "Plan your day, start with one tiny step",
+      "romanian": "Plănuieste-ti ziua, începe cu un pas mic",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360111"
+    },
+    {
+      "english": "Before you speak, breathe, then choose your words",
+      "romanian": "Înainte să vorbești, respiră, apoi alege cuvintele",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360115"
+    },
+    {
+      "english": "When someone asks, be real, short, kind",
+      "romanian": "Când cineva te întreabă, fii sincer, scurt, blând",
+      "category": "Purpose",
+      "generated_at": "2026-11-07T06:54:42.360118"
     }
   ],
-  "last_updated": "2026-11-06T07:47:12.415965"
+  "last_updated": "2026-11-07T06:54:42.360119"
 }
