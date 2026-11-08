@@ -15857,7 +15857,727 @@
       "romanian": "Când cineva te întreabă, fii sincer, scurt, blând",
       "category": "Purpose",
       "generated_at": "2026-11-07T06:54:42.360118"
+    },
+    {
+      "english": "I’ve got this, one step at a time.",
+      "romanian": "Pot să fac față, pas cu pas.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209094"
+    },
+    {
+      "english": "Relax, it’s okay, we’ll manage.",
+      "romanian": "Stai liniștit, e în regulă, ne descurcăm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209106"
+    },
+    {
+      "english": "Don’t worry, I’m right here with you.",
+      "romanian": "Nu-ți face griji, sunt aici cu tine.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209110"
+    },
+    {
+      "english": "Trust me, I know what to do.",
+      "romanian": "Ai încredere, știu ce am de făcut.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209113"
+    },
+    {
+      "english": "No problem, I’ll handle it quickly.",
+      "romanian": "Nicio problemă, rezolv eu, rapid.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209116"
+    },
+    {
+      "english": "I’m confident, I’ll figure it out.",
+      "romanian": "Sunt sigur(ă), o să mă descurc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209120"
+    },
+    {
+      "english": "Let’s go, I’ve got the energy.",
+      "romanian": "Hai, am energie, mergem!",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209123"
+    },
+    {
+      "english": "It’s fine, I’ll try again, calmly.",
+      "romanian": "E în regulă, mai încerc, cu calm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209129"
+    },
+    {
+      "english": "Be cool, we’ll sort it out.",
+      "romanian": "Fii calm(ă), aranjăm noi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209133"
+    },
+    {
+      "english": "I’m okay, I can deal with it.",
+      "romanian": "Sunt bine, pot să mă descurc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209137"
+    },
+    {
+      "english": "Honestly, I’m not scared at all.",
+      "romanian": "Adevărat, nu mi-e teamă deloc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209140"
+    },
+    {
+      "english": "Sure, I’ll take care of that.",
+      "romanian": "Sigur, mă ocup eu de asta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209143"
+    },
+    {
+      "english": "Give me a second, I’m thinking.",
+      "romanian": "Dă-mi o secundă, mă gândesc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209147"
+    },
+    {
+      "english": "I can do this, watch me.",
+      "romanian": "Pot să fac asta, vezi tu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209149"
+    },
+    {
+      "english": "I’ve been there, it’ll pass.",
+      "romanian": "Știu cum e, trece.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209155"
+    },
+    {
+      "english": "No worries, I’ll keep it together.",
+      "romanian": "Nu-ți face griji, mă țin tare.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209158"
+    },
+    {
+      "english": "I’m ready, let’s do it now.",
+      "romanian": "Sunt gata, hai s-o facem acum.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209161"
+    },
+    {
+      "english": "Good, that works for me.",
+      "romanian": "Bine, asta îmi convine.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209164"
+    },
+    {
+      "english": "I’ve got an idea, hear me out.",
+      "romanian": "Am o idee, ascultă-mă puțin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209167"
+    },
+    {
+      "english": "I’m sure of it, we’re on track.",
+      "romanian": "Sunt sigur(ă), suntem pe drumul bun.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209170"
+    },
+    {
+      "english": "Calm down, we’ll fix this together.",
+      "romanian": "Calmează-te, rezolvăm împreună.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209174"
+    },
+    {
+      "english": "I’m not backing down, period.",
+      "romanian": "Nu mă dau înapoi, gata.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209177"
+    },
+    {
+      "english": "Sure thing, I’ll be there in time.",
+      "romanian": "Desigur, ajung la timp.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209180"
+    },
+    {
+      "english": "I can’t do it alone, help me.",
+      "romanian": "Nu pot singur(ă), ajută-mă, te rog.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209183"
+    },
+    {
+      "english": "That’s it, I’m stepping up now.",
+      "romanian": "Exact, acum mă implic.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209188"
+    },
+    {
+      "english": "We’ll be alright, keep going.",
+      "romanian": "O să fie bine, mergem mai departe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209201"
+    },
+    {
+      "english": "Let it be, it’ll work out.",
+      "romanian": "Lasă, se aranjează.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209204"
+    },
+    {
+      "english": "I’m proud of you, you did it.",
+      "romanian": "Sunt mândru(ă) de tine, ai reușit.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209207"
+    },
+    {
+      "english": "Okay, I’m confident, let’s start.",
+      "romanian": "Bine, sunt încrezător(ο), începem.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209211"
+    },
+    {
+      "english": "Thanks, I needed that boost today.",
+      "romanian": "Mulțumesc, aveam nevoie de încurajare.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209213"
+    },
+    {
+      "english": "What do you recommend for beginners?",
+      "romanian": "Ce recomanzi pentru începători?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209216"
+    },
+    {
+      "english": "Where should I start, in your opinion?",
+      "romanian": "De unde ar trebui să încep, după părerea ta?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209219"
+    },
+    {
+      "english": "How do you ask politely in Romanian?",
+      "romanian": "Cum ceri politicos în română?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209222"
+    },
+    {
+      "english": "Could you repeat that, just slower?",
+      "romanian": "Poți să repeți, te rog, puțin mai încet?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209224"
+    },
+    {
+      "english": "Is this the right way to say it?",
+      "romanian": "E corect așa cum spun?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209227"
+    },
+    {
+      "english": "Do you have a tip for speaking?",
+      "romanian": "Ai un sfat pentru vorbit?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209230"
+    },
+    {
+      "english": "What’s your go-to phrase for confidence?",
+      "romanian": "Care e replica ta preferată de încredere?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209233"
+    },
+    {
+      "english": "May I ask, what does this mean?",
+      "romanian": "Pot să întreb, ce înseamnă asta?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209235"
+    },
+    {
+      "english": "Should I use formal or informal?",
+      "romanian": "Să folosesc formal sau informal?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209238"
+    },
+    {
+      "english": "Which tense sounds more natural here?",
+      "romanian": "Ce timp verbal sună mai natural aici?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209240"
+    },
+    {
+      "english": "Can we practice this dialogue together?",
+      "romanian": "Putem exersa dialogul ăsta împreună?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209243"
+    },
+    {
+      "english": "What if I get stuck, what then?",
+      "romanian": "Dacă rămân fără idei, ce fac?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209245"
+    },
+    {
+      "english": "Do you think I’m ready for this?",
+      "romanian": "Crezi că sunt gata pentru asta?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209248"
+    },
+    {
+      "english": "Can you correct me, kindly?",
+      "romanian": "Poți să mă corectezi, cu bunătate?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209251"
+    },
+    {
+      "english": "What’s the simplest answer you’d give?",
+      "romanian": "Care e răspunsul cel mai simplu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209254"
+    },
+    {
+      "english": "Should I answer directly, or ask back?",
+      "romanian": "Să răspund direct, sau să întreb la rândul meu?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209257"
+    },
+    {
+      "english": "Can I get your opinion on this?",
+      "romanian": "Pot să-ți cer părerea despre asta?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209265"
+    },
+    {
+      "english": "How would you say this in Romanian?",
+      "romanian": "Cum ai spune asta, în română?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209267"
+    },
+    {
+      "english": "What should I avoid when speaking?",
+      "romanian": "Ce ar trebui să evit când vorbesc?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209269"
+    },
+    {
+      "english": "Would you mind checking my sentence?",
+      "romanian": "Te superi dacă-mi verifici propoziția?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209272"
+    },
+    {
+      "english": "Is there a better word for this?",
+      "romanian": "Există un cuvânt mai potrivit?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209274"
+    },
+    {
+      "english": "Can I ask a quick follow-up question?",
+      "romanian": "Pot să mai întreb ceva, rapid?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209277"
+    },
+    {
+      "english": "What’s the best way to sound confident?",
+      "romanian": "Care e cea mai bună metodă să pari sigur?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209280"
+    },
+    {
+      "english": "Do you want to do a role-play?",
+      "romanian": "Vrei să facem un joc de rol?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209283"
+    },
+    {
+      "english": "How do you handle nerves before talking?",
+      "romanian": "Cum gestionezi emoțiile înainte să vorbești?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209285"
+    },
+    {
+      "english": "Can we keep the conversation going?",
+      "romanian": "Putem continua conversația?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209290"
+    },
+    {
+      "english": "If I ask wrong, is it okay?",
+      "romanian": "Dacă întreb greșit, e în regulă?",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209292"
+    },
+    {
+      "english": "Say it anyway, your voice matters.",
+      "romanian": "Spune-o oricum, contează vocea ta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209295"
+    },
+    {
+      "english": "Confidence sounds like calm, not rushing.",
+      "romanian": "Încrederea sună calm, nu în grabă.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209298"
+    },
+    {
+      "english": "Trust yourself, even when you’re learning.",
+      "romanian": "Ai încredere în tine, chiar la început.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209302"
+    },
+    {
+      "english": "Smile, breathe, then speak with purpose.",
+      "romanian": "Zâmbește, respiră, apoi vorbește cu scop.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209307"
+    },
+    {
+      "english": "Small mistakes, big progress, keep going.",
+      "romanian": "Greșeli mici, progres mare, mergi mai departe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209310"
+    },
+    {
+      "english": "You’re learning fast, don’t doubt it.",
+      "romanian": "Înveți repede, nu te îndoi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209313"
+    },
+    {
+      "english": "Own your words, they’re already enough.",
+      "romanian": "Asumă-ți cuvintele, sunt deja suficiente.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209317"
+    },
+    {
+      "english": "Today you show up, that’s confidence.",
+      "romanian": "Azi te prezinți, asta e încredere.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209320"
+    },
+    {
+      "english": "Ask, try, repeat, your rhythm will lock in.",
+      "romanian": "Întreabă, încearcă, repetă, se prinde ritmul.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209323"
+    },
+    {
+      "english": "Be bold, curiosity makes everything easier.",
+      "romanian": "Fii îndrăzneț, curiozitatea ajută enorm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209326"
+    },
+    {
+      "english": "Let your accent be part of your charm.",
+      "romanian": "Lasă accentul să fie parte din farmec.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209328"
+    },
+    {
+      "english": "Every practice session brings you closer.",
+      "romanian": "Fiecare sesiune de practică te aduce mai aproape.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209331"
+    },
+    {
+      "english": "Keep your head up, you’re progressing.",
+      "romanian": "Ține capul sus, progresezi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209336"
+    },
+    {
+      "english": "You don’t need perfect, you need present.",
+      "romanian": "Nu ai nevoie de perfecțiune, ci de prezență.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209340"
+    },
+    {
+      "english": "I like how you’re showing effort.",
+      "romanian": "Îmi place cum depui efortul.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209343"
+    },
+    {
+      "english": "When you pause, you sound confident.",
+      "romanian": "Când te oprești puțin, pari încrezător.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209345"
+    },
+    {
+      "english": "You’re allowed to take your time.",
+      "romanian": "Ai voie să iei timp, fără grabă.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209348"
+    },
+    {
+      "english": "No pressure, just good communication.",
+      "romanian": "Fără presiune, doar comunicare bună.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209351"
+    },
+    {
+      "english": "Your effort is sexy, keep going.",
+      "romanian": "Efortul tău e cuceritor, continuă.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209354"
+    },
+    {
+      "english": "Say the simplest thing, then build.",
+      "romanian": "Spune varianta cea mai simplă, apoi construiește.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209356"
+    },
+    {
+      "english": "Your mind is your superpower, use it.",
+      "romanian": "Mintea ta e superputerea ta, folosește-o.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209361"
+    },
+    {
+      "english": "You’re brave, even if you’re nervous.",
+      "romanian": "Ești curajos, chiar dacă îți e teamă.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209364"
+    },
+    {
+      "english": "Turn nerves into energy, go on.",
+      "romanian": "Transformă emoțiile în energie, mai departe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209367"
+    },
+    {
+      "english": "Let the conversation lead, you follow.",
+      "romanian": "Lasă conversația să conducă, tu urmează.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209369"
+    },
+    {
+      "english": "You’re improving, and it shows today.",
+      "romanian": "Se vede că te îmbunătățești.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209372"
+    },
+    {
+      "english": "Speak up, your progress deserves a voice.",
+      "romanian": "Vorbește mai tare, progresul tău merită.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209375"
+    },
+    {
+      "english": "Keep your tone warm, you’ll feel stronger.",
+      "romanian": "Păstrează un ton cald, te vei simți mai puternic.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209378"
+    },
+    {
+      "english": "Today’s goal is effort, not perfection.",
+      "romanian": "Azi urmărești efortul, nu perfecțiunea.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209381"
+    },
+    {
+      "english": "I’m honest about my feelings, and it helps.",
+      "romanian": "Sunt sincer cu ce simt, și mă ajută.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209384"
+    },
+    {
+      "english": "Right now, I’m taking it slow, truly.",
+      "romanian": "Acum, iau încet, chiar și când emoțiile.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209388"
+    },
+    {
+      "english": "I can admit I’m unsure, without losing confidence.",
+      "romanian": "Pot să recunosc că nu sunt sigur, fără să pierd încrederea.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209391"
+    },
+    {
+      "english": "I’m learning, so patience is part of it.",
+      "romanian": "Învăț, deci răbdarea face parte din asta.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209394"
+    },
+    {
+      "english": "Honestly, I just want to be understood.",
+      "romanian": "Pe bune, vreau doar să fiu înțeles.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209397"
+    },
+    {
+      "english": "If I pause, I’m thinking, not struggling.",
+      "romanian": "Dacă fac pauză, gândesc, nu mă lupt.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209400"
+    },
+    {
+      "english": "I trust my process, even when it’s messy.",
+      "romanian": "Am încredere în proces, chiar și când e haos.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209403"
+    },
+    {
+      "english": "My words don’t need to be perfect, just true.",
+      "romanian": "Cuvintele mele nu trebuie să fie perfecte, doar adevărate.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209407"
+    },
+    {
+      "english": "I speak from the heart, calmly.",
+      "romanian": "Vorbeșc din inimă, calm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209409"
+    },
+    {
+      "english": "I don’t rush, I choose clarity first.",
+      "romanian": "Nu mă grăbesc, aleg claritatea întâi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209412"
+    },
+    {
+      "english": "When I feel stuck, I ask for time.",
+      "romanian": "Când mă simt blocat, cer puțin timp.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209415"
+    },
+    {
+      "english": "I’m allowed to be awkward, I’m still learning.",
+      "romanian": "E în regulă să fiu stângaci, încă învăț.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209418"
+    },
+    {
+      "english": "I notice my progress, even in small moments.",
+      "romanian": "Observ progresul, și în momente mici.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209421"
+    },
+    {
+      "english": "I’m honest, even if I sound imperfect.",
+      "romanian": "Sunt sincer, chiar dacă sună imperfect.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209424"
+    },
+    {
+      "english": "I can be nervous, and still speak.",
+      "romanian": "Pot să fiu emoționat, și totuși vorbesc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209427"
+    },
+    {
+      "english": "I stay kind with myself, while practicing.",
+      "romanian": "Rămân blând cu mine, cât timp exersez.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209430"
+    },
+    {
+      "english": "I don’t fear mistakes, they teach me.",
+      "romanian": "Nu mi-e frică de greșeli, mă învață.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209433"
+    },
+    {
+      "english": "My confidence grows when I keep showing up.",
+      "romanian": "Încrederea crește când continui să apari.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209435"
+    },
+    {
+      "english": "I choose one clear idea, then continue.",
+      "romanian": "Aleg o singură idee clară, apoi continui.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209438"
+    },
+    {
+      "english": "I’m reflective, I learn from what went wrong.",
+      "romanian": "Sunt reflectiv, învăț din ce nu a mers.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209441"
+    },
+    {
+      "english": "I speak with respect, for them and me.",
+      "romanian": "Vorbeșc cu respect, pentru ei și pentru mine.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209447"
+    },
+    {
+      "english": "I’m not overthinking, I’m just careful.",
+      "romanian": "Nu mă sufoc în gânduri, sunt doar atent.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209451"
+    },
+    {
+      "english": "I can say, I feel unsure, and it’s fine.",
+      "romanian": "Pot să spun, mă simt nesigur, și e ok.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209454"
+    },
+    {
+      "english": "Today I’m building trust with every sentence.",
+      "romanian": "Azi construiesc încredere, cu fiecare propoziție.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209457"
+    },
+    {
+      "english": "I hold my ground, but stay flexible.",
+      "romanian": "Țin la punctul meu, dar rămân flexibil.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209462"
+    },
+    {
+      "english": "I keep my tone gentle, even when correcting.",
+      "romanian": "Păstrez un ton blând, chiar și când corectez.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209464"
+    },
+    {
+      "english": "I’m brave enough to try, again.",
+      "romanian": "Sunt suficient de curajos să încerc, din nou.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209467"
+    },
+    {
+      "english": "I let the moment breathe, then answer.",
+      "romanian": "Las momentul să respire, apoi răspund.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209470"
+    },
+    {
+      "english": "My emotions are valid, I don’t hide them.",
+      "romanian": "Emoțiile mele sunt valide, nu le ascund.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209473"
+    },
+    {
+      "english": "I’m calm, because I’m learning, not proving.",
+      "romanian": "Sunt liniștit, fiindcă învăț, nu dovedesc nimic.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209477"
+    },
+    {
+      "english": "Start with hello, breathe, then ask.",
+      "romanian": "Începe cu un salut, respiră, apoi întreabă.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209480"
+    },
+    {
+      "english": "When you’re unsure, say what you know.",
+      "romanian": "Când nu ești sigur, spune ce știi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209483"
+    },
+    {
+      "english": "Bring one example, it steadies you.",
+      "romanian": "Adăugă un exemplu, te ține pe loc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209486"
+    },
+    {
+      "english": "If it’s awkward, laugh softly, continue.",
+      "romanian": "Dacă e stângace, râzi încet, mergi mai departe.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209489"
+    },
+    {
+      "english": "Practice small talk, it opens doors.",
+      "romanian": "Exersează small talk, deschide uși.",
+      "category": "Confidence",
+      "generated_at": "2026-11-08T07:01:11.209492"
     }
   ],
-  "last_updated": "2026-11-07T06:54:42.360119"
+  "last_updated": "2026-11-08T07:01:11.209493"
 }
