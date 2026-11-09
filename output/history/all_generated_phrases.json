@@ -16577,7 +16577,727 @@
       "romanian": "Exersează small talk, deschide uși.",
       "category": "Confidence",
       "generated_at": "2026-11-08T07:01:11.209492"
+    },
+    {
+      "english": "Hey, are you busy right now,",
+      "romanian": "Hei, ești ocupat acum,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741326"
+    },
+    {
+      "english": "Call me back, when you can, please.",
+      "romanian": "Sună-mă înapoi, când poți, te rog.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741345"
+    },
+    {
+      "english": "I’m calling to check, you okay?",
+      "romanian": "Sun ca să verific, ești bine?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741347"
+    },
+    {
+      "english": "Sorry, wrong number, my bad.",
+      "romanian": "Scuze, număr greșit, e vina mea.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741349"
+    },
+    {
+      "english": "Did you get my message,",
+      "romanian": "Ai primit mesajul meu,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741351"
+    },
+    {
+      "english": "Text me when you’re free,",
+      "romanian": "Trimite-mi mesaj, când ești liber,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741353"
+    },
+    {
+      "english": "Just checking in, how’s it going?",
+      "romanian": "Doar verific, cum merge?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741355"
+    },
+    {
+      "english": "Thanks, I got it, finally!",
+      "romanian": "Mulțumesc, am înțeles, în sfârșit!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741359"
+    },
+    {
+      "english": "Wait, let me check, one second.",
+      "romanian": "Stai, lasă-mă să verific, o secundă.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741361"
+    },
+    {
+      "english": "Are you still coming, tonight?",
+      "romanian": "Mai vii, în seara asta?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741363"
+    },
+    {
+      "english": "I can’t talk now, call later,",
+      "romanian": "Nu pot vorbi acum, sună mai târziu,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741365"
+    },
+    {
+      "english": "Great, that works, see you soon!",
+      "romanian": "Super, merge, ne vedem repede!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741367"
+    },
+    {
+      "english": "Oof, I missed it, sorry!",
+      "romanian": "Of, am ratat, scuze!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741370"
+    },
+    {
+      "english": "No worries, take your time,",
+      "romanian": "Nu e nicio problemă, ia-ți timp,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741371"
+    },
+    {
+      "english": "I’ll be there, don’t worry.",
+      "romanian": "Ajung eu, nu te îngrijora.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741374"
+    },
+    {
+      "english": "Can you hear me, clearly?",
+      "romanian": "Mă auzi clar?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741375"
+    },
+    {
+      "english": "Keep it short, I’m on the move.",
+      "romanian": "Pe scurt, sunt pe drum.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741377"
+    },
+    {
+      "english": "Send it, I’ll check right away.",
+      "romanian": "Trimite-mi, verific imediat.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741379"
+    },
+    {
+      "english": "I’m outside, meet me there,",
+      "romanian": "Sunt afară, întâlnește-mă acolo,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741381"
+    },
+    {
+      "english": "What’s up, why the silence?",
+      "romanian": "Ce mai e, de ce tăcerea?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741383"
+    },
+    {
+      "english": "I’ll call you in a minute,",
+      "romanian": "Te sun într-un minut,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741444"
+    },
+    {
+      "english": "Okay, got it, I understand now.",
+      "romanian": "Bine, am înțeles, acum e clar.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741446"
+    },
+    {
+      "english": "Don’t forget, call me when free.",
+      "romanian": "Nu uita, sună-mă când poți.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741449"
+    },
+    {
+      "english": "Can you resend that, please?",
+      "romanian": "Poți să trimiți din nou, te rog?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741450"
+    },
+    {
+      "english": "This line is bad, try again,",
+      "romanian": "Linia e proastă, încearcă din nou,",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741452"
+    },
+    {
+      "english": "I’m running late, I’ll message you.",
+      "romanian": "Întârzii, îți scriu un mesaj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741454"
+    },
+    {
+      "english": "Thanks for the update, really helpful.",
+      "romanian": "Mulțumesc pentru update, chiar e util.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741457"
+    },
+    {
+      "english": "Where are we meeting, exactly?",
+      "romanian": "Unde ne întâlnim, exact?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741459"
+    },
+    {
+      "english": "Yes, I saw it, I’ll reply.",
+      "romanian": "Da, am văzut, revin cu răspuns.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741462"
+    },
+    {
+      "english": "Call failed, try calling me later.",
+      "romanian": "Apelul a eșuat, încearcă mai târziu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741463"
+    },
+    {
+      "english": "Could you tell me, what time exactly?",
+      "romanian": "Poți să-mi spui, la ce oră exact?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741465"
+    },
+    {
+      "english": "Where should I send this message, please?",
+      "romanian": "Unde ar trebui să trimit mesajul, te rog?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741469"
+    },
+    {
+      "english": "Can you confirm, you received it?",
+      "romanian": "Poți să confirmi, că ai primit-o?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741471"
+    },
+    {
+      "english": "Do you know, who’s in charge here?",
+      "romanian": "Știi cine se ocupă aici?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741474"
+    },
+    {
+      "english": "I have a quick question, when’s free?",
+      "romanian": "Am o întrebare scurtă, când ești liber(ă)?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741477"
+    },
+    {
+      "english": "Can you ask them, and let me know?",
+      "romanian": "Îi poți întreba, și spune-mi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741479"
+    },
+    {
+      "english": "Do you have that number, by any chance?",
+      "romanian": "Ai numărul ăla, din întâmplare?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741481"
+    },
+    {
+      "english": "How soon can you get back to me?",
+      "romanian": "Cât de repede poți să-mi răspunzi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741483"
+    },
+    {
+      "english": "Is it okay, if I call later today?",
+      "romanian": "E în regulă, dacă sun mai târziu azi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741485"
+    },
+    {
+      "english": "Do you prefer calls or messages?",
+      "romanian": "Preferi apeluri sau mesaje?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741486"
+    },
+    {
+      "english": "Can I get your update, please?",
+      "romanian": "Îmi poți da un update, te rog?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741488"
+    },
+    {
+      "english": "Are you free this evening, for a call?",
+      "romanian": "Ești liber(ă) seara asta, pentru un apel?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741490"
+    },
+    {
+      "english": "What time works best, for you?",
+      "romanian": "Ce oră ți se potrivește cel mai bine?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741494"
+    },
+    {
+      "english": "Should I wait, or just go ahead?",
+      "romanian": "Să aștept, sau merg înainte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741495"
+    },
+    {
+      "english": "Can you repeat that, I missed one part?",
+      "romanian": "Poți să repeți, am pierdut o parte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741497"
+    },
+    {
+      "english": "Do you have the link, by chance?",
+      "romanian": "Ai linkul, din întâmplare?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741499"
+    },
+    {
+      "english": "Do we have the address, correct?",
+      "romanian": "Avem adresa, corect?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741501"
+    },
+    {
+      "english": "Can we reschedule, if needed?",
+      "romanian": "Putem reprograma, dacă e nevoie?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741503"
+    },
+    {
+      "english": "What did you mean, exactly?",
+      "romanian": "Ce ai vrut să spui, exact?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741505"
+    },
+    {
+      "english": "Are you at home, or on the go?",
+      "romanian": "Ești acasă, sau ești pe drum?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741507"
+    },
+    {
+      "english": "Can you send a photo, so I see?",
+      "romanian": "Poți să trimiți o poză, să văd?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741508"
+    },
+    {
+      "english": "What’s your plan, after this call?",
+      "romanian": "Care e planul tău, după apel?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741510"
+    },
+    {
+      "english": "Do you want me to call you back?",
+      "romanian": "Vrei să-ți sun eu înapoi?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741512"
+    },
+    {
+      "english": "Can you hold on, I’m checking now?",
+      "romanian": "Poți să aștepți puțin, verific acum?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741514"
+    },
+    {
+      "english": "Thanks, what’s the final decision here?",
+      "romanian": "Mulțumesc, care e decizia finală aici?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741517"
+    },
+    {
+      "english": "You’ve got this, keep going, no stress.",
+      "romanian": "Ai, asta poți, mergi mai departe, fără stres.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741519"
+    },
+    {
+      "english": "I’m proud of you, really, keep that mindset.",
+      "romanian": "Sunt mândru de tine, chiar, păstrează gândirea asta.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741522"
+    },
+    {
+      "english": "Deep breath, you’re doing fine, I believe you.",
+      "romanian": "Respiră adânc, te descurci, am încredere în tine.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741524"
+    },
+    {
+      "english": "Text me when you feel ready, okay?",
+      "romanian": "Scrie-mi când te simți pregătit, bine?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741526"
+    },
+    {
+      "english": "Small steps today, big results tomorrow, trust me.",
+      "romanian": "Pași mici azi, rezultate mari mâine, ai încredere.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741528"
+    },
+    {
+      "english": "Keep your head up, we’ll figure it out.",
+      "romanian": "Capul sus, o să găsim noi o soluție.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741531"
+    },
+    {
+      "english": "Send it, you’re closer than you think.",
+      "romanian": "Trimite-l, ești mai aproape decât crezi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741533"
+    },
+    {
+      "english": "Good news is coming, stay patient, stay steady.",
+      "romanian": "Vești bune vin, stai răbdător, stai ferm.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741537"
+    },
+    {
+      "english": "I’ve got you, focus on one thing at a time.",
+      "romanian": "Te am, concentrează-te pe un singur lucru odată.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741539"
+    },
+    {
+      "english": "Call me if it helps, you’re not alone.",
+      "romanian": "Sună-mă dacă te ajută, nu ești singur.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741542"
+    },
+    {
+      "english": "That’s a great idea, go for it, no doubt.",
+      "romanian": "E o idee foarte bună, du-te până la capăt, fără îndoială.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741544"
+    },
+    {
+      "english": "You’re learning fast, keep asking and moving.",
+      "romanian": "Învăți repede, continuă să întrebi și să mergi înainte.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741547"
+    },
+    {
+      "english": "I’ll support you, one message at a time.",
+      "romanian": "Te susțin, pas cu pas, mesaj cu mesaj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741549"
+    },
+    {
+      "english": "No pressure, but I’m cheering for you.",
+      "romanian": "Fără presiune, dar îți țin pumnii.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741552"
+    },
+    {
+      "english": "Let’s keep it simple, you’ve got options.",
+      "romanian": "Hai să fie simplu, ai opțiuni.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741554"
+    },
+    {
+      "english": "Positive vibes only, reach out when you can.",
+      "romanian": "Doar vibrații pozitive, dă-mi un semn când poți.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741556"
+    },
+    {
+      "english": "Trust yourself, answer with confidence, always.",
+      "romanian": "Ai încredere în tine, răspunde cu curaj, mereu.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741558"
+    },
+    {
+      "english": "Quick reminder, you’re stronger than this.",
+      "romanian": "Îți reamintesc, ești mai puternic decât asta.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741560"
+    },
+    {
+      "english": "I saw your effort, that matters, a lot.",
+      "romanian": "Am văzut efortul tău, contează mult.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741562"
+    },
+    {
+      "english": "Stay focused, and we’ll make it work.",
+      "romanian": "Stai concentrat, și o să iasă cum trebuie.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741564"
+    },
+    {
+      "english": "You can do it, send me a sign.",
+      "romanian": "Poți să reușești, trimite-mi un semn.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741566"
+    },
+    {
+      "english": "Great job today, don’t overthink it, okay?",
+      "romanian": "Bravoo azi, nu exagera cu gândurile, bine?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741569"
+    },
+    {
+      "english": "Keep believing, even small wins count.",
+      "romanian": "Continuă să crezi, chiar și victoriile mici contează.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741571"
+    },
+    {
+      "english": "If you get stuck, just message me.",
+      "romanian": "Dacă te blochezi, doar dă-mi mesaj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741572"
+    },
+    {
+      "english": "You’re on the right track, stay consistent.",
+      "romanian": "Ești pe drumul bun, rămâi consecvent.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741574"
+    },
+    {
+      "english": "Let’s celebrate progress, not perfection.",
+      "romanian": "Să sărbătorim progresul, nu perfecțiunea.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741576"
+    },
+    {
+      "english": "Call whenever, I’ll answer when I’m free.",
+      "romanian": "Suna oricând, răspund când am liber.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741578"
+    },
+    {
+      "english": "You’ve got support, keep moving, one step.",
+      "romanian": "Ai sprijin, mergi mai departe, un pas.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741580"
+    },
+    {
+      "english": "I’m a bit nervous, but I mean it.",
+      "romanian": "Sunt puțin emoționat, dar o spun din suflet.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741584"
+    },
+    {
+      "english": "I just wanted to check in, honestly.",
+      "romanian": "Am vrut doar să te întreb de sănătate, sincer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741587"
+    },
+    {
+      "english": "Take your time, I can wait patiently.",
+      "romanian": "Ia-ți timpul, pot aștepta cu răbdare.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741588"
+    },
+    {
+      "english": "I don’t want to rush you, please.",
+      "romanian": "Nu vreau să te grăbesc, te rog.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741591"
+    },
+    {
+      "english": "I’m thinking about you, more than you know.",
+      "romanian": "Mă gândesc la tine, mai mult decât știi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741593"
+    },
+    {
+      "english": "I appreciate your patience, it means a lot.",
+      "romanian": "Îți mulțumesc pentru răbdare, chiar contează.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741595"
+    },
+    {
+      "english": "I’m not upset, I just need clarity.",
+      "romanian": "Nu sunt supărat, am doar nevoie de claritate.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741597"
+    },
+    {
+      "english": "I wanted to be honest, that’s all.",
+      "romanian": "Am vrut să fiu sincer, doar atât.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741599"
+    },
+    {
+      "english": "If it’s too much, tell me straight.",
+      "romanian": "Dacă e prea mult, spune-mi direct.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741602"
+    },
+    {
+      "english": "I hear you, and I respect your pace.",
+      "romanian": "Te înțeleg, și îți respect ritmul.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741604"
+    },
+    {
+      "english": "I’m trying, even if I’m slow today.",
+      "romanian": "Încerc și azi, chiar dacă sunt mai lent.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741606"
+    },
+    {
+      "english": "I’ll keep it simple, just one question.",
+      "romanian": "O țin simplu, doar o întrebare.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741610"
+    },
+    {
+      "english": "I feel better after talking to you.",
+      "romanian": "Mă simt mai bine după ce vorbim.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741611"
+    },
+    {
+      "english": "Please don’t overthink it, we’ll figure.",
+      "romanian": "Te rog, nu te gândi prea mult, rezolvăm.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741615"
+    },
+    {
+      "english": "I’m here, and I won’t disappear.",
+      "romanian": "Sunt aici, și nu te las în urmă.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741617"
+    },
+    {
+      "english": "I don’t have all answers, but I’m listening.",
+      "romanian": "Nu am toate răspunsurile, dar te ascult.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741619"
+    },
+    {
+      "english": "Let’s talk when it feels easier.",
+      "romanian": "Hai să vorbim când e mai ușor.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741621"
+    },
+    {
+      "english": "I’m proud of you, for real this time.",
+      "romanian": "Sunt mândru de tine, pe bune de data asta.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741623"
+    },
+    {
+      "english": "I’m sorry, I should’ve explained sooner.",
+      "romanian": "Îmi pare rău, trebuia să explic mai devreme.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741625"
+    },
+    {
+      "english": "I’m holding back, because I care.",
+      "romanian": "Țin în mine, pentru că îmi pasă.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741627"
+    },
+    {
+      "english": "I need a moment, my thoughts are loud.",
+      "romanian": "Am nevoie de un moment, gândurile mă apasă.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741628"
+    },
+    {
+      "english": "We can try again, gently, one step.",
+      "romanian": "Putem încerca din nou, ușor, pas cu pas.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741630"
+    },
+    {
+      "english": "I’ll be patient, I don’t want problems.",
+      "romanian": "Am să am răbdare, nu vreau complicații.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741632"
+    },
+    {
+      "english": "Thanks for telling me the truth, really.",
+      "romanian": "Mulțumesc că mi-ai spus adevărul, chiar.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741634"
+    },
+    {
+      "english": "I’m not angry, I just need respect.",
+      "romanian": "Nu sunt supărat, am nevoie de respect.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741636"
+    },
+    {
+      "english": "I want to hear your side, please.",
+      "romanian": "Vreau să aud partea ta, te rog.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741637"
+    },
+    {
+      "english": "I’ll respond soon, I’m dealing with stuff.",
+      "romanian": "Revin repede, am ceva de rezolvat.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741639"
+    },
+    {
+      "english": "I’m trying to stay calm, for both of us.",
+      "romanian": "Încerc să rămân calm, pentru noi amândoi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741641"
+    },
+    {
+      "english": "Let’s be kind, even when we disagree.",
+      "romanian": "Hai să fim blânzi, chiar și când nu suntem de acord.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741643"
+    },
+    {
+      "english": "Can you call me, later today, please?",
+      "romanian": "Poți să mă suni, mai târziu, te rog?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741645"
+    },
+    {
+      "english": "I missed your call, I’m free now.",
+      "romanian": "Am ratat apelul tău, acum sunt liber(ă).",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741647"
+    },
+    {
+      "english": "Send me the address, when you can.",
+      "romanian": "Trimite-mi adresa, când poți.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741649"
+    },
+    {
+      "english": "Don’t worry, I’ll reply after work.",
+      "romanian": "Nu-ți face griji, răspund după muncă.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741651"
+    },
+    {
+      "english": "I’ll be late, I’m stuck in traffic.",
+      "romanian": "Întârzii, sunt blocat(ă) în trafic.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741653"
+    },
+    {
+      "english": "Can we reschedule, tomorrow morning instead?",
+      "romanian": "Putem reprograma, mâine dimineață?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741654"
+    },
+    {
+      "english": "I’ll bring it, but text me first.",
+      "romanian": "O aduc eu, dar trimite-mi un mesaj.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741656"
+    },
+    {
+      "english": "Please confirm, are we meeting at seven?",
+      "romanian": "Te rog confirmă, ne vedem la șapte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-09T07:45:04.741658"
     }
   ],
-  "last_updated": "2026-11-08T07:01:11.209493"
+  "last_updated": "2026-11-09T07:45:04.741660"
 }
