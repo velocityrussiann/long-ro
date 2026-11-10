@@ -17297,7 +17297,727 @@
       "romanian": "Te rog confirmă, ne vedem la șapte?",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-11-09T07:45:04.741658"
+    },
+    {
+      "english": "Hope, we’re on time, right?",
+      "romanian": "Sper, suntem la timp, nu-i așa?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844052"
+    },
+    {
+      "english": "I hope so, keep going.",
+      "romanian": "Sper să fie așa, mergi mai departe.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844067"
+    },
+    {
+      "english": "Hope you made it, safely.",
+      "romanian": "Sper că ai ajuns, în siguranță.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844070"
+    },
+    {
+      "english": "Hope this works out, somehow.",
+      "romanian": "Sper că iese, cumva.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844073"
+    },
+    {
+      "english": "I hope you’re free later.",
+      "romanian": "Sper că ești liber mai târziu.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844076"
+    },
+    {
+      "english": "Hope the weather holds up.",
+      "romanian": "Sper să țină vremea.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844078"
+    },
+    {
+      "english": "Hope you feel better soon.",
+      "romanian": "Sper să-ți treacă, cât mai repede.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844080"
+    },
+    {
+      "english": "Hope it’s not too late.",
+      "romanian": "Sper să nu fie prea târziu.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844085"
+    },
+    {
+      "english": "Hope we can fix this.",
+      "romanian": "Sper că putem repara asta.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844088"
+    },
+    {
+      "english": "Hope you’ll understand me.",
+      "romanian": "Sper că mă înțelegi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844090"
+    },
+    {
+      "english": "Hope you have a plan.",
+      "romanian": "Sper să ai un plan.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844094"
+    },
+    {
+      "english": "Hope it doesn’t get worse.",
+      "romanian": "Sper să nu se înrăutățească.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844097"
+    },
+    {
+      "english": "Hope this is the right place.",
+      "romanian": "Sper să fie locul potrivit.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844099"
+    },
+    {
+      "english": "Hope you enjoy your trip.",
+      "romanian": "Sper să te bucuri de drum.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844101"
+    },
+    {
+      "english": "Hope we meet again soon.",
+      "romanian": "Sper să ne revedem curând.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844103"
+    },
+    {
+      "english": "Hope we’ll talk after this.",
+      "romanian": "Sper să vorbim după asta.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844105"
+    },
+    {
+      "english": "Hope it’s simple, just so.",
+      "romanian": "Sper să fie simplu, așa.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844108"
+    },
+    {
+      "english": "Hope there’s time for one more.",
+      "romanian": "Sper să mai fie timp, puțin.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844110"
+    },
+    {
+      "english": "Hope your day starts right.",
+      "romanian": "Sper să înceapă bine ziua ta.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844112"
+    },
+    {
+      "english": "Hope you don’t mind, please.",
+      "romanian": "Sper că nu te supără, te rog.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844115"
+    },
+    {
+      "english": "Hope you’re coming with us.",
+      "romanian": "Sper că vii cu noi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844117"
+    },
+    {
+      "english": "Hope this helps a little.",
+      "romanian": "Sper să te ajute puțin.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844119"
+    },
+    {
+      "english": "Hope we get good news soon.",
+      "romanian": "Sper să primim vești bune curând.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844123"
+    },
+    {
+      "english": "Hope you find what you need.",
+      "romanian": "Sper să găsești ce îți trebuie.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844126"
+    },
+    {
+      "english": "Hope tonight’s calm, at least.",
+      "romanian": "Sper să fie calm măcar azi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844128"
+    },
+    {
+      "english": "Hope your coffee’s strong today.",
+      "romanian": "Sper să fie cafeaua bună azi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844130"
+    },
+    {
+      "english": "Hope we can handle it together.",
+      "romanian": "Sper să descurcăm împreună.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844132"
+    },
+    {
+      "english": "Hope this turns out better.",
+      "romanian": "Sper să iasă mai bine.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844134"
+    },
+    {
+      "english": "Hope your flight goes smoothly.",
+      "romanian": "Sper să-ți meargă zborul lin.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844136"
+    },
+    {
+      "english": "Hope it works, just like that.",
+      "romanian": "Sper să meargă, exact așa.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844140"
+    },
+    {
+      "english": "Can I ask something, real quick?",
+      "romanian": "Pot să-ți pun o întrebare, pe scurt?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844142"
+    },
+    {
+      "english": "What do you suggest, for today?",
+      "romanian": "Ce recomanzi, pentru azi?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844145"
+    },
+    {
+      "english": "Is it okay if I try again?",
+      "romanian": "E în regulă dacă încerc din nou?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844147"
+    },
+    {
+      "english": "How should I say this, politely?",
+      "romanian": "Cum să spun asta, mai politicos?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844149"
+    },
+    {
+      "english": "Do you have any advice, please?",
+      "romanian": "Ai vreun sfat, te rog?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844151"
+    },
+    {
+      "english": "Where can we check the schedule?",
+      "romanian": "Unde verificăm programul?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844153"
+    },
+    {
+      "english": "Do you think this will work out?",
+      "romanian": "Crezi că va ieși bine?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844157"
+    },
+    {
+      "english": "Can we talk about options, together?",
+      "romanian": "Putem discuta opțiuni, împreună?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844160"
+    },
+    {
+      "english": "How much time do we have, exactly?",
+      "romanian": "Cât timp avem, exact?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844162"
+    },
+    {
+      "english": "Is there a simpler way, maybe?",
+      "romanian": "E vreo variantă mai simplă?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844164"
+    },
+    {
+      "english": "Should I call first, or wait?",
+      "romanian": "Să sun întâi, sau să aștept?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844166"
+    },
+    {
+      "english": "What’s your plan, step by step?",
+      "romanian": "Care e planul tău, pas cu pas?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844168"
+    },
+    {
+      "english": "Do you mind if we change it?",
+      "romanian": "Nu te deranjează dacă schimbăm?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844170"
+    },
+    {
+      "english": "Can you repeat that, slower please?",
+      "romanian": "Poți să repeți, mai încet, te rog?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844172"
+    },
+    {
+      "english": "What should I prepare, beforehand?",
+      "romanian": "Ce ar trebui să pregătesc, înainte?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844174"
+    },
+    {
+      "english": "Is it better to go now, or later?",
+      "romanian": "E mai bine să mergem acum, sau mai târziu?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844176"
+    },
+    {
+      "english": "What would you do in my place?",
+      "romanian": "Tu ce ai face, în locul meu?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844178"
+    },
+    {
+      "english": "Do you know who to contact?",
+      "romanian": "Știi pe cine să contactăm?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844180"
+    },
+    {
+      "english": "How do you feel about this idea?",
+      "romanian": "Ce părere ai despre ideea asta?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844182"
+    },
+    {
+      "english": "Can we confirm, just to be safe?",
+      "romanian": "Putem confirma, doar ca să fim siguri?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844185"
+    },
+    {
+      "english": "What’s the catch, if there is one?",
+      "romanian": "Care e partea dificilă, dacă există?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844187"
+    },
+    {
+      "english": "Should we bring something, for him?",
+      "romanian": "Să aducem ceva, pentru el?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844189"
+    },
+    {
+      "english": "Is there anything I should avoid?",
+      "romanian": "Există ceva ce ar trebui să evit?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844193"
+    },
+    {
+      "english": "So, we try tomorrow, right?",
+      "romanian": "Deci încercăm mâine, nu?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844195"
+    },
+    {
+      "english": "Breathe, take it slow, one step.",
+      "romanian": "Respiră, ia-o încet, un pas.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844199"
+    },
+    {
+      "english": "Good things start when you don’t quit.",
+      "romanian": "Lucrurile bune încep când nu renunți.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844202"
+    },
+    {
+      "english": "You’re closer than you think, promise.",
+      "romanian": "Ești mai aproape decât crezi, jur.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844205"
+    },
+    {
+      "english": "Try again, today can be better.",
+      "romanian": "Încearcă din nou, azi poate fi mai bine.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844207"
+    },
+    {
+      "english": "It’s okay to start over, really.",
+      "romanian": "E în regulă să o iei de la capăt.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844209"
+    },
+    {
+      "english": "Stay positive, hope finds a way.",
+      "romanian": "Păstrează optimismul, speranța găsește o cale.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844212"
+    },
+    {
+      "english": "Count your wins, even the small ones.",
+      "romanian": "Numără victoriile, și cele mici.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844214"
+    },
+    {
+      "english": "Speak kindly to yourself, you matter.",
+      "romanian": "Vorbește frumos cu tine, contezi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844216"
+    },
+    {
+      "english": "Don’t fear setbacks, they teach you.",
+      "romanian": "Nu te teme de eșecuri, te învață.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844219"
+    },
+    {
+      "english": "I’m proud of you, keep shining.",
+      "romanian": "Sunt mândru de tine, continuă să strălucești.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844221"
+    },
+    {
+      "english": "Hold on, this moment will pass.",
+      "romanian": "Ține-te tare, trece și momentul ăsta.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844223"
+    },
+    {
+      "english": "Your effort counts, don’t doubt it.",
+      "romanian": "Efortul tău contează, nu te îndoi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844226"
+    },
+    {
+      "english": "Let hope guide you, not fear.",
+      "romanian": "Lasă speranța să te ghideze, nu teama.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844228"
+    },
+    {
+      "english": "You’ve made progress, don’t forget that.",
+      "romanian": "Ai făcut progrese, nu uita asta.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844230"
+    },
+    {
+      "english": "Give yourself credit, you’re doing it.",
+      "romanian": "Acordă-ți merit, chiar reușești.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844234"
+    },
+    {
+      "english": "Even on tough days, keep hope.",
+      "romanian": "Și în zile grele, păstrează speranța.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844236"
+    },
+    {
+      "english": "Small steps, big hope, keep going.",
+      "romanian": "Pași mici, speranță mare, mai departe.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844239"
+    },
+    {
+      "english": "You’re allowed to rest, no guilt.",
+      "romanian": "Ai voie să te odihnești, fără vină.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844241"
+    },
+    {
+      "english": "Trust your pace, you’re moving.",
+      "romanian": "Ai încredere în ritmul tău, mergi înainte.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844244"
+    },
+    {
+      "english": "When it’s dark, choose one good thought.",
+      "romanian": "Când e întuneric, alege un gând bun.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844246"
+    },
+    {
+      "english": "Keep your head up, something’s coming.",
+      "romanian": "Ține-ți capul sus, urmează ceva.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844249"
+    },
+    {
+      "english": "You’ve survived hard days, you’ll be fine.",
+      "romanian": "Ai trecut prin zile grele, o să fie bine.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844251"
+    },
+    {
+      "english": "Let’s turn worries into action, now.",
+      "romanian": "Transformăm griji în acțiune, acum.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844254"
+    },
+    {
+      "english": "Say it out loud, I can do this.",
+      "romanian": "Spune cu voce tare, pot să reușesc.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844256"
+    },
+    {
+      "english": "You’re not stuck, just in progress.",
+      "romanian": "Nu ești blocat, ești în lucru.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844258"
+    },
+    {
+      "english": "Remember, one day at a time.",
+      "romanian": "Ține minte, câte un pas pe zi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844260"
+    },
+    {
+      "english": "Today you decide, hope or doubt.",
+      "romanian": "Azi tu alegi, speranță sau îndoială.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844262"
+    },
+    {
+      "english": "Be brave, you don’t need perfect.",
+      "romanian": "Fii curajos, nu-ți trebuie perfecțiune.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844265"
+    },
+    {
+      "english": "I’ve got your back, keep believing.",
+      "romanian": "Sunt alături de tine, continuă să crezi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844267"
+    },
+    {
+      "english": "I feel hopeful, even when I’m tired, today.",
+      "romanian": "Mă simt cu speranță, chiar și când sunt obosit, azi.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844270"
+    },
+    {
+      "english": "Some days, I just need patience, not answers.",
+      "romanian": "Sunt zile când am nevoie de răbdare, nu de răspunsuri.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844272"
+    },
+    {
+      "english": "I’m learning to be honest, and still hopeful.",
+      "romanian": "Învăț să fiu sincer, și totuși cu speranță.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844275"
+    },
+    {
+      "english": "I let my worries talk, then I choose hope.",
+      "romanian": "Las griji să vorbească, apoi aleg speranța.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844279"
+    },
+    {
+      "english": "I don’t rush, I listen to my heart.",
+      "romanian": "Nu grăbesc, ascult ce-mi spune inima.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844282"
+    },
+    {
+      "english": "Even silence can feel like hope, sometimes.",
+      "romanian": "Chiar și tăcerea poate să pară speranță, uneori.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844284"
+    },
+    {
+      "english": "I’m okay with slow progress, it’s real.",
+      "romanian": "E în regulă progresul lent, e real.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844286"
+    },
+    {
+      "english": "I trust the process, not the mood.",
+      "romanian": "Am încredere în proces, nu în dispoziție.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844288"
+    },
+    {
+      "english": "I keep hope, because I refuse to quit.",
+      "romanian": "Păstrez speranța, pentru că refuz să renunț.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844291"
+    },
+    {
+      "english": "When I’m doubtful, I return to kindness.",
+      "romanian": "Când mă îndoiesc, mă întorc la bunătate.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844295"
+    },
+    {
+      "english": "I admit fear, but I don’t live there.",
+      "romanian": "Recunosc frica, dar nu trăiesc acolo.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844297"
+    },
+    {
+      "english": "I can’t control everything, still I hope.",
+      "romanian": "Nu pot controla totul, totuși sper.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844300"
+    },
+    {
+      "english": "I’m allowed to feel hurt, and heal.",
+      "romanian": "Am voie să simt durere, și să mă vindec.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844302"
+    },
+    {
+      "english": "Hope isn’t magic, it’s practice, daily.",
+      "romanian": "Speranța nu e magie, e exercițiu, zilnic.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844305"
+    },
+    {
+      "english": "I hold on gently, no need to panic.",
+      "romanian": "Strâng speranța ușor, fără panică.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844307"
+    },
+    {
+      "english": "I choose one small step, then breathe.",
+      "romanian": "Aleg un pas mic, apoi respir.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844309"
+    },
+    {
+      "english": "I’m grateful, even for lessons, not just wins.",
+      "romanian": "Sunt recunoscător, și pentru lecții, nu doar victorii.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844312"
+    },
+    {
+      "english": "I don’t need certainty, I need effort.",
+      "romanian": "Nu am nevoie de certitudine, am nevoie de efort.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844314"
+    },
+    {
+      "english": "My thoughts get loud, but hope is steady.",
+      "romanian": "Gândurile devin zgomotoase, dar speranța rămâne calmă.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844324"
+    },
+    {
+      "english": "I reflect quietly, and I keep moving.",
+      "romanian": "Reflectez în liniște, și continui.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844327"
+    },
+    {
+      "english": "I let disappointment pass, without making a home.",
+      "romanian": "Las dezamăgirea să treacă, fără s-o fac acasă.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844329"
+    },
+    {
+      "english": "I’m learning to forgive delays, gently.",
+      "romanian": "Învăț să iert întârzierile, ușor.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844332"
+    },
+    {
+      "english": "I believe tomorrow can be kind, too.",
+      "romanian": "Cred că mâine poate fi blând, și el.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844334"
+    },
+    {
+      "english": "When I’m overwhelmed, I slow down inside.",
+      "romanian": "Când mă copleșesc, încetinesc în mine.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844336"
+    },
+    {
+      "english": "I don’t chase perfection, I chase progress, quietly.",
+      "romanian": "Nu vânez perfecțiunea, vânez progresul, pe tăcute.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844340"
+    },
+    {
+      "english": "I respect my feelings, and still choose hope.",
+      "romanian": "Îmi respect sentimentele, și tot aleg speranță.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844343"
+    },
+    {
+      "english": "I’m facing the truth, then finding strength.",
+      "romanian": "Întâmpin adevărul, apoi găsesc putere.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844345"
+    },
+    {
+      "english": "I stay hopeful, because my story isn’t over.",
+      "romanian": "Rămân cu speranță, povestea mea nu s-a terminat.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844348"
+    },
+    {
+      "english": "I can’t see it yet, but I sense hope.",
+      "romanian": "Nu o văd încă, dar simt speranță.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844352"
+    },
+    {
+      "english": "I keep my promises, even small ones, to myself.",
+      "romanian": "Îmi țin promisiunile, chiar și cele mici, mie.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844356"
+    },
+    {
+      "english": "Before work, breathe twice, choose hope.",
+      "romanian": "Înainte de muncă, respiră de două ori, alege speranța.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844358"
+    },
+    {
+      "english": "When plans break, ask, what now helps?",
+      "romanian": "Când planurile se strică, întreabă, ce mai ajută?",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844361"
+    },
+    {
+      "english": "Send the message, even if you’re nervous.",
+      "romanian": "Trimite mesajul, chiar dacă ești puțin nervos(ă).",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844363"
+    },
+    {
+      "english": "At a party, keep it light, smile first.",
+      "romanian": "La o petrecere, ține conversația ușoară, zâmbește primul.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844366"
+    },
+    {
+      "english": "On tough days, tidy one small corner.",
+      "romanian": "În zile grele, aranjează un colț mic, măcar.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844368"
+    },
+    {
+      "english": "If you mess up, own it, then try again.",
+      "romanian": "Dacă ai stricat ceva, recunoaște, apoi încerci iar.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844375"
+    },
+    {
+      "english": "Coffee in hand, start with one good task.",
+      "romanian": "Cu cafeaua în mână, începe cu o treabă bună.",
+      "category": "Hope",
+      "generated_at": "2026-11-10T08:23:35.844377"
     }
   ],
-  "last_updated": "2026-11-09T07:45:04.741660"
+  "last_updated": "2026-11-10T08:23:35.844379"
 }
