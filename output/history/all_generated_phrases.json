@@ -18017,7 +18017,727 @@
       "romanian": "Cu cafeaua în mână, începe cu o treabă bună.",
       "category": "Hope",
       "generated_at": "2026-11-10T08:23:35.844377"
+    },
+    {
+      "english": "I can handle it, just give me a minute.",
+      "romanian": "O fac eu, doar dă-mi un minut.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205148"
+    },
+    {
+      "english": "Wait, I’ll do it, no worries.",
+      "romanian": "Stai, o fac eu, fără griji.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205164"
+    },
+    {
+      "english": "Come on, you’ve got this, try again.",
+      "romanian": "Hai, poți, încearcă din nou.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205167"
+    },
+    {
+      "english": "Hold on, I’m coming, just a sec.",
+      "romanian": "Stai puțin, vin acum, doar o clipă.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205169"
+    },
+    {
+      "english": "Okay, let’s go, I’m ready.",
+      "romanian": "Bine, hai la drum, sunt gata.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205171"
+    },
+    {
+      "english": "Slow down, breathe, you’re doing fine.",
+      "romanian": "Încetinește, respiră, mergi bine.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205173"
+    },
+    {
+      "english": "That’s strong, you really mean it.",
+      "romanian": "E tare, chiar o spui din suflet.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205175"
+    },
+    {
+      "english": "No pressure, take your time, please.",
+      "romanian": "Fără presiune, ia-ți timp, te rog.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205180"
+    },
+    {
+      "english": "I’m good, I can manage from here.",
+      "romanian": "Sunt ok, mă descurc eu de aici.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205183"
+    },
+    {
+      "english": "Easy now, we’ve got this together.",
+      "romanian": "Liniște, avem treabă, o facem împreună.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205185"
+    },
+    {
+      "english": "Good call, that was a smart move.",
+      "romanian": "Bună alegere, ai făcut ce trebuie.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205187"
+    },
+    {
+      "english": "I can’t, sorry, my hands are full.",
+      "romanian": "Nu pot, scuze, am mâinile pline.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205189"
+    },
+    {
+      "english": "Yes, I’ve got it, give it here.",
+      "romanian": "Da, e gata, dă-mi-l mie.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205191"
+    },
+    {
+      "english": "Not yet, but I’m getting there.",
+      "romanian": "Nu încă, dar mă apropii.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205193"
+    },
+    {
+      "english": "Respect, you handled that really well.",
+      "romanian": "Respect, te-ai descurcat super.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205195"
+    },
+    {
+      "english": "Keep going, don’t stop, you’re close.",
+      "romanian": "Continuă, nu te opri, e aproape.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205197"
+    },
+    {
+      "english": "I’m pushing through, one step at a time.",
+      "romanian": "Merg înainte, pas cu pas.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205199"
+    },
+    {
+      "english": "Try harder, you’ll get used to it.",
+      "romanian": "Mai mult, o să te obișnuiești.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205202"
+    },
+    {
+      "english": "That hurts, but I’ll manage somehow.",
+      "romanian": "Mă doare, dar găsesc eu o soluție.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205204"
+    },
+    {
+      "english": "I’m here, say it, I’m listening.",
+      "romanian": "Sunt aici, spune-mi, te ascult.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205206"
+    },
+    {
+      "english": "Okay, fix it, I’ll wait here.",
+      "romanian": "Bine, rezolvă, stau aici.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205208"
+    },
+    {
+      "english": "Calm down, it’s not the end.",
+      "romanian": "Calmează-te, nu e sfârșitul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205210"
+    },
+    {
+      "english": "I’m out of energy, can we pause?",
+      "romanian": "Sunt fără energie, putem pauză?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205212"
+    },
+    {
+      "english": "Respect, you’re stronger than you think.",
+      "romanian": "Bravo, ești mai puternic decât crezi.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205214"
+    },
+    {
+      "english": "Let’s do it, today’s the day.",
+      "romanian": "Hai să facem, azi e ziua.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205216"
+    },
+    {
+      "english": "No worries, I’ll carry the rest.",
+      "romanian": "Fără griji, duc eu restul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205217"
+    },
+    {
+      "english": "Quick, show me, I want the details.",
+      "romanian": "Repede, arată-mi, vreau detaliile.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205219"
+    },
+    {
+      "english": "I believe you, go on, prove it.",
+      "romanian": "Te cred, hai, arată.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205223"
+    },
+    {
+      "english": "That’s it, lock it in, we’re set.",
+      "romanian": "Exact, fixează, suntem gata.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205225"
+    },
+    {
+      "english": "Okay, I’m brave, let’s try now.",
+      "romanian": "Bine, sunt curajos, hai s-o facem.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205227"
+    },
+    {
+      "english": "How’s your day, need a hand?",
+      "romanian": "Cum ți-a mers ziua, ai nevoie de ajutor?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205229"
+    },
+    {
+      "english": "What’s the strongest move here, in your opinion?",
+      "romanian": "Care e cea mai puternică mișcare aici, după părerea ta?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205231"
+    },
+    {
+      "english": "Can you explain, how do you stay strong?",
+      "romanian": "Poți să-mi explici, cum rămâi puternic?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205233"
+    },
+    {
+      "english": "Do you want advice, or just support?",
+      "romanian": "Vrei sfat, sau doar sprijin?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205235"
+    },
+    {
+      "english": "Where do you get your motivation, really?",
+      "romanian": "De unde îți iei motivația, chiar?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205237"
+    },
+    {
+      "english": "Can I ask something, is it tough?",
+      "romanian": "Pot să te întreb, e greu?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205239"
+    },
+    {
+      "english": "What should I focus on, this week?",
+      "romanian": "La ce să mă concentrez săptămâna asta?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205241"
+    },
+    {
+      "english": "Tell me your plan, what’s next?",
+      "romanian": "Spune-mi planul tău, ce urmează?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205242"
+    },
+    {
+      "english": "Which exercise makes you feel the strongest?",
+      "romanian": "Care exercițiu te face să te simți cel mai puternic?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205244"
+    },
+    {
+      "english": "Are you okay, do you need rest?",
+      "romanian": "Ești bine, ai nevoie de pauză?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205246"
+    },
+    {
+      "english": "Should I slow down, or keep pushing?",
+      "romanian": "Să încetinesc, sau să continui să împing?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205247"
+    },
+    {
+      "english": "Do you think I can improve fast, honestly?",
+      "romanian": "Crezi că mă pot îmbunătăți repede, sincer?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205249"
+    },
+    {
+      "english": "Can we talk, I need a quick tip?",
+      "romanian": "Putem vorbi, am nevoie de un sfat rapid?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205251"
+    },
+    {
+      "english": "What’s your best trick for staying consistent?",
+      "romanian": "Care e trucul tău pentru a rămâne consecvent?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205253"
+    },
+    {
+      "english": "Do you want feedback, or keep it simple?",
+      "romanian": "Vrei feedback, sau păstrăm lucrurile simple?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205255"
+    },
+    {
+      "english": "How do you keep calm, when it’s intense?",
+      "romanian": "Cum îți păstrezi calmul, când e intens?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205257"
+    },
+    {
+      "english": "Can I borrow your routine, for a week?",
+      "romanian": "Pot să-ți împrumut rutina, o săptămână?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205259"
+    },
+    {
+      "english": "What’s the one thing you’d change first?",
+      "romanian": "Care e un lucru pe care l-ai schimba prima dată?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205261"
+    },
+    {
+      "english": "Is it smarter to train light, today?",
+      "romanian": "E mai bine să antrenez ușor, azi?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205263"
+    },
+    {
+      "english": "How long did it take you, to get strong?",
+      "romanian": "Cât timp ți-a luat, până ai devenit puternic?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205266"
+    },
+    {
+      "english": "Any advice for me, starting from zero?",
+      "romanian": "Ai vreo recomandare pentru mine, de la zero?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205267"
+    },
+    {
+      "english": "What do you do when your willpower dips?",
+      "romanian": "Ce faci când îți scade puterea de voință?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205269"
+    },
+    {
+      "english": "Should we switch plans, or stay the course?",
+      "romanian": "Schimbăm planul, sau rămânem pe drum?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205271"
+    },
+    {
+      "english": "Do you want a partner, I can help!",
+      "romanian": "Vrei un partener, te pot ajuta!",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205273"
+    },
+    {
+      "english": "How do you motivate yourself, without hype?",
+      "romanian": "Cum te motivezi singur, fără baliverne?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205274"
+    },
+    {
+      "english": "What’s your rule, when you feel tired?",
+      "romanian": "Care e regula ta, când te simți obosit?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205276"
+    },
+    {
+      "english": "Can you rate my form, from one to ten?",
+      "romanian": "Poți să-mi evaluezi forma, de la unu la zece?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205278"
+    },
+    {
+      "english": "Ready for questions, hit me with yours!",
+      "romanian": "Ești gata de întrebări, aruncă cu ale tale!",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205279"
+    },
+    {
+      "english": "You’ve got this, even if it’s messy.",
+      "romanian": "Poți s-o faci, chiar dacă e încă neordonat.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205281"
+    },
+    {
+      "english": "Keep breathing, your body’s learning right now.",
+      "romanian": "Respiră ușor, corpul tău învață acum.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205284"
+    },
+    {
+      "english": "Small steps count, don’t underestimate them.",
+      "romanian": "Pașii mici contează, nu-i subestima.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205286"
+    },
+    {
+      "english": "Tell yourself, not perfect, just consistent.",
+      "romanian": "Spune-ți, nu perfect, ci consecvent.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205289"
+    },
+    {
+      "english": "You’re showing up, that’s real strength.",
+      "romanian": "Faptul că apari contează, asta e forța.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205293"
+    },
+    {
+      "english": "Make it easier today, you’ll thank yourself.",
+      "romanian": "Fă-l mai ușor azi, o să-ți mulțumești.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205295"
+    },
+    {
+      "english": "Praise your effort, not only the result.",
+      "romanian": "Apreciază efortul, nu doar rezultatul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205297"
+    },
+    {
+      "english": "It’s okay to struggle, you’re building grit.",
+      "romanian": "E în regulă să te lupți, îți formezi curajul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205299"
+    },
+    {
+      "english": "Focus on progress, not on other people.",
+      "romanian": "Fii atent la progres, nu la ceilalți.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205301"
+    },
+    {
+      "english": "Trust the routine, it works quietly.",
+      "romanian": "Ai încredere în rutină, lucrează în liniște.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205303"
+    },
+    {
+      "english": "Turn doubt into fuel, then start.",
+      "romanian": "Transformă îndoiala în combustibil, apoi pornește.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205304"
+    },
+    {
+      "english": "You don’t need motivation, you need action.",
+      "romanian": "Nu-ți trebuie motivație, îți trebuie acțiune.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205308"
+    },
+    {
+      "english": "Good form first, speed later, always.",
+      "romanian": "Formă bună prima, viteză mai târziu, mereu.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205310"
+    },
+    {
+      "english": "Don’t quit early, finish what you started.",
+      "romanian": "Nu renunța de timpuriu, termină ce ai început.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205312"
+    },
+    {
+      "english": "Make today a win, even a tiny one.",
+      "romanian": "Fă azi o victorie, chiar și una mică.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205314"
+    },
+    {
+      "english": "Your mindset shifts, when you keep trying.",
+      "romanian": "Mintea ta se schimbă când continui.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205316"
+    },
+    {
+      "english": "You’re learning, so failures aren’t personal.",
+      "romanian": "Înveți, deci eșecurile nu sunt personale.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205318"
+    },
+    {
+      "english": "Be proud of effort, it compounds over time.",
+      "romanian": "Bucură-te de efort, se adună în timp.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205320"
+    },
+    {
+      "english": "Say yes to the next rep, that’s it.",
+      "romanian": "Spune da la următoarea repetare, gata.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205322"
+    },
+    {
+      "english": "When it feels heavy, go slower, stay steady.",
+      "romanian": "Când e greu, mergi mai încet, rămâi constant.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205324"
+    },
+    {
+      "english": "You can adjust, strong people adapt.",
+      "romanian": "Poți să ajustezi, oamenii puternici se adaptează.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205326"
+    },
+    {
+      "english": "I like your focus, it’s paying off.",
+      "romanian": "Îmi place focusul tău, se vede că merge.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205328"
+    },
+    {
+      "english": "Choose courage, you don’t have to rush.",
+      "romanian": "Alege curajul, nu trebuie să te grăbești.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205330"
+    },
+    {
+      "english": "Even on bad days, you’re still training.",
+      "romanian": "Și în zile proaste, tot te antrenezi.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205333"
+    },
+    {
+      "english": "Let discomfort teach you, don’t fear it.",
+      "romanian": "Lasă disconfortul să te învețe, nu-l teme.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205335"
+    },
+    {
+      "english": "You’re stronger than yesterday, notice that.",
+      "romanian": "Ești mai puternic decât ieri, observă asta.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205337"
+    },
+    {
+      "english": "Be kind to yourself, then get to work.",
+      "romanian": "Fii blând cu tine, apoi apucă-te de treabă.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205339"
+    },
+    {
+      "english": "Make your goal simple, then attack it.",
+      "romanian": "Ține obiectivul simplu, apoi atacă-l.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205341"
+    },
+    {
+      "english": "If you fall off, restart, no drama.",
+      "romanian": "Dacă te oprești, reîncepe, fără dramă.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205343"
+    },
+    {
+      "english": "You’re not behind, you’re building at pace.",
+      "romanian": "Nu ești în urmă, construiești în ritmul tău.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205345"
+    },
+    {
+      "english": "I slow down, so I can hear myself.",
+      "romanian": "Încetinesc, ca să mă aud pe mine.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205347"
+    },
+    {
+      "english": "Be honest, even when your chest feels tight.",
+      "romanian": "Fii sincer, chiar când ai pieptul strâns.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205349"
+    },
+    {
+      "english": "I breathe through it, no big story.",
+      "romanian": "Respir prin el, fără dramă mare.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205351"
+    },
+    {
+      "english": "Some days, my courage looks smaller, still real.",
+      "romanian": "Uneori, curajul meu pare mai mic, tot real.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205353"
+    },
+    {
+      "english": "I don’t chase comfort, I chase steadiness.",
+      "romanian": "Nu fug după confort, caut stabilitatea.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205355"
+    },
+    {
+      "english": "Let your feelings pass, like weather moving on.",
+      "romanian": "Lasă-ți emoțiile să treacă, ca vremea.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205356"
+    },
+    {
+      "english": "I check in, what do I really need today?",
+      "romanian": "Mă verific, de ce am nevoie cu adevărat azi?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205358"
+    },
+    {
+      "english": "Patience counts, even when progress feels slow.",
+      "romanian": "Răbdarea contează, chiar când progresele par lente.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205360"
+    },
+    {
+      "english": "I choose calm, then I lift with purpose.",
+      "romanian": "Aleg calmul, apoi ridic cu sens.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205427"
+    },
+    {
+      "english": "If I’m shaken, I train anyway, gently.",
+      "romanian": "Dacă sunt zdruncinat, mă antrenez oricum, blând.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205429"
+    },
+    {
+      "english": "My strength is quiet, not loud today.",
+      "romanian": "Puterea mea e liniștită, nu gălăgioasă azi.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205431"
+    },
+    {
+      "english": "I tell myself, slow is still forward.",
+      "romanian": "Îmi spun, încet tot înainte e.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205433"
+    },
+    {
+      "english": "I respect my limits, then I work smart.",
+      "romanian": "Îmi respectez limitele, apoi muncesc inteligent.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205434"
+    },
+    {
+      "english": "No hype, just one real effort at a time.",
+      "romanian": "Fără hype, doar un efort real, pe rând.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205436"
+    },
+    {
+      "english": "I listen to my body, not my ego.",
+      "romanian": "Îmi ascult corpul, nu orgoliul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205438"
+    },
+    {
+      "english": "Honesty helps, when motivation doesn’t show up.",
+      "romanian": "Adevărul ajută, când motivația lipsește.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205440"
+    },
+    {
+      "english": "When I’m tired, I adjust, not abandon.",
+      "romanian": "Când sunt obosit, ajustez, nu renunț.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205443"
+    },
+    {
+      "english": "I notice fear, then I choose the next move.",
+      "romanian": "Observ frica, apoi aleg următorul pas.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205445"
+    },
+    {
+      "english": "Reflection beats rush, my mind needs room.",
+      "romanian": "Reflecția bate graba, mintea are spațiu.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205447"
+    },
+    {
+      "english": "I let my progress speak, not my mood.",
+      "romanian": "Las progresul să vorbească, nu starea mea.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205449"
+    },
+    {
+      "english": "I’m allowed to feel, and still move forward.",
+      "romanian": "Am voie să simt, și tot merg înainte.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205451"
+    },
+    {
+      "english": "Strength is showing up, with messy honesty.",
+      "romanian": "Puterea e să te ții, cu sinceritate imperfectă.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205453"
+    },
+    {
+      "english": "I keep it simple, today is about trust.",
+      "romanian": "Păstrez totul simplu, azi e despre încredere.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205455"
+    },
+    {
+      "english": "I forgive yesterday, then train like it matters.",
+      "romanian": "Îmi iert ieri, apoi antrenez ca contează.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205457"
+    },
+    {
+      "english": "My focus is feelings, but my hands act.",
+      "romanian": "Concentrarea e pe emoții, dar mâinile lucrează.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205458"
+    },
+    {
+      "english": "I slow the mind, and my form improves.",
+      "romanian": "Calmez mintea, iar tehnica se îmbunătățește.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205462"
+    },
+    {
+      "english": "I’m not perfect, but I’m present today.",
+      "romanian": "Nu sunt perfect, dar sunt prezent azi.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205464"
+    },
+    {
+      "english": "I ask, what’s one honest thing I can do?",
+      "romanian": "Întreb, ce pot face sincer, măcar un lucru?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205466"
+    },
+    {
+      "english": "Even in doubt, I choose consistency over drama.",
+      "romanian": "Și cu îndoieli, aleg consecvența, nu dramatismul.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205468"
+    },
+    {
+      "english": "Start small, keep showing up daily.",
+      "romanian": "Începe cu puțin, continuă să apari zilnic.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205470"
+    },
+    {
+      "english": "Ask yourself, what can I do now?",
+      "romanian": "Întreabă-te, ce pot face acum?",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205473"
+    },
+    {
+      "english": "Take breaks, drink water, then continue.",
+      "romanian": "Fă pauze, bea apă, apoi continuă.",
+      "category": "Strength",
+      "generated_at": "2026-11-11T07:35:41.205475"
     }
   ],
-  "last_updated": "2026-11-10T08:23:35.844379"
+  "last_updated": "2026-11-11T07:35:41.205476"
 }
