@@ -103,7 +103,39 @@
     {
       "category": "Strength",
       "date": "2020-01-26"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Doctor & Pharmacy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:15:20.073621"
+  "last_updated": "2026-11-12T21:49:18.410834"
 }
