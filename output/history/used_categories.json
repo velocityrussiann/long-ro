@@ -1,1 +1,109 @@
-{"categories": []}
+{
+  "categories": [
+    {
+      "category": "Kindness",
+      "date": "2020-01-01"
+    },
+    {
+      "category": "Happiness",
+      "date": "2020-01-02"
+    },
+    {
+      "category": "Cultural Traditions",
+      "date": "2020-01-03"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2020-01-04"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2020-01-05"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2020-01-06"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2020-01-07"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2020-01-08"
+    },
+    {
+      "category": "Love",
+      "date": "2020-01-09"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2020-01-10"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2020-01-11"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2020-01-12"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2020-01-13"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2020-01-14"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2020-01-15"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2020-01-16"
+    },
+    {
+      "category": "Creativity",
+      "date": "2020-01-17"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2020-01-18"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2020-01-19"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2020-01-20"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2020-01-21"
+    },
+    {
+      "category": "Purpose",
+      "date": "2020-01-22"
+    },
+    {
+      "category": "Confidence",
+      "date": "2020-01-23"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2020-01-24"
+    },
+    {
+      "category": "Hope",
+      "date": "2020-01-25"
+    },
+    {
+      "category": "Strength",
+      "date": "2020-01-26"
+    }
+  ],
+  "last_updated": "2026-11-12T11:15:20.073621"
+}
