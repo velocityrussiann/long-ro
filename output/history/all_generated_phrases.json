@@ -20697,7 +20697,399 @@
       "transliteration": "Iti PLACE danSul LENT sau MUZica BUna?",
       "category": "Dating & Romance",
       "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I steal ideas from everyday life.",
+      "romanian": "Îmi iau idei din viața de zi cu zi.",
+      "transliteration": "Imi IAu idei din viA ta de zi cu zi.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Creativity loves playful constraints.",
+      "romanian": "Creativitatea iubește constrângeri jucăușe.",
+      "transliteration": "Creativitatea iubeSte CONstran geri JUca us e.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I try one bold experiment today.",
+      "romanian": "Încerc azi un experiment curajos, măcar unul.",
+      "transliteration": "InceRC azi un expeRIMENT CURajos, maCAR unul.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Messy drafts teach me what works.",
+      "romanian": "Ciornele dezordonate îmi arată ce funcționează.",
+      "transliteration": "Ciornele dezORdonate imi ARata ce funCționea za.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I remix old ideas into something new.",
+      "romanian": "Remixez idei vechi, ca să iasă ceva nou.",
+      "transliteration": "RemI xez idei vechi, ca sa iasa CEva nou.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "My best ideas show up unexpectedly.",
+      "romanian": "Cele mai bune idei vin pe neașteptate.",
+      "transliteration": "CEle mai bune idei vin pe neaSTE pta te.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I turn problems into prompts.",
+      "romanian": "Transform problemele în întrebări creative.",
+      "transliteration": "TRANSform pro bleMe le in inTREBari creA ti ve.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Turn inspiration into one real move.",
+      "romanian": "Transformă inspirația în un singur pas real.",
+      "transliteration": "TRANSforma inspIrația intr-un singur PAS re-al",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Make it today, not someday.",
+      "romanian": "Fă-o azi, nu mâine sau vreodată.",
+      "transliteration": "FA-o aZI, nu MÂine sau vreodată",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Write goals, then do the first.",
+      "romanian": "Notează-ți obiectivele, apoi fă primul lucru.",
+      "transliteration": "noTEAZă-ți oBIEctivele, aPON fă PRIMUL LUcru",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Let curiosity replace pressure.",
+      "romanian": "Înlocuiește presiunea cu curiozitatea.",
+      "transliteration": "ÎnLOcuiește preSIunea cu cu-RO-ziTAtea",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Choose a small why, not a big fear.",
+      "romanian": "Alege un de ce mic, nu o frică mare.",
+      "transliteration": "Alege un de CE mic, nu o frică MARe",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Catch the spark, even briefly.",
+      "romanian": "Prinde scânteia, chiar și pentru puțin timp.",
+      "transliteration": "PrinDE scânteia, chiar și penTRU puțin TIMp",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Seek one example, then follow.",
+      "romanian": "Caută un exemplu, apoi urmează-l.",
+      "transliteration": "cAUTă un eXEMplu, aPON urMEAZă-l",
+      "category": "Inspiration",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Where is passport control, please?",
+      "romanian": "Unde este controlul pentru pașapoarte, vă rog?",
+      "transliteration": "Unde ESTE controlul pentru PAȘApoarte, VA rog?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I need to check my boarding pass.",
+      "romanian": "Am nevoie să-mi verific biletul de îmbarcare.",
+      "transliteration": "Am NEVOIE să-mi VERIFIC BILEtul de IMbarcare.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Can you show me the security line?",
+      "romanian": "Îmi puteți arăta unde e rândul pentru controlul de securitate?",
+      "transliteration": "Îmi PUteți arăTA unde e RÂNDul pentru controlul de SECuritate?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "My suitcase feels heavier than usual.",
+      "romanian": "Valiza mea pare mai grea decât de obicei.",
+      "transliteration": "VAliZa mea PAre mai GREA deCAT de obișnuit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Do I keep liquids in the bag?",
+      "romanian": "Lichidele le țin în punguță, da?",
+      "transliteration": "LIchiDEle le ȚIN în punguță, da?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Which gate am I flying from?",
+      "romanian": "De la ce poartă zbor?",
+      "transliteration": "De la ce POARtă ZBOR?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Is there a charger near the gate?",
+      "romanian": "Este o priză lângă poartă?",
+      "transliteration": "ESte o PRIză LÂngă POARtă?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Ask better questions, get better answers.",
+      "romanian": "Pune întrebări mai bune, primești răspunsuri mai bune.",
+      "transliteration": "Pune INTREBARI mai BUNE, primesti RASPUNSURI mai BUNE.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Silence can be a wise choice.",
+      "romanian": "Tăcerea poate fi o alegere înțeleaptă.",
+      "transliteration": "TAcerea poate fi o ALEgere INTELEAPTA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Protect your energy like a budget.",
+      "romanian": "Protejează-ți energia ca pe un buget.",
+      "transliteration": "ProtejeaZa-ti ENERGIA ca pe un BUGet.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Learn the lesson, not the drama.",
+      "romanian": "Învață lecția, nu drama.",
+      "transliteration": "InvaTa LECtia, nu DRAMA.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Slow down before you decide anything.",
+      "romanian": "Încetinește înainte să decizi orice.",
+      "transliteration": "InCetinește INAINte sa DECizi ORice.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Some boundaries feel kind, not cold.",
+      "romanian": "Unele limite sunt blânde, nu reci.",
+      "transliteration": "Unele LImite sunt BLANDe, nu RECI.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Be gentle when you correct yourself.",
+      "romanian": "Fii blând când te corectezi.",
+      "transliteration": "Fii BLAND cand te COREctezi.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "What breads are still warm today?",
+      "romanian": "Ce pâini sunt încă calde azi?",
+      "transliteration": "Ce pahini sunt inka calde azi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "romanian": "Pot să iau lapte de ovăz, vă rog?",
+      "transliteration": "Pot sa iau lapte de oVAZ, va rog?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I’ll try your signature cinnamon bun.",
+      "romanian": "O să încerc covrigul tău cu scorțișoară, specialitatea.",
+      "transliteration": "O sa incerc covrigul tau cu scortisoara, SPECIalitatea.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Fresh croissant, crisp outside, soft inside.",
+      "romanian": "Croissant proaspăt, crocant la exterior, moale la interior.",
+      "transliteration": "Croissant proaspat, crocant la exTERior, MOale la inTErior.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Do you have something savory to go?",
+      "romanian": "Aveți ceva sărat, de luat la pachet?",
+      "transliteration": "Aveti ceva sarat, de luat la pAchet?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "This cappuccino tastes like a hug.",
+      "romanian": "Cappuccino-ul ăsta are gust de îmbrățișare.",
+      "transliteration": "Cappuccino-ul aSTA are gUST de imbratisare.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I’ll take a latte, not too sweet.",
+      "romanian": "Ia-u un latte, nu prea dulce, te rog.",
+      "transliteration": "IA-u un laTTE, nu prea DUce, te rog.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I do the next right thing.",
+      "romanian": "Fac următorul lucru corect.",
+      "transliteration": "Fac URMĂTORUL lucru CORECT.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "My purpose wakes up in practice.",
+      "romanian": "Scopul meu prinde viață prin practică.",
+      "transliteration": "ScoPul MEU prinde VIAȚĂ prin PRACTICĂ.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I choose value over speed today.",
+      "romanian": "Azi aleg valoarea, nu viteza.",
+      "transliteration": "AZI aleg VALOAREA, nu VIteza.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Small actions still move me forward.",
+      "romanian": "Și acțiunile mici mă împing înainte.",
+      "transliteration": "ȘI aCȚIUniLE miCI mă ÎMPING ÎNAINTE.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I stop performing, start living.",
+      "romanian": "Nu mai joc teatru, încep să trăiesc.",
+      "transliteration": "Nu mai JOC teatru, ÎNCEP să TRĂIESC.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I make room for rest on purpose.",
+      "romanian": "Îmi fac loc și pentru odihnă, conștient.",
+      "transliteration": "Îmi fac loc și penTRU ODiHNĂ, conȘTIent.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I follow my curiosity, carefully.",
+      "romanian": "Urmez curiozitatea, cu grijă.",
+      "transliteration": "URmez cuRIOziTATEA, cu GRIjă.",
+      "category": "Purpose",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I can slow down and breathe.",
+      "romanian": "Pot să încetinesc și să respir.",
+      "transliteration": "Pot sA INcEtinesc SI sA respIr.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "My needs matter, I say them.",
+      "romanian": "Nevoile mele contează, le spun.",
+      "transliteration": "Nevoile mele CONteazA, le SPUN.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I ask again, politely, confidently.",
+      "romanian": "Repet, politicos, cu încredere.",
+      "transliteration": "Repet, POLiticos, cu INcredere.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I trust my voice, not perfection.",
+      "romanian": "Îmi încred în vocea mea, nu în perfecțiune.",
+      "transliteration": "Îmi ÎNcred în VOcea mea, nu în perFeCțiune.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I can set boundaries, calmly.",
+      "romanian": "Pot să pun limite, calm.",
+      "transliteration": "Pot sA pun LimiTe, calm.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I make room for pauses.",
+      "romanian": "Fac loc pauzelor, fără grabă.",
+      "transliteration": "Fac loc pauzeLO R, fĂrĂ GRabĂ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I speak first, then refine.",
+      "romanian": "Vorbes c prima dată, apoi îmbunătățesc.",
+      "transliteration": "Vorbesc PRIMA datA, apoi ÎmbunA tĂțesc.",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Could you call me right now?",
+      "romanian": "Poți să mă suni chiar acum?",
+      "transliteration": "Poți să MĂ sunI CHIAR acum?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I’m calling, are you free to talk?",
+      "romanian": "Te sun acum, ești liber să vorbim?",
+      "transliteration": "Te sun aCum, ești LIBer să vorbim?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I sent a text, did you get it?",
+      "romanian": "Ți-am trimis un mesaj, l-ai primit?",
+      "transliteration": "Ți-am trimis un MESA J, l-ai priMIT?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Please reply when you see this.",
+      "romanian": "Te rog răspunde când vezi mesajul.",
+      "transliteration": "Te rog răSPUNDE când VEzi meSAjul.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "I might be late, keep me posted.",
+      "romanian": "S-ar putea să întârzii, spune-mi noutăți.",
+      "transliteration": "S-ar puTEA să înTĂrzii, SPUNE-mi NOuTĂți.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "Sorry, I missed your call earlier.",
+      "romanian": "Îmi pare rău, ți-am ratat apelul mai devreme.",
+      "transliteration": "Îmi paRE rĂu, ți-am raTAT aPElul mai deVreME.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
+    },
+    {
+      "english": "What did you mean by that?",
+      "romanian": "Ce ai vrut să spui prin asta?",
+      "transliteration": "Ce ai VRut să SPUI prin aSTA?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-17T22:52:28.824858"
     }
   ],
-  "last_updated": "2026-11-16T23:43:45.892981"
+  "last_updated": "2026-11-17T22:52:28.824858"
 }
