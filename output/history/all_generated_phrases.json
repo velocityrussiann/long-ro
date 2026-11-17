@@ -20305,7 +20305,399 @@
       "transliteration": "INceTINESc, si totul se AZA.",
       "category": "Inner Peace",
       "generated_at": "2026-11-15T20:16:14.908216"
+    },
+    {
+      "english": "I want you close tonight",
+      "romanian": "Vreau să te am aproape azi seară.",
+      "transliteration": "Vreau sa te am APROAPE azi seara.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Your laugh is my favorite sound",
+      "romanian": "Râsul tău e cel mai frumos sunet.",
+      "transliteration": "Rasul tau e cel mai frumos SUNET.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I miss your voice, right now",
+      "romanian": "Îmi lipsește vocea ta, chiar acum.",
+      "transliteration": "Imi LIPSESTE VOCEA ta, chiar ACUM.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I trust you with my worries",
+      "romanian": "Te las aproape, cu grijile mele.",
+      "transliteration": "Te LAS aproape, cu GRIJILE mele.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Hold my hand, I feel safe",
+      "romanian": "Ține-mi mâna, mă simt în siguranță.",
+      "transliteration": "Tine-mi MAna, ma SIMT in SIGURANTA.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "We fit together, like it’s easy",
+      "romanian": "Ne potrivim perfect, e atât de simplu.",
+      "transliteration": "Ne POTRIVIM perfect, e atat de SIMPLU.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I choose you, again and again",
+      "romanian": "Te aleg pe tine, din nou și din nou.",
+      "transliteration": "Te ALEG pe TINE, din nou si din nou.",
+      "category": "Love",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Right now, I feel proud of me.",
+      "romanian": "În clipa asta, simt mândrie pentru mine.",
+      "transliteration": "In clipa asta, SIMT MANdrie pentru miNe.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’m moving through sadness, slowly.",
+      "romanian": "Trebuie să trec prin tristețe, încet.",
+      "transliteration": "TreBUIe sa TREC prin trIStețe, inCET.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I keep getting anxious thoughts lately.",
+      "romanian": "Gândurile mele anxioase tot revin zilele astea.",
+      "transliteration": "GanDURile mele anXIOase tot REvin ziLe aSTea.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’m feeling safe right now.",
+      "romanian": "În momentul ăsta mă simt în siguranță.",
+      "transliteration": "In moMENtul aSTa ma simt in siGUranța.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’m worried, so I’m being practical.",
+      "romanian": "Mă îngrijorează, dar o tratez practic.",
+      "transliteration": "Ma ingRIJOreaza, dar o traTEZ prA ctic.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I feel love, warm and steady.",
+      "romanian": "Simt iubire, caldă și constantă.",
+      "transliteration": "SIMT iUBIre, calDA si conSTA nta.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I feel hopeful, even with uncertainty.",
+      "romanian": "Sper în continuare, chiar și cu incertitudine.",
+      "transliteration": "SPER in conTI nuare, chiar si cu in CERti tudine.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Can I see it in your size?",
+      "romanian": "Pot să o văd în mărimea mea?",
+      "transliteration": "Pot SA o vad in MARIMEA mea?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Is there a discount today, please?",
+      "romanian": "Aveți reducere azi, vă rog?",
+      "transliteration": "AVeți REDUCERE azi, va rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "What’s the total after tax?",
+      "romanian": "Care e totalul după taxă?",
+      "transliteration": "Care E TOTALUL dupa TAXA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Is this the final price?",
+      "romanian": "Prețul ăsta e cel final?",
+      "transliteration": "Prețul Asta e CEL FINAL?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "romanian": "Pot plăti cu cardul aici?",
+      "transliteration": "Pot PLATI cu CARDUL aici?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Does it include warranty and receipt?",
+      "romanian": "Include garanție și bonul?",
+      "transliteration": "InCLude GARANȚIE si BONUL?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Any cheaper options with same quality?",
+      "romanian": "Aveți ceva mai ieftin, dar la fel de bun?",
+      "transliteration": "AVeți ceva mai IEftin, DAR la fel de BUN?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I want a lower monthly rate.",
+      "romanian": "Vreau o dobândă mai mică pe lună.",
+      "transliteration": "Vreau doBÂNDĂ mai MICĂ pe LU-nă.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Can you explain the fees clearly?",
+      "romanian": "Poți să-mi explici taxele clar, te rog?",
+      "transliteration": "Poți să-mi exPLiCi taxe LEAR, te ROG?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’m paying by card, today.",
+      "romanian": "Plătesc cu cardul, azi.",
+      "transliteration": "PlĂTesc cu CARdul, aZI.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I withdrew cash, just in case.",
+      "romanian": "Am scos bani cash, doar în caz de nevoie.",
+      "transliteration": "Am SO-s bani CASH, doar în CAZ de NEO-ie.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "What’s my interest rate right now?",
+      "romanian": "Care e dobânda mea acum?",
+      "transliteration": "CaRE e doBÂNDA MEA aCUM?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’d like to lock in my rate.",
+      "romanian": "Aș vrea să-mi fixezi dobânda.",
+      "transliteration": "AȘ vrea să-mi FIxezi doBÂNda.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I’m setting up direct deposit.",
+      "romanian": "Îmi fac transferul salarial prin cont.",
+      "transliteration": "Îmi FAC transFE-rul saLA-ri-al prin CONT.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Can you point me to the train station?",
+      "romanian": "Îmi puteți arăta drumul spre gara de tren?",
+      "transliteration": "Im pu-teți aRă-ta dru-mul SPRE ga-ra de tren?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Is there a bus that goes downtown?",
+      "romanian": "Există un autobuz care merge spre centru?",
+      "transliteration": "ExisTA un au-to-buz ca-re mer-ge spre CENTru?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Which street should I take right now?",
+      "romanian": "Pe ce stradă ar trebui să merg acum?",
+      "transliteration": "Pe ce STRA-dă ar tre-bui să merg a-cum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "How do I get to the museum, please?",
+      "romanian": "Cum ajung la muzeu, vă rog?",
+      "transliteration": "Cum a-JUNG la MU-zeu, vă ROG?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I think I’m close. Am I on the right road?",
+      "romanian": "Cred că sunt aproape. Sunt pe drumul corect?",
+      "transliteration": "Cred că sunt aPROA-pe. Sunt pe dru-mul coRECT?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Could you tell me where to turn?",
+      "romanian": "Îmi puteți spune unde trebuie să fac dreapta?",
+      "transliteration": "Im pu-teți spu-ne unde tre-buie să fac DREAP-ta?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Is it faster to walk or take the tram?",
+      "romanian": "E mai repede pe jos sau cu tramvaiul?",
+      "transliteration": "E mai RE-pe-de pe JOS sau cu trami-vaI-ul?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I m having trouble breathing, help.",
+      "romanian": "Am dificultăți de respirație, ajută-mă, te rog.",
+      "transliteration": "Am dificuLTATI de reSPIratie, ajuTA-ma, te ROG.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Call emergency services right now, please.",
+      "romanian": "Sună la serviciile de urgență chiar acum, te rog.",
+      "transliteration": "SU-nă la SER-vicii de UR-gență CHI-ar aCUM, te ROG.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Do you have an EpiPen?",
+      "romanian": "Ai un EpiPen la tine?",
+      "transliteration": "Ai un EpiPEN la TIne?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "My chest feels tight, listen.",
+      "romanian": "Mi se strânge pieptul, te rog să mă asculți.",
+      "transliteration": "Mi se STRAN-ge PIEPtul, te rog să mă ASculți.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I think I might be having a stroke.",
+      "romanian": "Cred că am un posibil atac cerebral.",
+      "transliteration": "Cred că am un poSI-bil aTAC ceRE-bral.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Face drooping, say something, please.",
+      "romanian": "Îmi cade fața pe o parte, vorbește cu mine.",
+      "transliteration": "Î-mi CA-de FAța pe o PAR-te, VO-bește cu MI-ne.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "One arm is weaker than the other.",
+      "romanian": "O mână e mai slabă decât cealaltă.",
+      "transliteration": "O MANă e MAI SLABă deCÂt ceaLAL-tă.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Come help me in the kitchen",
+      "romanian": "Vino să mă ajuți în bucătărie",
+      "transliteration": "VI-no sa ma A-JUți in bu-CĂ-ta-rie",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Where should we put the keys?",
+      "romanian": "Unde să punem cheile, acum?",
+      "transliteration": "UN-de sa PU-nem CHEI-le, A-cum",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I baked something, try it please",
+      "romanian": "Am copt ceva, gustați și voi",
+      "transliteration": "am COP-t ceva, gu-STați și VO-i",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Family dinner, phones away for now",
+      "romanian": "La masa de seară, lăsați telefoanele",
+      "transliteration": "la MA-sa de sea-RĂ, lă-sați te-LE-foa-ne-le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Can you fix that chair with me?",
+      "romanian": "Poți să repari scaunul cu mine?",
+      "transliteration": "poți sa re-Pa-ri sca-UN-ul cu MI-ne",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Our living room smells like soup",
+      "romanian": "În sufragerie miroase a supă",
+      "transliteration": "în su-fra-GE-rie mi-roa-se a SU-pă",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Let’s walk the dog together after",
+      "romanian": "Hai să scoatem câinele la plimbare",
+      "transliteration": "hai sa SCOa-tem CÂI-ne-le la plim-ba-re",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "How was your weekend, really?",
+      "romanian": "Cum a fost weekendul tău, cu adevărat?",
+      "transliteration": "Cum a FOST weekendul TAU, cu adevarat?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Want to grab coffee after work?",
+      "romanian": "Vrei să luăm o cafea după serviciu?",
+      "transliteration": "Vrei sa LUAM o CAFEa dupa SERviciu?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I love your laugh, it’s contagious.",
+      "romanian": "Îmi place râsul tău, e molipsitor.",
+      "transliteration": "Imi PLACE rasul TAU, e MOlipsitor.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "I noticed you today, and smiled.",
+      "romanian": "Te-am observat azi și am zâmbit.",
+      "transliteration": "Te-am OBSERVAT azi si am ZAMBIt.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "You can be honest with me.",
+      "romanian": "Poți fi sincer cu mine.",
+      "transliteration": "POți fi SINCER cu MINE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Let’s meet somewhere calm and cozy.",
+      "romanian": "Hai să ne vedem într-un loc liniștit și primitor.",
+      "transliteration": "Hai sa ne VEdem intr-un LOC liNIStit si PRImitor.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
+    },
+    {
+      "english": "Do you like slow dancing or music?",
+      "romanian": "Îți place dansul lent sau muzica bună?",
+      "transliteration": "Iti PLACE danSul LENT sau MUZica BUna?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-16T23:43:45.892981"
     }
   ],
-  "last_updated": "2026-11-15T20:16:14.908216"
+  "last_updated": "2026-11-16T23:43:45.892981"
 }
