@@ -21873,7 +21873,399 @@
       "transliteration": "AM o înTReBAre desPRE facTURĂ",
       "category": "Work & Office",
       "generated_at": "2026-11-19T22:54:32.356440"
+    },
+    {
+      "english": "Say one honest thing today.",
+      "romanian": "Spune un lucru sincer astăzi.",
+      "transliteration": "spune un lucru SINCER asTIzi",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Choose the hardest task first.",
+      "romanian": "Alege cea mai grea sarcină prima.",
+      "transliteration": "aLEGE cea mai GREA SARciNĂ PRIma",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Take five deep breaths before reacting.",
+      "romanian": "Ia cinci respirații adânci înainte să reacționezi.",
+      "transliteration": "ia CINCI respiRAȚII aDÂNci INainte să reACȚioNEzi",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Walk ten minutes, no headphones.",
+      "romanian": "Mergi zece minute, fără căști.",
+      "transliteration": "MERgi ZEce miNUTE, FĂRĂ căȘTI",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Email one tough message, finish it.",
+      "romanian": "Trimite un mesaj greu, termină-l azi.",
+      "transliteration": "TRIMite un MEZaj GREU, TERmiNĂ-l aZI",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Ask for feedback, calmly and often.",
+      "romanian": "Cere feedback, calm și des.",
+      "transliteration": "CERe FEEDback, calm și DES",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Put your phone in another room.",
+      "romanian": "Ține telefonul în altă cameră.",
+      "transliteration": "ȚIne teLEfonul în ALtă caMEra",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Can I get water with that?",
+      "romanian": "Pot să am apă cu asta?",
+      "transliteration": "Pot SÂ AM APĂ CU ASTA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I’ll take the soup as a starter.",
+      "romanian": "O să iau supa, ca aperitiv.",
+      "transliteration": "O SĂ IAU SUPA, KA APERITIV.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "romanian": "Aveți opțiuni fără gluten?",
+      "transliteration": "AVEȚI OPȚIUNI FĂRĂ GLUTEN?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Please make it mild, not spicy.",
+      "romanian": "Vă rog să fie blând, nu picant.",
+      "transliteration": "VĂ ROG SĂ FIE BLÂND, NU PICANT.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Can I substitute rice for fries?",
+      "romanian": "Pot să schimb cartofii prăjiți cu orez?",
+      "transliteration": "POT SĂ SCHIMB CARTOFII PRĂJIȚI CU OREZ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Is there a lunch special today?",
+      "romanian": "Există un meniu de prânz special astăzi?",
+      "transliteration": "EXISTĂ UN MENIU DE PRÂNZ SPECIAL AZI?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Could I get it to eat here?",
+      "romanian": "Îl puteți face pentru aici, vă rog?",
+      "transliteration": "ÎL PUTEȚI FACE PENTRU AIKI, VĂ ROG?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Just a moment, I’m coming",
+      "romanian": "Un pic, vin imediat",
+      "transliteration": "Un PIC, VIN imeDIAT",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I’ll be there soon, don’t worry",
+      "romanian": "Ajung eu curând, nu te îngrijora",
+      "transliteration": "AJUng eu CURÂND, NU te îNGRIJOra",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Give me time, I need focus",
+      "romanian": "Mai dă-mi timp, am nevoie de concentrare",
+      "transliteration": "Mai dă-mi TIMP, aM NEvoie de concenTRARe",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Wait, I’m finding your info",
+      "romanian": "Stai puțin, caut datele tale",
+      "transliteration": "STAI puțin, CAUt daTEle TAle",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Let me finish this thought, please",
+      "romanian": "Lasă-mă să termin ideea, te rog",
+      "transliteration": "LA-să-mă să TERmin iDEE-a, te ROG",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I can’t rush it, it matters",
+      "romanian": "Nu pot să o fac în grabă, contează",
+      "transliteration": "NU pot să o FAC în GRABĂ, CONTEAZĂ",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Take it easy, we’re almost on it",
+      "romanian": "Stai liniștit, suntem aproape",
+      "transliteration": "STAI LIniștit, SUntem aPROaPE",
+      "category": "Patience",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Hello, do you have a room tonight?",
+      "romanian": "Bună ziua, aveți o cameră azi, seara?",
+      "transliteration": "buNA ziua, aveți o caMERă azi, seara",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "What’s the price per night, please?",
+      "romanian": "Care este prețul pe noapte, vă rog?",
+      "transliteration": "caRE esTe prețul pe NOapte, vă ROG",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Do you have twin beds available?",
+      "romanian": "Aveți paturi twin, vă rog?",
+      "transliteration": "aveți paTURI twin, vă ROG",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Can I upgrade to a better room?",
+      "romanian": "Pot să fac un upgrade la o cameră mai bună?",
+      "transliteration": "pot să FAC un UPgrade la o caMERă mai BU-nă",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Is there an elevator in the building?",
+      "romanian": "Există lift în clădire?",
+      "transliteration": "eXIS-tă lift în CLĂdire",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Do you offer late breakfast on weekends?",
+      "romanian": "În weekend, serviți mic dejun mai târziu?",
+      "transliteration": "în weEkend, serVIți mic dejun mai TÂrziu",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Is breakfast served in a restaurant?",
+      "romanian": "Mic dejun se servește la restaurant sau la etaj?",
+      "transliteration": "mic deJUN se SERvește la resTauranT sau la eTAJ",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I build consistency, not motivation",
+      "romanian": "Construiesc consecvența, nu motivația",
+      "transliteration": "Konstruiesk conseksvența, nu moti-va-ția",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Today I practice one hard thing",
+      "romanian": "Azi exersez o singură chestie grea",
+      "transliteration": "A-zi ex-er-sez o sin-gu-ră ches-tie grea",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I stretch my comfort zone gently",
+      "romanian": "Îmi extind ușor zona de confort",
+      "transliteration": "Îmi ex-tind ușor zo-na de kon-fort",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I ask for help sooner",
+      "romanian": "Cer ajutor mai repede",
+      "transliteration": "Ker a-ju-tor mai re-pe-de",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I simplify, then I move faster",
+      "romanian": "Simplific, apoi mă mișc mai repede",
+      "transliteration": "Sim-pli-fik, a-poi mă mișk mai re-pe-de",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I keep promises to myself",
+      "romanian": "Țin promisiunile față de mine",
+      "transliteration": "Țin pro-mi-si-u-ni-le fa-ță de mi-ne",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I invest in sleep like a priority",
+      "romanian": "Îmi tratez somnul ca o prioritate",
+      "transliteration": "Îmi tra-tez som-nul ka o prio-ri-ta-te",
+      "category": "Growth",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I go hiking with friends on Sundays.",
+      "romanian": "Merg la drumeții cu prietenii duminica.",
+      "transliteration": "Merg la dRu-me-tii cu prie-te-nii du-mi-ni-ca.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I swim laps to clear my head.",
+      "romanian": "Înot ture ca să-mi limpezesc mintea.",
+      "transliteration": "Inot tu-re ca sa-mi lim-pe-zesc min-te-a.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I do yoga in the morning, easy.",
+      "romanian": "Fac yoga dimineața, ușor.",
+      "transliteration": "Fac yo-ga di-mi-ne-a-ta, US-or.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I paint watercolors when I feel calm.",
+      "romanian": "Pictez acuarele când mă simt liniștit.",
+      "transliteration": "Pi-kez a-cu-a-re-le când ma simt li-niș-tit.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I try street food tours on weekends.",
+      "romanian": "Încerc tururi cu mâncare de stradă în weekend.",
+      "transliteration": "In-cerc tu-ruri cu man-ca-re de stra-da in week-end.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I watch documentaries, then jot notes.",
+      "romanian": "Urmăresc documentare, apoi notez câteva idei.",
+      "transliteration": "Ur-ma-resc do-cu-men-ta-re, a-poi no-tez ca-te-va i-dei.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I volunteer at a shelter twice a month.",
+      "romanian": "Mă implic la un adăpost de două ori pe lună.",
+      "transliteration": "Ma im-plic la un a-da-post de doua o-ri pe lu-nă.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Absolutely, I agree with you.",
+      "romanian": "Cu siguranță, ai dreptate.",
+      "transliteration": "Cu sigurnaTA, ai drEptate.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "That works for me, no problem.",
+      "romanian": "E perfect pentru mine, fără probleme.",
+      "transliteration": "E perFECT pentru miNe, FĂră probLEme.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I hear you, but I disagree.",
+      "romanian": "Te înțeleg, dar nu sunt de acord.",
+      "transliteration": "Te INțeleg, dar nu sunt de aCORD.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "No way, I totally think differently.",
+      "romanian": "Deloc, eu cred complet altceva.",
+      "transliteration": "DELoc, eu cRED comPLeT aLTCeva.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I think that's a bad idea.",
+      "romanian": "Cred că e o idee proastă.",
+      "transliteration": "CRED că e o iDEE proasTA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Yes, that's exactly what I meant.",
+      "romanian": "Da, asta voiam să spun.",
+      "transliteration": "DA, aSTA voIam să SPUN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "You're right, let's stick to it.",
+      "romanian": "Ai dreptate, hai să rămânem la asta.",
+      "transliteration": "Ai drEptate, hai să rĂmânem la aSTA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Hi, nice to finally meet you.",
+      "romanian": "Bună, ce bine că te-am întâlnit în sfârșit.",
+      "transliteration": "BuN-a, ce biNe că te-aM inTâlnit în sfârșit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I’m looking forward to working with you.",
+      "romanian": "Abia aștept să lucrăm împreună.",
+      "transliteration": "A-bi-a aștepT să luCrăm îmPReună.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Where are you from originally?",
+      "romanian": "Din ce oraș ești, de fapt?",
+      "transliteration": "Din ce oRaș ești, de fapt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Have we met before, by any chance?",
+      "romanian": "Ne-am mai întâlnit cumva înainte?",
+      "transliteration": "Ne-am mai înTâlnit cuMVa înaINte?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "Nice to meet you, too, really.",
+      "romanian": "Îmi face plăcere să te cunosc, la fel.",
+      "transliteration": "Îmi faCe plăCeRe să te cuNoasc, la fel.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "I’m new here, can you help me?",
+      "romanian": "Sunt nou aici, poți să mă ajuți?",
+      "transliteration": "Sunt nou aIci, poți să mă aJuți?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
+    },
+    {
+      "english": "What do you do for work?",
+      "romanian": "Cu ce te ocupi, mai exact?",
+      "transliteration": "Cu ce te oCuPI, mai exACT?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-20T22:13:31.346061"
     }
   ],
-  "last_updated": "2026-11-19T22:54:32.356440"
+  "last_updated": "2026-11-20T22:13:31.346061"
 }
