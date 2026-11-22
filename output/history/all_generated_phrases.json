@@ -22657,7 +22657,399 @@
       "transliteration": "Mai circula autobuzul de noapte dupa 23?",
       "category": "Public Transportation",
       "generated_at": "2026-11-21T20:52:26.037184"
+    },
+    {
+      "english": "Celebrate small wins, really.",
+      "romanian": "Sărbătorește micile victorii, chiar.",
+      "transliteration": "Sa-rbeste mi-ci-le vic-to-rii, chiar.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Move your body, feel the lift.",
+      "romanian": "Mișcă-ți corpul, simte ușurarea.",
+      "transliteration": "Mis-ca-ti cor-pul, sim-te u-su-ra-rea.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Let curiosity replace worry today.",
+      "romanian": "Lasă curiozitatea să înlocuiască grija azi.",
+      "transliteration": "La-sa cu-ri-o-zi-ta-te-a sa in-lo-cu-i-as-ca gri-ja a-zi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Play music, and breathe deeper.",
+      "romanian": "Pune muzică, și respiră mai adânc.",
+      "transliteration": "Pu-ne mu-zi-ca, si res-pi-ra mai a-danc.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Do one helpful thing today.",
+      "romanian": "Fă un lucru bun pentru altcineva azi.",
+      "transliteration": "Fa un lu-cru bun pen-tru al-tci-ne-va a-zi.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Protect your attention, choose wisely.",
+      "romanian": "Alege ce merită atenția ta, protejeaz-o.",
+      "transliteration": "A-lege ce me-ri-tă a-ten-tia ta, pro-te-jea-ză-o.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Call a friend, keep it simple.",
+      "romanian": "Sună un prieten, păstrează conversația simplă.",
+      "transliteration": "Su-nă un prie-ten, păs-tre-a-ză con- ver-sa-tia sim-plă.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I want peace, not revenge.",
+      "romanian": "Vreau pace, nu răzbunare.",
+      "transliteration": "Vreau PAce, nu razbunare.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Let’s talk when we’re both ready.",
+      "romanian": "Hai să vorbim când suntem amândoi pregătiți.",
+      "transliteration": "Hai sa vorbim cand suntem amandoi pregaTITI.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I forgive you, for today.",
+      "romanian": "Te iert azi, pentru astăzi.",
+      "transliteration": "Te IERT azi, pentru asTAzi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "My forgiveness doesn’t mean forget.",
+      "romanian": "Iertarea mea nu înseamnă să uit.",
+      "transliteration": "IertaREa mea nu inseamna sa UIt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Thanks for saying you’re sorry again.",
+      "romanian": "Mulțumesc că spui din nou că îți pare rău.",
+      "transliteration": "MultuMESC ca spui DIN nou ca iti paRE rau.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I need time, please be patient.",
+      "romanian": "Am nevoie de timp, te rog să fii răbdător.",
+      "transliteration": "Am NEvoie de TIMP, te ROG sa fii rabDAtor.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I’m done arguing, let’s cool down.",
+      "romanian": "Sunt sătul să tot ne certăm, hai să ne liniștim.",
+      "transliteration": "Sunt SATUL sa tot ne CERTam, hai sa ne liNIStim.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "What is the unit price, please?",
+      "romanian": "Care e prețul pe unitate, vă rog?",
+      "transliteration": "KA-RE e PREȚ-ul pe U-NI-ta-te, VA rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can I try it on here?",
+      "romanian": "Pot să-l încerc aici, vă rog?",
+      "transliteration": "POT sa-L ÎN-CERC a-i-ci, VA rog?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "How long is the return period?",
+      "romanian": "Cât timp am la retur, în cazul meu?",
+      "transliteration": "CÂT TIMP am la re-TUR, în ca-zuL MEU?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Does it come in different colors?",
+      "romanian": "Se găsește în mai multe culori?",
+      "transliteration": "se GĂ-SEȘ-TE în MAI MUL-TE CU-lo-ri?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can I see the fabric up close?",
+      "romanian": "Pot să văd materialul mai aproape?",
+      "transliteration": "POT să VĂD MA-te-ri-alul mai a-PRO-a-pe?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Is there a cheaper brand option?",
+      "romanian": "Aveți o variantă mai ieftină?",
+      "transliteration": "A-VEȚI o VARI-an-tă mai I-EF-tină?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "What size should I choose for me?",
+      "romanian": "Ce mărime îmi recomandă pentru mine?",
+      "transliteration": "CE MĂ-RI-me î-mi re-COM-an-DĂ pen-tru MI-ne?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Excuse me, can you help me?",
+      "romanian": "Scuzați-mă, mă puteți ajuta, vă rog?",
+      "transliteration": "scuzati-ma, ma PUTETI AJUTA, va ROG",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Where is the nearest metro station?",
+      "romanian": "Unde este cea mai apropiată stație de metrou?",
+      "transliteration": "unde ESTE cea mai APROPIATA statie de METROU",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "romanian": "Cum ajung la aeroport, vă rog?",
+      "transliteration": "cum AJUNG la AEROPORT, va ROG",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Which way should I go from here?",
+      "romanian": "Pe unde ar trebui să merg de aici?",
+      "transliteration": "pe UNDE ar TREBUI sa MERG de AICI",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Do I take bus 24 to there?",
+      "romanian": "Iaștă, autobuzul 24 merge acolo?",
+      "transliteration": "IAstA, autobuzul 24 MERGE aCOLO",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can you show it on your phone?",
+      "romanian": "Puteți să-mi arătați pe telefon, dacă se poate?",
+      "transliteration": "puTEti sa-mi A RATAti pe TElefon, daca se POATE",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "What’s the closest stop to this street?",
+      "romanian": "Care e cea mai apropiată stație de pe strada asta?",
+      "transliteration": "care E cea mai aPROPIATA STATIE de pe STRADA asta",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "When you smile, I feel home.",
+      "romanian": "Când zâmbești, eu mă simt acasă.",
+      "transliteration": "CAND zambEȘTI, eu ma simT ACASA.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I choose your heart, not the storm.",
+      "romanian": "Îți aleg inima, nu furtuna.",
+      "transliteration": "i̯i aLEG INIMA, nu FURTUNA.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Your voice calms my busy mind.",
+      "romanian": "Vocea ta îmi liniștește mintea agitată.",
+      "transliteration": "voCEA ta imi lINISteȘTE MIntea aGItaTa.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Hold me close, please, just tonight.",
+      "romanian": "Ține-mă aproape, te rog, doar în seara asta.",
+      "transliteration": "ȚIne-ma aPROApe, te ROG, DOAR in seARA aSTa.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Let’s make room for us, always.",
+      "romanian": "Să facem loc pentru noi, mereu.",
+      "transliteration": "să faCEM LOC penTRU NOI, MEreu.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "You make ordinary days feel special.",
+      "romanian": "Faci ca zilele obișnuite să pară speciale.",
+      "transliteration": "faCI ca ZILEle oBIȘNUIte să paRA speCIale.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I’m listening, and I’m here with you.",
+      "romanian": "Te ascult, și sunt aici cu tine.",
+      "transliteration": "te ASCULT, și sunt aICI cu TIne.",
+      "category": "Love",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Call for help, I need assistance.",
+      "romanian": "Cheamă ajutor, am nevoie de asistență.",
+      "transliteration": "Cheamă AJUtor, am NEvoie de aSiSTENță.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I swallowed something harmful, I think.",
+      "romanian": "Am înghițit ceva periculos, cred.",
+      "transliteration": "Am ÎNGHIțit CEva peRILos, cred.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I cut my finger, it won t stop bleeding.",
+      "romanian": "Mi-am tăiat degetul, nu se mai oprește sângerarea.",
+      "transliteration": "Mi-am TĂiat deGETul, nu se mai oPREște SÂngerarea.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Apply pressure to the wound, please.",
+      "romanian": "Apasă pe rană, te rog.",
+      "transliteration": "A.PAȘE pe RA.nă, te ROG.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Do you know how to do CPR?",
+      "romanian": "Știi cum se face resuscitare cardiopulmonară?",
+      "transliteration": "Știi CUM se FAce reSuCItare carDIOpulmonară?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I m allergic, get me my meds fast.",
+      "romanian": "Sunt alergic, adu-mi medicamentele repede.",
+      "transliteration": "Sunt aLERgic, aDU-mi meDICAmentele REpede.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "My throat feels swollen, it s scary.",
+      "romanian": "Gâtul mi se umflă, e îngrozitor.",
+      "transliteration": "GȚUL mi se UMFLĂ, e ÎNGRoZitor.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I need to freeze this card now.",
+      "romanian": "Trebuie să îngheț cardul acum.",
+      "transliteration": "TREBUIE sa INGHET cardul ACUM.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Is there a daily withdrawal limit?",
+      "romanian": "Există o limită zilnică la retrageri?",
+      "transliteration": "EXISTA o LIMIta ZILNICa la RETRAGERI?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I want to deposit cash today.",
+      "romanian": "Vreau să depun bani cash azi.",
+      "transliteration": "VREAU sa DEPUN bani CASH AZI.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can I pay by bank transfer?",
+      "romanian": "Pot plăti prin transfer bancar?",
+      "transliteration": "POT PLATI prin TRANSFER BANCAR?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Show me the exchange rate, please.",
+      "romanian": "Arată-mi cursul de schimb, te rog.",
+      "transliteration": "ARATA-mi CURSUL de SCHIMB, te ROG.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Does this include VAT or not?",
+      "romanian": "Prețul include TVA, sau nu?",
+      "transliteration": "PREtul INcLude TVA, saU NU?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can you explain overdraft charges?",
+      "romanian": "Îmi puteți explica comisioanele la descoperit de cont?",
+      "transliteration": "IMI PUTETI explica COMISIOANEle la DESCOPERIT de CONT?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Come home, I made your favorite.",
+      "romanian": "Vino acasă, ți-am făcut mâncarea ta preferată.",
+      "transliteration": "vi-no A-ca-sa, ti-am FĂ-cut mân-ca-ra ta pre-fE-ratĂ",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "We need to talk, just us.",
+      "romanian": "Trebuie să vorbim, doar noi.",
+      "transliteration": "tre-bu-ie sĂ VO-rbim, do-ar NOI",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Can you watch the kids tonight?",
+      "romanian": "Poți să stai cu copiii în seara asta?",
+      "transliteration": "poți sĂ stai cu co-pi-ii în se-a-ra a-as-ta",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Shoes by the door, please.",
+      "romanian": "Ghetuțele lângă ușă, te rog.",
+      "transliteration": "ge-tu-țe-le lângĂ u-șĂ, te ROG",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Let’s fold laundry together, slowly.",
+      "romanian": "Hai să împăturim rufele împreună, încet.",
+      "transliteration": "hai sĂ îm-pă-tu-rim ru-fe-le îm-preu-nĂ, în-cet",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "I’ll start dinner, you set the table.",
+      "romanian": "Încep eu cina, tu așază farfuriile.",
+      "transliteration": "în-cEP eU ci-na, tu a-șĂ-ză far-Fu-ri-i-le",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
+    },
+    {
+      "english": "Your room smells clean now.",
+      "romanian": "Camera ta miroase a curat acum.",
+      "transliteration": "cam-e-ra ta mi-ro-a-se a cu-rat A-cum",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T21:00:07.501115"
     }
   ],
-  "last_updated": "2026-11-21T20:52:26.037184"
+  "last_updated": "2026-11-22T21:00:07.501115"
 }
