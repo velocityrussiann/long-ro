@@ -23441,7 +23441,399 @@
       "transliteration": "Pot sa NU sunt de Acord, RESPECTUOS.",
       "category": "Confidence",
       "generated_at": "2026-11-24T02:06:18.919089"
+    },
+    {
+      "english": "Hi, are you there right now?",
+      "romanian": "Bună, ești acolo acum?",
+      "transliteration": "BuNĂ, eȘTI aCOLO aCUM?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Could you text me instead of calling?",
+      "romanian": "Poți să-mi trimiți un mesaj, nu un apel?",
+      "transliteration": "PoȚI să-mi TRIMIȚI un meSAJ, NU un aPEL?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I can talk for five minutes.",
+      "romanian": "Pot vorbi cinci minute.",
+      "transliteration": "PoT VO Rbi CINci MI NUTE.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Call me when you’re free, please.",
+      "romanian": "Sună-mă când ai timp, te rog.",
+      "transliteration": "SuNĂ-mă când ai TIMP, te ROG.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Sorry, the signal cut out.",
+      "romanian": "Scuze, s-a întrerupt conexiunea.",
+      "transliteration": "SCUZe, s-a înTRERUPT conEXIuNEA.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I’m outside, so talk quietly.",
+      "romanian": "Sunt afară, vorbește mai încet, te rog.",
+      "transliteration": "SUNT aFARĂ, VO rBEȘTE mai înCET, te ROG.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I’ll call you back in a bit.",
+      "romanian": "Te sun înapoi imediat ce termin.",
+      "transliteration": "Te SUN iNAPoi iMEdiat ce TERmin.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "One more pastry, then I breathe.",
+      "romanian": "Încă o prăjitură, apoi respir.",
+      "transliteration": "Inca o prajitura, apOi respir.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "What smells best right now?",
+      "romanian": "Ce mirosește cel mai bine acum?",
+      "transliteration": "Ce miroasește cel mai bine acum?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Can I smell the bread first?",
+      "romanian": "Pot să miros pâinea întâi?",
+      "transliteration": "Pot sa miroS painea intai?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I’ll take a warm bun, please.",
+      "romanian": "Vreau o chiflă caldă, vă rog.",
+      "transliteration": "Vreau o CHIFLA calda, va rog.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Let’s make it cozy today.",
+      "romanian": "Hai să fie cât mai cozy azi.",
+      "transliteration": "Hai sa fie cat mai COZY aZi.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Do you have something chocolatey?",
+      "romanian": "Aveți ceva cu ciocolată?",
+      "transliteration": "Aveti ceva cu ciocolATA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I want cinnamon, not too sweet.",
+      "romanian": "Vreau scorțișoară, nu prea dulce.",
+      "transliteration": "Vreau scorTiSoara, nu prea duLCE.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Pick one word and use it now.",
+      "romanian": "Alege un singur cuvânt și folosește-l acum.",
+      "transliteration": "Alege un singur cuvânt si FOLOSEȘTE-l acum.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Treat Romanian like a daily workout.",
+      "romanian": "Tratează româna ca pe un antrenament zilnic.",
+      "transliteration": "Tratează româna ca pe un anTREnaMent ziLNIC.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Make it fun, then it sticks.",
+      "romanian": "Fă-l distractiv, și rămâne în tine.",
+      "transliteration": "Fa-l disTRACtiv, si rămâne în tiNE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "You already know more than you think.",
+      "romanian": "Știi deja mai mult decât crezi.",
+      "transliteration": "Știi deJA mai mult decâT CREZi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Say hello first, speak after.",
+      "romanian": "Spune mai întâi bună ziua, apoi continui.",
+      "transliteration": "Spune mai întâi BU-nă ziUA, aPoi conTINUi.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Change your routine, not your goal.",
+      "romanian": "Schimbă rutina, nu scopul.",
+      "transliteration": "Schimbă RU-ti-na, nu SCOpul.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "When you freeze, ask a simple question.",
+      "romanian": "Când îngheți, pune o întrebare simplă.",
+      "transliteration": "Când ÎNGEȚi, puNE o înTREbare simPLĂ.",
+      "category": "Motivation",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I’m smiling for no reason today.",
+      "romanian": "Sunt zâmbind fără niciun motiv azi.",
+      "transliteration": "Sunt ZÂMBIND fără NCIUN motiv AZI.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "My body feels at home, finally.",
+      "romanian": "Corpul meu se simte acasă, în sfârșit.",
+      "transliteration": "CORPUL meu se SIMTE aCASĂ, în SFÂRȘIT.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I got my favorite snack, yay.",
+      "romanian": "Am primit gustarea mea preferată, vai de bucurie.",
+      "transliteration": "Am priMIT gustarea MEA preFERATĂ, vai de BUCURIE.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "The world feels kind right now.",
+      "romanian": "Lumea mi se pare blândă chiar acum.",
+      "transliteration": "LUmea mi se PARe BLÂNDĂ chiar AUM.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I walked in, and I felt safe.",
+      "romanian": "Am intrat și m-am simțit în siguranță.",
+      "transliteration": "Am INTRAT și m-am SIMțit în SIguranță.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Someone said my name, and I lit up.",
+      "romanian": "Cineva mi-a spus numele, și am strălucit.",
+      "transliteration": "CIneva mi-a SPUS nuMELE, și am STRĂLUCIT.",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I mailed that letter, relief!",
+      "romanian": "Am trimis scrisoarea, ce ușurare!",
+      "transliteration": "Am TRI mis scriSOarea, ce uȘURARE!",
+      "category": "Joy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I build strength by showing up",
+      "romanian": "Consolidez forța doar arătând la timp.",
+      "transliteration": "Consolidez FORȚA doar ARĂTÂND la TIMP.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I turn stress into steady action",
+      "romanian": "Transform stresul în pași stabili.",
+      "transliteration": "TransFORM stresul in PAȘI STABILI.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Even small wins make me stronger",
+      "romanian": "Și victoriile mici mă fac mai puternic.",
+      "transliteration": "Și vicTORIIle MICi mă FAC mai POtERNIC.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I lift, then I breathe, then go",
+      "romanian": "Ridic, respir, apoi continui.",
+      "transliteration": "RIdic, resPI R, Apoi conTINUi.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "My power is in consistent reps",
+      "romanian": "Puterea mea vine din repetări corecte.",
+      "transliteration": "PuTEREA mea viNE din rePEtări coRECte.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I train my mind to endure",
+      "romanian": "Antrenez mintea să reziste calm.",
+      "transliteration": "ANtrenez minTEA să REZIs tE calm.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I take the hard step first",
+      "romanian": "Fac primul pas greu, chiar acum.",
+      "transliteration": "Fac priMUL pas GREU, chiar AUm.",
+      "category": "Strength",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I hope, even with shaky mornings.",
+      "romanian": "Sper chiar și în diminețile șubrede.",
+      "transliteration": "Sper CHIAR si in dIMinețile SUBrede.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I reach out, one honest sentence.",
+      "romanian": "Răspund cu un mesaj sincer, cât de mic.",
+      "transliteration": "RaSPUNd cu un meSAj sinCER, cat de MIC.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Hope starts when I unclench my jaw.",
+      "romanian": "Speranța începe când îmi relaxez maxilarul.",
+      "transliteration": "SpeRAnta inCEpe cand imi reLAXez maXILarul.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I write it down, then let it go.",
+      "romanian": "Scriu ce simt, apoi las grijile să plece.",
+      "transliteration": "SCriu ce SIMt, aPOi las griJile sa PLEce.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Today, I choose the next right thing.",
+      "romanian": "Azi aleg următorul lucru bun, pe rând.",
+      "transliteration": "AZi aLEG urMAtorul LUcru bun, pe RAND.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I keep my heart open, softly.",
+      "romanian": "Îmi țin inima deschisă, cu blândețe.",
+      "transliteration": "Im țIN iMIma deSCHISa, cu BLandețe.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I can feel low and still hope.",
+      "romanian": "Pot să mă simt jos și totuși să sper.",
+      "transliteration": "Pot sa ma SIMt jos si TOTUși sa SPER.",
+      "category": "Hope",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I have a sore throat since Monday",
+      "romanian": "Am o durere de gât de luni",
+      "transliteration": "Am o DUReRe de GÂT de LUNI",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "My ear hurts, it started last night",
+      "romanian": "Mă doare urechea, a început aseară",
+      "transliteration": "Mă DOAre UREchea, a început aSEAră",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I need a flu shot, where do I go?",
+      "romanian": "Am nevoie de vaccin antigripal, unde merg?",
+      "transliteration": "Am NEvoie de VACcin ANtiGRiPAL, UNDe MERG?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Can you check my temperature, please?",
+      "romanian": "Puteți să-mi verificați temperatura, vă rog?",
+      "transliteration": "PuTeți să-mi veRIFicați TEMpeRAtuRa, vă ROG?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Do I need antibiotics for this?",
+      "romanian": "Am nevoie de antibiotice pentru asta?",
+      "transliteration": "Am NEvoie de ANtibiOTice penTRU aSTA?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I have a rash, what could it be?",
+      "romanian": "Am o erupție, ce ar putea fi?",
+      "transliteration": "Am o eRUPție, ce ar puTEA fi?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "Can I see a doctor today?",
+      "romanian": "Pot să văd un doctor azi?",
+      "transliteration": "Pot să VĂD un DOctor aZI?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I wash my face, then moisturize",
+      "romanian": "Îmi spăl fața, apoi pun cremă hidratantă.",
+      "transliteration": "Imi spal FATA, apoi pun CREMA hidratanta.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I make my bed with care",
+      "romanian": "Îmi aranjez patul încet, ca să pară ordonat.",
+      "transliteration": "Imi aranjez PATUL incet, ca sa para ORDOnat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I do a quick stretch at home",
+      "romanian": "Fac puțină întindere înainte să plec.",
+      "transliteration": "Fac PUTINA intindere inainte sa PLEc.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I tidy my desk for five minutes",
+      "romanian": "Dau o ordine pe birou, cinci minute.",
+      "transliteration": "Dau o ORDINE pe BIrou, cinci MINUte.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I grab breakfast to go today",
+      "romanian": "Ia uite, azi mănânc rapid, pe fugă.",
+      "transliteration": "Ia UITE, azi MANanc rapid, pe FUga.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I pour tea instead of coffee",
+      "romanian": "Îmi fac ceai, nu cafea, azi.",
+      "transliteration": "Imi FAC ceai, nu CAFea, azi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
+    },
+    {
+      "english": "I take vitamins with water",
+      "romanian": "IaU vitaminele cu un pahar cu apă.",
+      "transliteration": "IAU viTAminele cu un PAHAR cu APA.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T23:50:44.876091"
     }
   ],
-  "last_updated": "2026-11-24T02:06:18.919089"
+  "last_updated": "2026-11-24T23:50:44.876091"
 }
