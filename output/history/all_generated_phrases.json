@@ -24617,7 +24617,399 @@
       "transliteration": "Alege proGreSUL, nu perFECțiuNEA, azI",
       "category": "Self Improvement",
       "generated_at": "2026-11-26T23:38:02.713956"
+    },
+    {
+      "english": "Could I have it without salt, please?",
+      "romanian": "Pot să îl am fără sare, vă rog?",
+      "transliteration": "Pot sa il am FARA sare, va rog?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I’d like extra bread, please.",
+      "romanian": "Aș dori pâine în plus, vă rog.",
+      "transliteration": "As dori paiNE IN plus, va rog.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Can I get it with a salad?",
+      "romanian": "Îmi puteți da cu o salată, vă rog?",
+      "transliteration": "Imi puteti da cu o saLAta, va rog?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "What comes with the main dish?",
+      "romanian": "Ce vine inclus cu felul principal?",
+      "transliteration": "Ce viNE inCLUS cu feLUL princiPAL?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Can I swap fries for pasta?",
+      "romanian": "Pot să schimb cartofii prăjiți cu paste?",
+      "transliteration": "Pot sa SCHIMB cartofii prajiTI cu paSTE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Is this spicy, or mild?",
+      "romanian": "E picant, sau e blând?",
+      "transliteration": "E piCANT, sau e BLAND?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "No pepper, please, it irritates me.",
+      "romanian": "Fără piper, vă rog, mă irită.",
+      "transliteration": "Fara piPER, va rog, ma iRIta.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Is there a quiet room option?",
+      "romanian": "Aveți opțiuni de camere mai liniștite?",
+      "transliteration": "A-veți O-pți-uni de ca-me-re mai li-niș-ti-te?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Do you have rooms with a view?",
+      "romanian": "Aveți camere cu vedere?",
+      "transliteration": "A-veți ca-me-re cu ve-de-re?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Is there 24/7 reception desk?",
+      "romanian": "Receptia este deschisă non-stop?",
+      "transliteration": "Re-cep-ția es-te des-chisă non-stop?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Can I store my luggage?",
+      "romanian": "Puteți să-mi păstrați bagajele?",
+      "transliteration": "Pu-teți să-mi păs-trați ba-ga-je-le?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Do you offer airport shuttle?",
+      "romanian": "Oferiți transfer de la și la aeroport?",
+      "transliteration": "O-fe-riți trans-fer de la și la ae-ro-port?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "What’s the Wi-Fi name and password?",
+      "romanian": "Care este numele Wi-Fi și parola?",
+      "transliteration": "Ca-re es-te nu-me-le Wi-Fi și pa-ro-la?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Is there a minibar in the room?",
+      "romanian": "Există minibar în cameră?",
+      "transliteration": "E-xistă mi-ni-bar în ca-me-ră?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "What time works for you, exactly?",
+      "romanian": "La ce oră îți convine, exact?",
+      "transliteration": "La ce ORA iti convine, EXACT?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I want to set a reminder.",
+      "romanian": "Vreau să setez o notificare.",
+      "transliteration": "VREAU sa SETEZ o NOTIFICARE.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Can we reschedule for next week?",
+      "romanian": "Putem reprograma pentru săptămâna viitoare?",
+      "transliteration": "PUTEM reprograma pentru SAPTAMANA viitoare?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I’ll call you before we leave.",
+      "romanian": "Te sun înainte să plecăm.",
+      "transliteration": "Te SUN inainte sa PLECAM.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Let’s plan the route and stops.",
+      "romanian": "Să stabilim ruta și opririle.",
+      "transliteration": "Sa STABILIM RUTA si OPRIRILE.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I’m checking availability for everyone.",
+      "romanian": "Verific disponibilitatea pentru toți.",
+      "transliteration": "VERIFIC disponibilitatea pentru TOTI.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "We need a backup plan, just in case.",
+      "romanian": "Avem nevoie de un plan de rezervă, în caz de ceva.",
+      "transliteration": "Avem nevoie de un PLAN de REZERVA, in CAZ de ceva.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Even today, I can pause and choose.",
+      "romanian": "Chiar și azi, pot să mă opresc și să aleg.",
+      "transliteration": "Chiar si AZI, pot sa ma OPRoesc si sa ALEg.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Put the brakes on, softly.",
+      "romanian": "Pune frâna pe încet, ca să nu te mai stresezi.",
+      "transliteration": "PunE fraNA pe inCet, ca sa nu te mai STresezi.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Breathe out, let tension go.",
+      "romanian": "Expiră, lasă tensiunea să plece.",
+      "transliteration": "ExPIRa, laSA TENsiunea sa pleCE.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I’ll do enough, not everything.",
+      "romanian": "Fac destul, nu totul.",
+      "transliteration": "FAC DEStul, nu TOtul.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Stay steady, even if plans change.",
+      "romanian": "Rămân liniștit, chiar dacă se schimbă planurile.",
+      "transliteration": "RaMn LIniștit, chiar daCA se SCHIMBa plaNURile.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "My pace is mine to set.",
+      "romanian": "Ritmul meu îl stabilesc eu.",
+      "transliteration": "RITmul meU il STAbilEsc eu.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Let silence help you reset.",
+      "romanian": "Liniștea mă ajută să mă reglez.",
+      "transliteration": "LiNIstea ma aJUta sa ma reGLedZ.",
+      "category": "Balance",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Okay, I'm in, let's roll.",
+      "romanian": "Bine, sunt în, hai la drum.",
+      "transliteration": "BIne, sunt IN, hai la DRUM.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Give me two seconds, please.",
+      "romanian": "Dă-mi două secunde, te rog.",
+      "transliteration": "DĂ-mi DOuĂ secunde, te ROG.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "That makes sense, for real.",
+      "romanian": "Asta chiar are sens.",
+      "transliteration": "AS ta CHIar are SENS.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Hold up, what did you mean?",
+      "romanian": "Stai un pic, ce ai vrut să zici?",
+      "transliteration": "STAI un PIC, ce ai VRut sa ZICI.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Don't ghost me, just say it.",
+      "romanian": "Nu mă baga la rece, spune direct.",
+      "transliteration": "nu MA baga la RECE, SPUNE diRECT.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "We should talk, no drama.",
+      "romanian": "Hai să vorbim, fără dramă.",
+      "transliteration": "HAI să VORbim, FĂRĂ dramĂ.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I knew it, you called it.",
+      "romanian": "Știam eu, ai avut dreptate.",
+      "transliteration": "ȘTIam eu, ai aVUt dREptate.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Tell me what you celebrate and why.",
+      "romanian": "Spune-mi ce sărbătoriți și de ce.",
+      "transliteration": "spuNE-mi tsE saRBaTORIti si de ce",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I love hearing old legends in stories.",
+      "romanian": "Îmi place să aud legendele vechi din povești.",
+      "transliteration": "imi plaCE sa AUD leGENDele veCHi din POvești",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Do people sing together, right at dusk?",
+      "romanian": "Oamenii cântă împreună, chiar la asfințit?",
+      "transliteration": "OAmeNii CÂNTĂ imPREună, chiAR la asFINȚIT",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "What dish is the must-try here?",
+      "romanian": "Care e mâncarea aceea pe care trebuie s-o gust.",
+      "transliteration": "CARe e MANcaRea aCEea pe caRE TREbuie s-o gust",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Can I join, or is it private?",
+      "romanian": "Pot să mă alătur, sau e ceva doar al lor?",
+      "transliteration": "pot sa mă aLĂtur, sau e CEva doar al lOR",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I’m curious about the origin of this custom.",
+      "romanian": "Sunt curios să aflu de unde vine obiceiul.",
+      "transliteration": "sunt CUriOS sa aFLU de unDE viNE oBICEIul",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Who teaches the young the traditions?",
+      "romanian": "Cine îi învață pe cei tineri tradițiile?",
+      "transliteration": "ciNE îi ÎNvață pe cei TIneri traDIțiIle",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I really needed this, thank you.",
+      "romanian": "chiar am avut nevoie de asta, mulțumesc.",
+      "transliteration": "chiar am avut nevoie de asta, multumesc",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Your help turned my day around.",
+      "romanian": "Ajutorul tău mi-a întors ziua pe dos.",
+      "transliteration": "Ajutorul tau mi-a intors ziua pe dos",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Thank you for being so kind.",
+      "romanian": "Mulțumesc că ești atât de amabil.",
+      "transliteration": "Multumesc ca esti atat de amabil",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I feel seen, and I’m grateful.",
+      "romanian": "Mă simt văzut, și îți sunt recunoscător.",
+      "transliteration": "Ma simt vazut, si iti sunt recunoscator",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Thanks for trusting me with this.",
+      "romanian": "Mulțumesc că ai avut încredere în mine pentru asta.",
+      "transliteration": "Multumesc ca ai avut incredere in mine pentru asta",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "You made it easier to breathe.",
+      "romanian": "Ai făcut să fie mai ușor să respir.",
+      "transliteration": "Ai facut sa fie mai usor sa respir",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Thank you for the timely check-in.",
+      "romanian": "Mulțumesc pentru mesajul de verificare la timp.",
+      "transliteration": "Multumesc pentru mesajul de verificare la timp",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Your words are so comforting.",
+      "romanian": "Vorbele tale sunt atât de liniștitoare.",
+      "transliteration": "vorbele TALE sunt aTÂT de LINiștitoare",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "That was considerate of you.",
+      "romanian": "A fost foarte atent din partea ta.",
+      "transliteration": "a FOST foarTE aTENt din PARtea ta",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Thank you for making things easier.",
+      "romanian": "Mulțumesc că mi-ai făcut lucrurile mai ușoare.",
+      "transliteration": "mulțuMESC că mi-ai FĂcut luCRUrite mai UȘOare",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "You handled that with real care.",
+      "romanian": "Ai gestionat asta cu multă grijă.",
+      "transliteration": "ai geSTIOnaT aSTa cu mulTĂ GRIJĂ",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "I felt respected, genuinely.",
+      "romanian": "Am simțit că sunt respectat, cu adevărat.",
+      "transliteration": "am SIMțit că sunt resPEctat, cu aDEVĂrat",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "Thanks for checking my side too.",
+      "romanian": "Mulțumesc că ai ținut cont și de partea mea.",
+      "transliteration": "mulțuMESC că ai ȚINut cont ȘI de PARtea MEA",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
+    },
+    {
+      "english": "You brought kindness into the room.",
+      "romanian": "Ai adus bunătate în încăpere.",
+      "transliteration": "ai aDUS buNĂtate în ÎNcăpere",
+      "category": "Kindness",
+      "generated_at": "2026-11-27T23:20:16.570842"
     }
   ],
-  "last_updated": "2026-11-26T23:38:02.713956"
+  "last_updated": "2026-11-27T23:20:16.570842"
 }
